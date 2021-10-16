@@ -3,12 +3,12 @@
 	<head>
 		<title>wunderland.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 09:04:57 GMT</dateCreated>
-		<dateModified>Sat, 16 Oct 2021 10:04:31 GMT</dateModified>
+		<dateModified>Sat, 16 Oct 2021 18:21:33 GMT</dateModified>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<expansionState>1,5,8,11</expansionState>
-		<lastCursor>0</lastCursor>
+		<lastCursor>11</lastCursor>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
 		<urlPublic>http://drummer.scripting.com/jkantel/wunderland.opml</urlPublic>
