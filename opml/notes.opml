@@ -3,19 +3,20 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 17 Oct 2021 17:29:02 GMT</dateModified>
+		<dateModified>Sun, 17 Oct 2021 18:59:48 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,10</expansionState>
+		<expansionState>1,2,4,5,11,14</expansionState>
 		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 17" created="Sun, 17 Oct 2021 16:45:08 GMT" type="calendarDay" name="17">
-				<outline text="&lt;b&gt;Präsentieren mit Marp (Next)&lt;/b&gt;" created="Sun, 17 Oct 2021 08:42:24 GMT">
+				<outline text="Zur Vorbereitung von Blotpost scheint Drummer ein nützliches Merkzeug 🤪 zu sein, quasi eine Zwischenschicht zwischen der unstruktrierten Timeline meines Feedreaders und dem eigentlichen Blogbeitrag." created="Sun, 17 Oct 2021 17:31:32 GMT" type="outline"/>
+				<outline text="&lt;b&gt;Präsentieren mit Marp (Next)&lt;/b&gt;" created="Sun, 17 Oct 2021 08:42:24 GMT" type="outline">
 					<outline text="Marp Websites" created="Sun, 17 Oct 2021 08:48:02 GMT">
 						<outline text="Marp Home" created="Sun, 17 Oct 2021 08:49:16 GMT" type="link" url="https://marp.app/"/>
 						<outline text="Marp Blog" created="Sun, 17 Oct 2021 08:50:04 GMT" type="link" url="https://marp.app/blog"/>
@@ -24,11 +25,15 @@
 					<outline text="Es ist Zeit, auf Marp Next zu wechseln " created="Sun, 17 Oct 2021 08:28:34 GMT" type="link" url="http://blog.schockwellenreiter.de/2020/01/2020011601.html"/>
 					<outline text="Bye-bye PowerPoint. Hello Marp! " created="Sun, 17 Oct 2021 08:31:24 GMT" type="link" url="https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1"/>
 					</outline>
+				<outline text="&lt;b&gt;Live Code Community&lt;/b&gt;: Auf das Internet Archive kann man sich verlassen." created="Sun, 17 Oct 2021 18:51:21 GMT" type="outline">
+					<outline text="Files for live-code-community-installer-mac " created="Sun, 17 Oct 2021 18:53:43 GMT" type="link" url="https://archive.org/download/live-code-community-installer-mac"/>
+					<outline text="Alle noch verfügbaren LiveCode Community Installers …" created="Sun, 17 Oct 2021 18:56:28 GMT" type="link" url="https://archive.org/search.php?query=creator:%22LiveCode,+Inc.%22"/>
+					</outline>
 				</outline>
 			</outline>
 		<outline text="16. Oktober 2021" created="Sat, 16 Oct 2021 18:19:49 GMT">
-			<outline text="Habe eine Datei notes.opml hinzugefügt, um »Bookmarks« zu testen. 🤓 " created="Sat, 16 Oct 2021 18:21:02 GMT"/>
-			<outline text="Emojis gehen auch. Na dann 🍻." created="Sat, 16 Oct 2021 18:25:32 GMT"/>
+			<outline text="Habe eine Datei notes.opml hinzugefügt, um »Bookmarks« zu testen. 🤓 " created="Sat, 16 Oct 2021 18:21:02 GMT" type="outline"/>
+			<outline text="Emojis gehen auch. Na dann 🍻." created="Sat, 16 Oct 2021 18:25:32 GMT" type="outline"/>
 			</outline>
 		</body>
 	</opml>
