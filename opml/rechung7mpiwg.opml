@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>rechung7mpiwg.opml</title>
+		<dateCreated>Sun, 17 Oct 2021 09:43:57 GMT</dateCreated>
+		<dateModified>Sun, 17 Oct 2021 10:54:09 GMT</dateModified>
+		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
+		<ownerName>Jörg Kantel</ownerName>
+		<ownerId>http://twitter.com/jkantel</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>joerg@kantel.de</ownerEmail>
+		<expansionState></expansionState>
+		<lastCursor>9</lastCursor>
+		</head>
+	<body>
+		<outline text="20210803: Issue Diskussion (2 Stunden = 300)" created="Sun, 17 Oct 2021 09:43:57 GMT"/>
+		<outline text="20210804: Lenkungsausschuß (2 Stunden = 300)" created="Sun, 17 Oct 2021 09:45:14 GMT"/>
+		<outline text="20210817: Issue Diskussion (2 Stunden = 300)" created="Sun, 17 Oct 2021 09:47:19 GMT"/>
+		<outline text="20210818: Lenkungsausschuß (1 Stunde = 150)" created="Sun, 17 Oct 2021 09:48:06 GMT"/>
+		<outline text="20210908: Lenkungsausschuß (2 Stunden = 300) " created="Sun, 17 Oct 2021 09:49:01 GMT"/>
+		<outline text="20210921: Issue Diskussion (3 Stunden = 450)" created="Sun, 17 Oct 2021 09:50:09 GMT"/>
+		<outline text="20210922: Lenkungsausschuß (3 Stunden = 450)" created="Sun, 17 Oct 2021 09:51:41 GMT"/>
+		<outline text="20210929: Vortrag DV-Treffen (1 Stunde = 150)" created="Sun, 17 Oct 2021 09:52:38 GMT"/>
+		<outline text="20211005: Issue Diskussion (3 Stunden = 450)" created="Sun, 17 Oct 2021 09:53:58 GMT"/>
+		<outline text="20211007: Lenkungsausschuß (2 Stunden = 300)" created="Sun, 17 Oct 2021 09:54:35 GMT"/>
+		<outline text="Summe: 21 Stunden a 150 € = 3.150 €" created="Sun, 17 Oct 2021 10:03:55 GMT"/>
+		</body>
+	</opml>

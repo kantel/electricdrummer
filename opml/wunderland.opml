@@ -3,12 +3,12 @@
 	<head>
 		<title>wunderland.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 09:04:57 GMT</dateCreated>
-		<dateModified>Sat, 16 Oct 2021 18:21:33 GMT</dateModified>
+		<dateModified>Sun, 17 Oct 2021 11:51:30 GMT</dateModified>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<expansionState>1,5,8,11</expansionState>
-		<lastCursor>11</lastCursor>
+		<expansionState>1,5,8,11,14</expansionState>
+		<lastCursor>15</lastCursor>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
 		<urlPublic>http://drummer.scripting.com/jkantel/wunderland.opml</urlPublic>
@@ -32,6 +32,10 @@
 		<outline text="Rountrees Welt" created="Sat, 16 Oct 2021 09:24:06 GMT">
 			<outline text="Die dritte Welt ist die Welt Harry Rountrees. Er illustrierte 1908 ebenfalls eine sehr schöne Ausgabe von Alice." created="Sat, 16 Oct 2021 09:24:53 GMT"/>
 			<outline text="Harry Rountree starb 1950, seine Werke sind daher seit 1. Januar 2021 gemeinfrei." created="Sat, 16 Oct 2021 09:49:16 GMT"/>
+			</outline>
+		<outline text="Jon R. Neill (oder Alice in Oz)" created="Sun, 17 Oct 2021 11:42:15 GMT">
+			<outline text="Eine mögliche vierte Welt wäre die von John R. Neill (1877-1943). Er illustriert ebenfalls 1908 eine Ausgabe von Alice im Wunderland." created="Sun, 17 Oct 2021 11:44:04 GMT"/>
+			<outline text="Bekannt wurde er aber vor allem durch seine Illustrationen in mehr als 40 Geschichten über das Land of Oz. Eine gute Gelegenheit, Alice mal in die Welt von Oz zu entführen." created="Sun, 17 Oct 2021 11:48:44 GMT"/>
 			</outline>
 		</body>
 	</opml>

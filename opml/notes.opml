@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 17 Oct 2021 09:11:53 GMT</dateModified>
+		<dateModified>Sun, 17 Oct 2021 11:32:19 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>2,3,4</expansionState>
-		<lastCursor>7</lastCursor>
+		<expansionState>1,4,5,6</expansionState>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="16. Oktober 2021" created="Sat, 16 Oct 2021 18:19:49 GMT">
@@ -18,7 +18,7 @@
 			<outline text="Emojis gehen auch. Na dann 🍻." created="Sat, 16 Oct 2021 18:25:32 GMT"/>
 			</outline>
 		<outline text="17. Oktober 2021" created="Sun, 17 Oct 2021 08:27:24 GMT">
-			<outline text="Präsentieren mit Marp (Next)" created="Sun, 17 Oct 2021 08:42:24 GMT">
+			<outline text="&lt;b&gt;Präsentieren mit Marp (Next)&lt;/b&gt;" created="Sun, 17 Oct 2021 08:42:24 GMT">
 				<outline text="Marp Websites" created="Sun, 17 Oct 2021 08:48:02 GMT">
 					<outline text="Marp Home" created="Sun, 17 Oct 2021 08:49:16 GMT" type="link" url="https://marp.app/"/>
 					<outline text="Marp Blog" created="Sun, 17 Oct 2021 08:50:04 GMT" type="link" url="https://marp.app/blog"/>
