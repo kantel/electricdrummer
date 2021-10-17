@@ -3,30 +3,32 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 17 Oct 2021 11:32:19 GMT</dateModified>
+		<dateModified>Sun, 17 Oct 2021 17:29:02 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,4,5,6</expansionState>
+		<expansionState>1,2,3,4,10</expansionState>
 		<lastCursor>10</lastCursor>
 		</head>
 	<body>
+		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 17" created="Sun, 17 Oct 2021 16:45:08 GMT" type="calendarDay" name="17">
+				<outline text="&lt;b&gt;Präsentieren mit Marp (Next)&lt;/b&gt;" created="Sun, 17 Oct 2021 08:42:24 GMT">
+					<outline text="Marp Websites" created="Sun, 17 Oct 2021 08:48:02 GMT">
+						<outline text="Marp Home" created="Sun, 17 Oct 2021 08:49:16 GMT" type="link" url="https://marp.app/"/>
+						<outline text="Marp Blog" created="Sun, 17 Oct 2021 08:50:04 GMT" type="link" url="https://marp.app/blog"/>
+						<outline text="Marp @ GitHub" created="Sun, 17 Oct 2021 09:09:45 GMT" type="link" url="https://github.com/marp-team/marp/"/>
+						</outline>
+					<outline text="Es ist Zeit, auf Marp Next zu wechseln " created="Sun, 17 Oct 2021 08:28:34 GMT" type="link" url="http://blog.schockwellenreiter.de/2020/01/2020011601.html"/>
+					<outline text="Bye-bye PowerPoint. Hello Marp! " created="Sun, 17 Oct 2021 08:31:24 GMT" type="link" url="https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1"/>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="16. Oktober 2021" created="Sat, 16 Oct 2021 18:19:49 GMT">
 			<outline text="Habe eine Datei notes.opml hinzugefügt, um »Bookmarks« zu testen. 🤓 " created="Sat, 16 Oct 2021 18:21:02 GMT"/>
 			<outline text="Emojis gehen auch. Na dann 🍻." created="Sat, 16 Oct 2021 18:25:32 GMT"/>
-			</outline>
-		<outline text="17. Oktober 2021" created="Sun, 17 Oct 2021 08:27:24 GMT">
-			<outline text="&lt;b&gt;Präsentieren mit Marp (Next)&lt;/b&gt;" created="Sun, 17 Oct 2021 08:42:24 GMT">
-				<outline text="Marp Websites" created="Sun, 17 Oct 2021 08:48:02 GMT">
-					<outline text="Marp Home" created="Sun, 17 Oct 2021 08:49:16 GMT" type="link" url="https://marp.app/"/>
-					<outline text="Marp Blog" created="Sun, 17 Oct 2021 08:50:04 GMT" type="link" url="https://marp.app/blog"/>
-					<outline text="Marp @ GitHub" created="Sun, 17 Oct 2021 09:09:45 GMT" type="link" url="https://github.com/marp-team/marp/"/>
-					</outline>
-				<outline text="Es ist Zeit, auf Marp Next zu wechseln " created="Sun, 17 Oct 2021 08:28:34 GMT" type="link" url="http://blog.schockwellenreiter.de/2020/01/2020011601.html"/>
-				<outline text="Bye-bye PowerPoint. Hello Marp! " created="Sun, 17 Oct 2021 08:31:24 GMT" type="link" url="https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1"/>
-				</outline>
 			</outline>
 		</body>
 	</opml>
