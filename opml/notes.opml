@@ -3,19 +3,39 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 17 Oct 2021 18:59:48 GMT</dateModified>
+		<dateModified>Mon, 18 Oct 2021 18:17:50 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,4,5,11,14</expansionState>
+		<expansionState>1,2,3,7,9,15,17,18,24,27</expansionState>
 		<lastCursor>10</lastCursor>
+		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
+		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 18" created="Mon, 18 Oct 2021 17:14:13 GMT" type="calendarDay" name="18">
+				<outline text="&lt;b&gt;Game Engines for Poets&lt;/b&gt;" created="Mon, 18 Oct 2021 17:14:14 GMT" type="outline">
+					<outline text="Twine und Ren'py für &lt;i&gt;Interactive Fiction&lt;/i&gt; und &lt;i&gt;Visual Novels&lt;/i&gt;  (Story Telling)" created="Mon, 18 Oct 2021 17:15:47 GMT"/>
+					<outline text="Bitsy für minimalistische Abenteuer und Rätsel (ebenfalls mit dem Anspruch, Geschichten zu erzählen)" created="Mon, 18 Oct 2021 17:23:40 GMT"/>
+					<outline text="PuzzleScript für Rätselspiele á la Sokoban" created="Mon, 18 Oct 2021 17:24:59 GMT"/>
+					<outline text="Für alles andere wie zum Beispiel (2D-) Videospiele: Pygame (Zero) und Processing.py" created="Mon, 18 Oct 2021 17:18:57 GMT">
+						<outline text="P5.js wenn es für das Web sein soll" created="Mon, 18 Oct 2021 17:29:10 GMT"/>
+						</outline>
+					<outline text="Apropos Web" created="Mon, 18 Oct 2021 17:30:25 GMT">
+						<outline text=" Twine, Bitsy und PuzzleScript sind &lt;i&gt;native&lt;/i&gt; HTML5 Anwendungen" created="Mon, 18 Oct 2021 17:32:29 GMT"/>
+						<outline text="Ren'Py besitzt einen (noch experimmentellen) HTML5-Export" created="Mon, 18 Oct 2021 17:34:18 GMT"/>
+						<outline text="Im Fall von Processing(.py) weicht man auf P5.js aus, den JavaScript-Mode von Processing" created="Mon, 18 Oct 2021 17:36:02 GMT"/>
+						<outline text="Nur bei Pygame (Zero) hat das Web systembedingt keine Chance" created="Mon, 18 Oct 2021 17:37:27 GMT"/>
+						<outline text="✏️ Notiz an mich: Testen, wie sich die HTML5 Apps auf Glitch oder itch.io hochladen (und ausführen) lassen  — zu Glitch gibt es ein Video-Tutorial von &lt;i&gt;Daniel Shiffman&lt;/i&gt;  (&lt;a href=&quot;https://www.youtube.com/watch?v=Rz886HkV1j4&quot;&gt;Deployment (Glitch and Heroku&lt;/a&gt;) und für itch.io eines von &lt;i&gt;Eric  Guadara&lt;/i&gt; (&lt;a href=&quot; https:=&quot; &quot;=&quot;&quot; www.youtube.com=&quot;&quot; watch?v=&quot;v_ms56OWP8M&quot;&gt;Publish Your Twine Game to Itch.io&lt;/a&gt;) " created="Mon, 18 Oct 2021 17:51:39 GMT"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="October 17" created="Sun, 17 Oct 2021 16:45:08 GMT" type="calendarDay" name="17">
-				<outline text="Zur Vorbereitung von Blotpost scheint Drummer ein nützliches Merkzeug 🤪 zu sein, quasi eine Zwischenschicht zwischen der unstruktrierten Timeline meines Feedreaders und dem eigentlichen Blogbeitrag." created="Sun, 17 Oct 2021 17:31:32 GMT" type="outline"/>
+				<outline text="Zur Vorbereitung von Blogpost scheint Drummer ein nützliches Merkzeug 🤪 zu sein, quasi eine Zwischenschicht zwischen der unstruktrierten Timeline meines Feedreaders und dem eigentlichen Blogbeitrag." created="Sun, 17 Oct 2021 17:31:32 GMT" type="outline"/>
 				<outline text="&lt;b&gt;Präsentieren mit Marp (Next)&lt;/b&gt;" created="Sun, 17 Oct 2021 08:42:24 GMT" type="outline">
 					<outline text="Marp Websites" created="Sun, 17 Oct 2021 08:48:02 GMT">
 						<outline text="Marp Home" created="Sun, 17 Oct 2021 08:49:16 GMT" type="link" url="https://marp.app/"/>
