@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Mon, 18 Oct 2021 18:17:50 GMT</dateModified>
+		<dateModified>Tue, 19 Oct 2021 07:41:11 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
 		<expansionState>1,2,3,7,9,15,17,18,24,27</expansionState>
-		<lastCursor>10</lastCursor>
+		<lastCursor>6</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -21,7 +21,7 @@
 				<outline text="&lt;b&gt;Game Engines for Poets&lt;/b&gt;" created="Mon, 18 Oct 2021 17:14:14 GMT" type="outline">
 					<outline text="Twine und Ren'py für &lt;i&gt;Interactive Fiction&lt;/i&gt; und &lt;i&gt;Visual Novels&lt;/i&gt;  (Story Telling)" created="Mon, 18 Oct 2021 17:15:47 GMT"/>
 					<outline text="Bitsy für minimalistische Abenteuer und Rätsel (ebenfalls mit dem Anspruch, Geschichten zu erzählen)" created="Mon, 18 Oct 2021 17:23:40 GMT"/>
-					<outline text="PuzzleScript für Rätselspiele á la Sokoban" created="Mon, 18 Oct 2021 17:24:59 GMT"/>
+					<outline text="PuzzleScript für Rätselspiele á la Sokoban, aber damit lassen sich durchaus auch (rundenbasierte) RPGs und Roguelikes erstellen" created="Mon, 18 Oct 2021 17:24:59 GMT"/>
 					<outline text="Für alles andere wie zum Beispiel (2D-) Videospiele: Pygame (Zero) und Processing.py" created="Mon, 18 Oct 2021 17:18:57 GMT">
 						<outline text="P5.js wenn es für das Web sein soll" created="Mon, 18 Oct 2021 17:29:10 GMT"/>
 						</outline>
