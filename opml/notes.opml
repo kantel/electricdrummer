@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Wed, 20 Oct 2021 07:46:46 GMT</dateModified>
+		<dateModified>Wed, 20 Oct 2021 19:05:11 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,9,10,14,16,22,24,25,31,32,35</expansionState>
-		<lastCursor>31</lastCursor>
+		<expansionState>1,2,5,7,11</expansionState>
+		<lastCursor>7</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -18,6 +18,7 @@
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 20" created="Wed, 20 Oct 2021 05:27:15 GMT" type="calendarDay" name="20">
+				<outline text="&lt;b&gt;Visual Novels (und andere Spiele) mit Google Slides erstellen?&lt;/b&gt;" created="Wed, 20 Oct 2021 18:41:21 GMT" type="outline"/>
 				<outline text="&lt;b&gt;Auf dem Weg zur World Markdown&lt;/b&gt;" created="Wed, 20 Oct 2021 05:27:16 GMT" type="outline">
 					<outline text="Why Mark Text is my favorite markdown editor " created="Wed, 20 Oct 2021 05:28:08 GMT" type="link" url="https://opensource.com/article/21/10/mark-text-markdown-editor"/>
 					<outline text="5 markdown editors I recommend trying " created="Wed, 20 Oct 2021 05:31:49 GMT" type="link" url="https://opensource.com/article/21/10/markdown-editors"/>
