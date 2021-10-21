@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Thu, 21 Oct 2021 07:55:39 GMT</dateModified>
+		<dateModified>Thu, 21 Oct 2021 11:38:26 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
 		<expansionState>1,2,3,4,12,14,18,21,23,27</expansionState>
-		<lastCursor>25</lastCursor>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -18,7 +18,7 @@
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 20" created="Wed, 20 Oct 2021 05:27:15 GMT" type="calendarDay" name="20">
-				<outline text="&lt;b&gt;Visual Novels (und andere Spiele) mit Google Slides erstellen?&lt;/b&gt;" created="Wed, 20 Oct 2021 18:41:21 GMT" type="outline">
+				<outline text="&lt;b&gt;🧜‍♀️ Visual Novels (und andere Spiele) mit Google Slides erstellen?&lt;/b&gt;" created="Wed, 20 Oct 2021 18:41:21 GMT" type="outline">
 					<outline text="&lt;b&gt;Google Slides&lt;/b&gt;" created="Thu, 21 Oct 2021 07:36:46 GMT">
 						<outline text="HOW TO MAKE A VISUAL NOVEL GAME IN GOOGLE SLIDES (super comprehensive, full guide, with examples) " created="Thu, 21 Oct 2021 07:48:15 GMT" type="link" url="https://www.youtube.com/watch?v=F6wN5wY6jB4"/>
 						<outline text="How to make your own Bitmoji scene escape room/breakout " created="Thu, 21 Oct 2021 07:43:34 GMT" type="link" url="https://www.youtube.com/watch?v=iM6xJISCd9s"/>
