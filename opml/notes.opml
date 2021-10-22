@@ -3,20 +3,45 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Thu, 21 Oct 2021 11:38:26 GMT</dateModified>
+		<dateModified>Fri, 22 Oct 2021 11:44:07 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,12,14,18,21,23,27</expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>1,2,4,8,13,14,15,23,25,29,32,34,38</expansionState>
+		<lastCursor>11</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 21" created="Thu, 21 Oct 2021 15:35:59 GMT" type="calendarDay" name="21">
+				<outline text="&lt;b&gt;PuzzleScript – Tutorials und Ideen&lt;/b&gt;" created="Thu, 21 Oct 2021 15:36:00 GMT" type="outline">
+					<outline text="PuzzleScript: The free puzzle-building tool that lets you make games in minutes " created="Thu, 21 Oct 2021 15:37:50 GMT" type="link" url="https://www.pcgamer.com/puzzlescript-the-free-puzzle-building-tool-that-lets-you-make-games-in-minutes/"/>
+					<outline text="How to make a videogame – Part 2: Making a videogame with PuzzleScript " created="Thu, 21 Oct 2021 15:47:44 GMT" type="link" url="https://www.youtube.com/watch?v=LQg3GuQV7oo"/>
+					<outline text="Mechanics – PuzzleScipt Wiki" created="Thu, 21 Oct 2021 15:59:52 GMT" type="link" url="https://puzzlescript.fandom.com/wiki/Mechanics"/>
+					<outline text="&lt;b&gt;PuzzleScript und KI&lt;/b&gt;" created="Thu, 21 Oct 2021 16:05:11 GMT">
+						<outline text="PuzzleScript AI" created="Thu, 21 Oct 2021 15:52:30 GMT" type="link" url="https://groups.csail.mit.edu/icelab/content/puzzlescript-ai"/>
+						<outline text="PuzzleScript+MIS: A tool for co-creating puzzle games! " created="Thu, 21 Oct 2021 16:06:59 GMT" type="link" url="https://dekeyser.ch/puzzlescriptmis/">
+							<outline text="Bachelor-Arbeit »Mixed-Initiative Methods for Designing Sokoban-like Puzzles«" created="Fri, 22 Oct 2021 06:20:43 GMT" type="link" url="https://dekeyser.ch/puzzlescriptmis/thesis.pdf"/>
+							<outline text="Video-Tutorial dazu: HACSTFB - PuzzleScript+MIS " created="Thu, 21 Oct 2021 16:09:22 GMT" type="link" url="https://www.youtube.com/watch?v=UCJMdoyJhbs"/>
+							</outline>
+						</outline>
+					</outline>
+				<outline text="&lt;b&gt;Pyxel, eine Retro-Game-Engine für Python&lt;/b&gt;" created="Thu, 21 Oct 2021 16:14:25 GMT" type="outline">
+					<outline text="Pyxel @ GitHub" created="Thu, 21 Oct 2021 16:17:12 GMT" type="link" url="https://github.com/kitao/pyxel"/>
+					<outline text="Python - Pyxel - Making of a spaceship game! " created="Thu, 21 Oct 2021 16:21:33 GMT" type="link" url="https://www.youtube.com/watch?v=m7msykl-P9I"/>
+					<outline text="Python Retro Game Tutorial" created="Thu, 21 Oct 2021 16:24:15 GMT" type="link" url="https://www.youtube.com/watch?v=Qg16VhEo2Qs"/>
+					<outline text="&lt;b&gt;Pyxel-Tutorials auf LinuxTut&lt;/b&gt;" created="Fri, 22 Oct 2021 10:15:01 GMT">
+						<outline text="The first step to making a game with Pyxel" created="Fri, 22 Oct 2021 10:21:35 GMT" type="link" url="https://www.linuxtut.com/en/c187757987e37b9ba7da/"/>
+						<outline text="Make a game with Pyxel – Use an editor" created="Fri, 22 Oct 2021 10:22:52 GMT" type="link" url="https://www.linuxtut.com/en/2cf51f4edfbda7864929/"/>
+						<outline text="Make a simple maze game with Pyxel " created="Thu, 21 Oct 2021 16:30:33 GMT" type="link" url="https://www.linuxtut.com/en/81464fb52e6d7504d14c/"/>
+						<outline text="Make a simple maze game with Pyxel – Make enemies appear " created="Fri, 22 Oct 2021 10:20:01 GMT" type="link" url="https://www.linuxtut.com/en/b20402d3d92d80edb26f/"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="October 20" created="Wed, 20 Oct 2021 05:27:15 GMT" type="calendarDay" name="20">
 				<outline text="&lt;b&gt;🧜‍♀️ Visual Novels (und andere Spiele) mit Google Slides erstellen?&lt;/b&gt;" created="Wed, 20 Oct 2021 18:41:21 GMT" type="outline">
 					<outline text="&lt;b&gt;Google Slides&lt;/b&gt;" created="Thu, 21 Oct 2021 07:36:46 GMT">
