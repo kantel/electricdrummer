@@ -3,20 +3,26 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 23 Oct 2021 05:59:26 GMT</dateModified>
+		<dateModified>Sat, 23 Oct 2021 18:06:42 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,5,6,7,16,21,25,29,31,34,36,40</expansionState>
-		<lastCursor>17</lastCursor>
+		<expansionState>1,2,3,6,9,10,11,20,26,31,35,37,40,42,46</expansionState>
+		<lastCursor>29</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 23" created="Sat, 23 Oct 2021 09:38:53 GMT" type="calendarDay" name="23">
+				<outline text="&lt;b&gt;Learning PuzzleScript&lt;/b&gt;" created="Sat, 23 Oct 2021 09:38:54 GMT" type="outline">
+					<outline text="&lt;i&gt;Anna Anthropys&lt;/i&gt; Version von »Robot Heist«" created="Sat, 23 Oct 2021 09:40:06 GMT" type="link" url="https://www.puzzlescript.net/play.html?p=6d93144eaf579c18ee744470e3e9d138"/>
+					<outline text="Learning PuzzleScript - Design a maze!" created="Sat, 23 Oct 2021 17:29:12 GMT" type="link" url="https://docs.google.com/document/d/1oN0EWnFOwh_qM1PoXr4m9eZUsV--Gb_iBae3yJX4kZw/edit"/>
+					</outline>
+				</outline>
 			<outline text="October 21" created="Thu, 21 Oct 2021 15:35:59 GMT" type="calendarDay" name="21">
 				<outline text="&lt;b&gt;PuzzleScript – Tutorials und Ideen&lt;/b&gt;" created="Thu, 21 Oct 2021 15:36:00 GMT" type="outline">
 					<outline text="PuzzleScript: The free puzzle-building tool that lets you make games in minutes " created="Thu, 21 Oct 2021 15:37:50 GMT" type="link" url="https://www.pcgamer.com/puzzlescript-the-free-puzzle-building-tool-that-lets-you-make-games-in-minutes/"/>
@@ -52,20 +58,20 @@
 						<outline text="How to Make a »game« in Google Slides " created="Thu, 21 Oct 2021 07:39:32 GMT" type="link" url="https://www.youtube.com/watch?v=gfTgXLtIFP0"/>
 						<outline text="How To Make Interactive Google Slide Games " created="Thu, 21 Oct 2021 07:41:27 GMT" type="link" url="https://www.youtube.com/watch?v=LbV3-19AMEA"/>
 						<outline text="how to make your slides aesthetic | for school, personal use and other! " created="Thu, 21 Oct 2021 07:52:11 GMT" type="link" url="https://www.youtube.com/watch?v=qoFfQVzDpAM"/>
-						<outline text="How to Make INTERACTIVE Google Slides (All the Basics &amp; Then Some!)
-" created="Sat, 23 Oct 2021 05:55:27 GMT" type="link" url="https://www.youtube.com/watch?v=2oJT_CXLeGw"/>
+						<outline text="How to Make INTERACTIVE Google Slides (All the Basics &amp; Then Some!) " created="Sat, 23 Oct 2021 05:55:27 GMT" type="link" url="https://www.youtube.com/watch?v=2oJT_CXLeGw"/>
 						</outline>
 					<outline text="&lt;b&gt;Sonderform »Escape Room«&lt;/b&gt;" created="Fri, 22 Oct 2021 17:11:29 GMT">
 						<outline text="How to make an escape room completely in Google Slides " created="Fri, 22 Oct 2021 17:12:35 GMT" type="link" url="https://www.youtube.com/watch?v=nAaADMx5Tck"/>
-						<outline text="Everything You Need to Know to Make a DIGITAL ESCAPE THE ROOM! Step by Step Tutorial
-" created="Sat, 23 Oct 2021 05:58:26 GMT" type="link" url="https://www.youtube.com/watch?v=RT7sSLKvtxs"/>
+						<outline text="Everything You Need to Know to Make a DIGITAL ESCAPE THE ROOM! Step by Step Tutorial " created="Sat, 23 Oct 2021 05:58:26 GMT" type="link" url="https://www.youtube.com/watch?v=RT7sSLKvtxs"/>
 						<outline text="Google Slides Escape Room " created="Fri, 22 Oct 2021 17:15:23 GMT" type="link" url="https://www.youtube.com/watch?v=Petl3945eSI"/>
 						<outline text="How to Make an Escape the Room Activity with Hidden Pictures (Bitmoji Optional!) " created="Fri, 22 Oct 2021 17:17:47 GMT" type="link" url="https://www.youtube.com/watch?v=QvBbyCMqXVw"/>
+						<outline text="All About Us: A Twist on a Digital Escape Room
+" created="Sat, 23 Oct 2021 17:59:36 GMT" type="link" url="https://www.youtube.com/watch?v=qxtRgdbScmc"/>
 						<outline text="&lt;i&gt;Last but not least: Bitmoji Classrooms! &lt;/i&gt;Make a Bitmoji Scene in Google Slides! (Bitmoji Classroom) " created="Fri, 22 Oct 2021 17:19:40 GMT" type="link" url="https://www.youtube.com/watch?v=jGKTvlUbXxY">
 							<outline text="How to create a Bitmoji Classroom " created="Fri, 22 Oct 2021 17:23:39 GMT" type="link" url="https://www.youtube.com/watch?v=mFjK96S_FOE"/>
 							<outline text="Step-by-Step Bitmoji Classroom Setup " created="Fri, 22 Oct 2021 17:25:16 GMT" type="link" url="https://www.youtube.com/watch?v=ZoYtIhMFTpM"/>
-							<outline text="Google Slides Bitmoji Escape Room Tutorial
-" created="Sat, 23 Oct 2021 05:53:14 GMT" type="link" url="https://www.youtube.com/watch?v=jjKkmRdQ8ac&amp;list=PLZlY6x0ziI7zg_Kom7q_jvMHRumOkb0sB"/>
+							<outline text="Google Slides Bitmoji Escape Room Tutorial " created="Sat, 23 Oct 2021 05:53:14 GMT" type="link" url="https://www.youtube.com/watch?v=jjKkmRdQ8ac&amp;list=PLZlY6x0ziI7zg_Kom7q_jvMHRumOkb0sB"/>
+							<outline text="Bitmoji: A Comprehensive Guide (YouTube Playlist)" created="Sat, 23 Oct 2021 18:01:57 GMT" type="link" url="https://www.youtube.com/playlist?list=PLSA2h-P22yCeDRA__OzTECFT8TTXT1Q60"/>
 							</outline>
 						</outline>
 					<outline text="&lt;b&gt;Mehr über Visual Novels&lt;/b&gt;" created="Thu, 21 Oct 2021 07:27:07 GMT">
