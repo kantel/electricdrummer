@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 23 Oct 2021 18:06:42 GMT</dateModified>
+		<dateModified>Sat, 23 Oct 2021 19:03:27 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,9,10,11,20,26,31,35,37,40,42,46</expansionState>
-		<lastCursor>29</lastCursor>
+		<expansionState>1,2,3,6,9,10,11,20,26,33,37,39,40,43,45,49</expansionState>
+		<lastCursor>40</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -68,7 +68,11 @@
 						<outline text="All About Us: A Twist on a Digital Escape Room
 " created="Sat, 23 Oct 2021 17:59:36 GMT" type="link" url="https://www.youtube.com/watch?v=qxtRgdbScmc"/>
 						<outline text="&lt;i&gt;Last but not least: Bitmoji Classrooms! &lt;/i&gt;Make a Bitmoji Scene in Google Slides! (Bitmoji Classroom) " created="Fri, 22 Oct 2021 17:19:40 GMT" type="link" url="https://www.youtube.com/watch?v=jGKTvlUbXxY">
+							<outline text="Bitmoji erstellen ❘ Schritt für Schritt erklärt
+" created="Sat, 23 Oct 2021 18:50:49 GMT" type="link" url="https://www.youtube.com/watch?v=Rehy3MzH2Ns"/>
 							<outline text="How to create a Bitmoji Classroom " created="Fri, 22 Oct 2021 17:23:39 GMT" type="link" url="https://www.youtube.com/watch?v=mFjK96S_FOE"/>
+							<outline text="Virtuelles Klassenzimmer
+" created="Sat, 23 Oct 2021 18:57:40 GMT" type="link" url="https://www.youtube.com/watch?v=LqRfHDe26m4"/>
 							<outline text="Step-by-Step Bitmoji Classroom Setup " created="Fri, 22 Oct 2021 17:25:16 GMT" type="link" url="https://www.youtube.com/watch?v=ZoYtIhMFTpM"/>
 							<outline text="Google Slides Bitmoji Escape Room Tutorial " created="Sat, 23 Oct 2021 05:53:14 GMT" type="link" url="https://www.youtube.com/watch?v=jjKkmRdQ8ac&amp;list=PLZlY6x0ziI7zg_Kom7q_jvMHRumOkb0sB"/>
 							<outline text="Bitmoji: A Comprehensive Guide (YouTube Playlist)" created="Sat, 23 Oct 2021 18:01:57 GMT" type="link" url="https://www.youtube.com/playlist?list=PLSA2h-P22yCeDRA__OzTECFT8TTXT1Q60"/>
@@ -82,7 +86,9 @@
 					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt;" created="Thu, 21 Oct 2021 07:29:43 GMT">
 						<outline text="Wie man fiktionale Welten erschafft " created="Thu, 21 Oct 2021 07:31:43 GMT" type="link" url="https://www.youtube.com/watch?v=ZQTQSbjecLg"/>
 						<outline text="&lt;b&gt;Ren'Py Tutorials&lt;/b&gt;" created="Thu, 21 Oct 2021 07:25:41 GMT">
-							<outline text="I made a visual novel with RenPy (and I'm not a programmer) " created="Thu, 21 Oct 2021 07:33:33 GMT" type="link" url="https://www.youtube.com/watch?v=lFnRq5Y93GE"/>
+							<outline text="I made a visual novel with RenPy (and I'm not a programmer) " created="Thu, 21 Oct 2021 07:33:33 GMT" type="link" url="https://www.youtube.com/watch?v=lFnRq5Y93GE">
+								<outline text="Hintergrund entfernen: remove.bg" created="Sat, 23 Oct 2021 19:00:14 GMT" type="link" url="https://www.remove.bg/de"/>
+								</outline>
 							</outline>
 						</outline>
 					</outline>
