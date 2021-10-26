@@ -3,20 +3,40 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Mon, 25 Oct 2021 09:37:50 GMT</dateModified>
+		<dateModified>Tue, 26 Oct 2021 12:03:53 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,4,5,8,11,12,13,22,29,36,40,43,45,49</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,5,14,16,18,20,23,24,25,34,41,48,52,55,57,61</expansionState>
+		<lastCursor>8</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 26" created="Tue, 26 Oct 2021 09:28:32 GMT" type="calendarDay" name="26">
+				<outline text="Weiter auf dem Weg zur World-Markdown" created="Tue, 26 Oct 2021 10:16:26 GMT" type="outline">
+					<outline text="Der TOAST UI Editor ist ein freier (MIT-Lizenz), erweiterbarer WYSIWYG Markdown-Editor
+" created="Tue, 26 Oct 2021 10:17:00 GMT" type="link" url="https://github.com/nhn/tui.editor"/>
+					</outline>
+				<outline text="&lt;b&gt;TIC-80&lt;/b&gt;" created="Tue, 26 Oct 2021 09:28:33 GMT" type="outline">
+					<outline text="TIC-80 Home" created="Tue, 26 Oct 2021 09:29:26 GMT" type="link" url="https://tic80.com/"/>
+					<outline text="TIC-80 @ GitHub" created="Tue, 26 Oct 2021 09:31:48 GMT" type="link" url="https://github.com/nesbox/TIC-80"/>
+					<outline text="TIC-80, eine Fantasiekonsole (Code · Kultur · Bonn) " created="Tue, 26 Oct 2021 09:36:00 GMT" type="link" url="https://codekulturbonn.de/tic80.html"/>
+					<outline text="Phantasy Computer TIC-80 Happy programming guide (Amazon Link) " created="Tue, 26 Oct 2021 09:41:51 GMT" type="link" url="https://amzn.to/3GpVVhQ"/>
+					<outline text="LÖVE games running on fantasy console (TIC-80)" created="Tue, 26 Oct 2021 09:47:13 GMT" type="link" url="https://www.youtube.com/watch?v=VOn5mEycm5A"/>
+					<outline text="&lt;b&gt;tic80-vscode&lt;/b&gt;: This is a extension for running lua files in tic80 for mac " created="Tue, 26 Oct 2021 09:54:03 GMT" type="link" url="https://marketplace.visualstudio.com/items?itemName=Gi972.tic80-vscode"/>
+					<outline text="TIC-80 Fantasy Console Sizecoding Seminar " created="Tue, 26 Oct 2021 09:48:21 GMT" type="link" url="https://www.youtube.com/watch?v=V7W4m8fKqmI"/>
+					<outline text="TIC-80 The Missing Manual " created="Tue, 26 Oct 2021 09:52:01 GMT" type="link" url="https://hub.xpub.nl/sandbot/PrototypingTimes/tic80-manual.html"/>
+					<outline text="&lt;b&gt;TIC-80 im Schockwellenreiter&lt;/b&gt;" created="Tue, 26 Oct 2021 10:12:06 GMT">
+						<outline text="Riesenlinkschleuder für (Retro-) Spieleentwickler (und solche, die es werden wollen)
+" created="Tue, 26 Oct 2021 10:13:14 GMT" type="link" url="http://blog.schockwellenreiter.de/2020/12/2020120802.html"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="October 24" created="Sun, 24 Oct 2021 16:07:44 GMT" type="calendarDay" name="24">
 				<outline text="&lt;b&gt;Avatare für Ren'Py&lt;/b&gt;" created="Sun, 24 Oct 2021 16:07:45 GMT" type="outline">
 					<outline text="3 Möglichkeiten, ein Bitmoji ohne Telefon herzustellen " created="Sun, 24 Oct 2021 09:33:09 GMT" type="link" url="https://digideutsche.com/wie-man/3-moeglichkeiten-ein-bitmoji-ohne-telefon-herzustellen/">
@@ -53,6 +73,8 @@
 				<outline text="&lt;b&gt;Learning PuzzleScript&lt;/b&gt;" created="Sat, 23 Oct 2021 09:38:54 GMT" type="outline">
 					<outline text="&lt;i&gt;Anna Anthropys&lt;/i&gt; Version von »Robot Heist«" created="Sat, 23 Oct 2021 09:40:06 GMT" type="link" url="https://www.puzzlescript.net/play.html?p=6d93144eaf579c18ee744470e3e9d138"/>
 					<outline text="Learning PuzzleScript - Design a maze!" created="Sat, 23 Oct 2021 17:29:12 GMT" type="link" url="https://docs.google.com/document/d/1oN0EWnFOwh_qM1PoXr4m9eZUsV--Gb_iBae3yJX4kZw/edit"/>
+					<outline text="PuzzleScript Playlist von Potato Imaginator" created="Tue, 26 Oct 2021 09:20:50 GMT" type="link" url="https://www.youtube.com/playlist?list=PL5VlvsnKT2RoszT3-K2MG-_yVGeHoU2ED"/>
+					<outline text="Playtesting and Puzzledorf: Reflections " created="Tue, 26 Oct 2021 09:57:36 GMT" type="link" url="https://stuartspixelgames.com/2021/10/26/3-keys-to-play-testing-your-game/"/>
 					</outline>
 				</outline>
 			<outline text="October 21" created="Thu, 21 Oct 2021 15:35:59 GMT" type="calendarDay" name="21">
