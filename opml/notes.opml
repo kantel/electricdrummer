@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 26 Oct 2021 12:03:53 GMT</dateModified>
+		<dateModified>Tue, 26 Oct 2021 17:57:31 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,14,16,18,20,23,24,25,34,41,48,52,55,57,61</expansionState>
-		<lastCursor>8</lastCursor>
+		<expansionState>1,2,3,4,10,19,21,23,25,28,29,30,39,46,53,57,60,62,66</expansionState>
+		<lastCursor>3</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,8 +19,13 @@
 		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 26" created="Tue, 26 Oct 2021 09:28:32 GMT" type="calendarDay" name="26">
 				<outline text="Weiter auf dem Weg zur World-Markdown" created="Tue, 26 Oct 2021 10:16:26 GMT" type="outline">
-					<outline text="Der TOAST UI Editor ist ein freier (MIT-Lizenz), erweiterbarer WYSIWYG Markdown-Editor
-" created="Tue, 26 Oct 2021 10:17:00 GMT" type="link" url="https://github.com/nhn/tui.editor"/>
+					<outline text="&lt;b&gt;Logseq: Die Ehe zwischen Markdown und einem Outliner?&lt;/b&gt;" created="Tue, 26 Oct 2021 17:46:45 GMT">
+						<outline text="Logseq  @ GitHub" created="Tue, 26 Oct 2021 17:55:21 GMT" type="link" url="https://github.com/logseq/logseq"/>
+						<outline text="Logseq Documentation" created="Tue, 26 Oct 2021 17:49:08 GMT" type="link" url="https://logseq.github.io/#/page/Contents"/>
+						<outline text="Download Logseq Desktop App" created="Tue, 26 Oct 2021 17:51:25 GMT" type="link" url="https://github.com/logseq/logseq/releases"/>
+						</outline>
+					<outline text="Der TOAST UI Editor ist ein freier (MIT-Lizenz), erweiterbarer WYSIWYG Markdown-Editor " created="Tue, 26 Oct 2021 10:17:00 GMT" type="link" url="https://github.com/nhn/tui.editor"/>
+					<outline text="Cherry Markdown Editor " created="Tue, 26 Oct 2021 17:42:07 GMT" type="link" url="https://github.com/Tencent/cherry-markdown"/>
 					</outline>
 				<outline text="&lt;b&gt;TIC-80&lt;/b&gt;" created="Tue, 26 Oct 2021 09:28:33 GMT" type="outline">
 					<outline text="TIC-80 Home" created="Tue, 26 Oct 2021 09:29:26 GMT" type="link" url="https://tic80.com/"/>
@@ -32,8 +37,7 @@
 					<outline text="TIC-80 Fantasy Console Sizecoding Seminar " created="Tue, 26 Oct 2021 09:48:21 GMT" type="link" url="https://www.youtube.com/watch?v=V7W4m8fKqmI"/>
 					<outline text="TIC-80 The Missing Manual " created="Tue, 26 Oct 2021 09:52:01 GMT" type="link" url="https://hub.xpub.nl/sandbot/PrototypingTimes/tic80-manual.html"/>
 					<outline text="&lt;b&gt;TIC-80 im Schockwellenreiter&lt;/b&gt;" created="Tue, 26 Oct 2021 10:12:06 GMT">
-						<outline text="Riesenlinkschleuder für (Retro-) Spieleentwickler (und solche, die es werden wollen)
-" created="Tue, 26 Oct 2021 10:13:14 GMT" type="link" url="http://blog.schockwellenreiter.de/2020/12/2020120802.html"/>
+						<outline text="Riesenlinkschleuder für (Retro-) Spieleentwickler (und solche, die es werden wollen) " created="Tue, 26 Oct 2021 10:13:14 GMT" type="link" url="http://blog.schockwellenreiter.de/2020/12/2020120802.html"/>
 						</outline>
 					</outline>
 				</outline>
