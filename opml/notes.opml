@@ -3,20 +3,28 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 26 Oct 2021 17:57:31 GMT</dateModified>
+		<dateModified>Thu, 11 Nov 2021 14:40:02 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,10,19,21,23,25,28,29,30,39,46,53,57,60,62,66</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,7,8,9,10,16,25,27,29,31,34,35,36,45,52,59,63,66,68,72</expansionState>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
-		<outline text="October 2021" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
+		<outline text="&lt;b&gt;November 2021&lt;/b&gt;" created="Wed, 10 Nov 2021 17:51:56 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 10" created="Wed, 10 Nov 2021 17:51:57 GMT" type="calendarDay" name="10">
+				<outline text="&lt;b&gt;Post Stroke Idea&lt;/b&gt;: Give Obsidian a Second Try" created="Wed, 10 Nov 2021 17:51:58 GMT" type="link" url="https://www.youtube.com/watch?v=E6ySG7xYgjY"/>
+				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (3)&lt;/b&gt;: 7 Free and Open Source Plotting Tools (For Maths and Stats) " created="Wed, 10 Nov 2021 18:14:43 GMT" type="link" url="https://itsfoss.com/open-source-plotting-apps/"/>
+				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in ThreeJs" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
+				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (1)&lt;/b&gt;: LibreWolf is a Firefox fork that focuses on privacy and security by eliminating telemetry and adding other perks. " created="Wed, 10 Nov 2021 18:18:13 GMT" type="link" url="https://itsfoss.com/librewolf/"/>
+				</outline>
+			</outline>
+		<outline text="&lt;b&gt;October 2021&lt;/b&gt;" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 26" created="Tue, 26 Oct 2021 09:28:32 GMT" type="calendarDay" name="26">
 				<outline text="Weiter auf dem Weg zur World-Markdown" created="Tue, 26 Oct 2021 10:16:26 GMT" type="outline">
 					<outline text="&lt;b&gt;Logseq: Die Ehe zwischen Markdown und einem Outliner?&lt;/b&gt;" created="Tue, 26 Oct 2021 17:46:45 GMT">

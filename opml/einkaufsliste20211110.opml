@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>einkaufsliste20211110.opml</title>
+		<dateCreated>Thu, 11 Nov 2021 14:10:26 GMT</dateCreated>
+		<dateModified>Thu, 11 Nov 2021 14:31:53 GMT</dateModified>
+		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
+		<ownerName>Jörg Kantel</ownerName>
+		<ownerId>http://twitter.com/jkantel</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<ownerEmail>joerg@kantel.de</ownerEmail>
+		<expansionState>1</expansionState>
+		<lastCursor>4</lastCursor>
+		</head>
+	<body>
+		<outline text="&lt;b&gt;Einkaufszettel 11. November 2021&lt;/b&gt;" created="Thu, 11 Nov 2021 14:28:39 GMT">
+			<outline text="12 hartgekochte Eier" created="Thu, 11 Nov 2021 14:11:32 GMT"/>
+			<outline text="1 kleine Stange Lauch" created="Thu, 11 Nov 2021 14:12:17 GMT"/>
+			<outline text="3 rote Paprika" created="Thu, 11 Nov 2021 14:11:53 GMT"/>
+			<outline text="1 Brot (Zwiebelbrot oder Dinkelbrot)" created="Thu, 11 Nov 2021 14:10:26 GMT"/>
+			<outline text="750 g (Schinken-) Schweinegulasch (alternativ: Schweinefilet)" created="Thu, 11 Nov 2021 14:13:20 GMT"/>
+			<outline text="300 g Schweinehackfleisch" created="Thu, 11 Nov 2021 14:14:11 GMT"/>
+			<outline text="500 g Hähnchenbrustfilet" created="Thu, 11 Nov 2021 14:16:19 GMT"/>
+			<outline text="Hundefutter (?)" created="Thu, 11 Nov 2021 14:16:56 GMT"/>
+			<outline text="1 Glas Gewürzgurken" created="Thu, 11 Nov 2021 14:17:21 GMT"/>
+			<outline text="1 Glas Champignons in Scheiben (1. Wahl)" created="Thu, 11 Nov 2021 14:22:11 GMT"/>
+			<outline text="1 Flasche (Bio-) Bratöl" created="Thu, 11 Nov 2021 14:17:45 GMT"/>
+			<outline text="1 Flasche Rapsöl" created="Thu, 11 Nov 2021 14:18:17 GMT"/>
+			<outline text="1 Ring Schweinefleischwurst mit Knoblauch" created="Thu, 11 Nov 2021 14:18:53 GMT"/>
+			<outline text="1 Packung Kartoffelsalat (Berliner Art oder Pellkartoffelsalat)" created="Thu, 11 Nov 2021 14:20:23 GMT"/>
+			</outline>
+		</body>
+	</opml>
