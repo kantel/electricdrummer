@@ -3,19 +3,30 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 14 Nov 2021 12:30:49 GMT</dateModified>
+		<dateModified>Sun, 14 Nov 2021 17:55:07 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,7,8,9,10,16,25,27,29,31,34,35,36,45,52,59,63,66,68,72</expansionState>
-		<lastCursor>64</lastCursor>
+		<expansionState>1,2,3,4,8,9,14,15,16,17,23,32,34,36,38,41,42,43,52,59,66,70,73,75,79</expansionState>
+		<lastCursor>6</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
+		<outline text="November 2021" created="Sun, 14 Nov 2021 15:49:58 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 14" created="Sun, 14 Nov 2021 15:49:59 GMT" type="calendarDay" name="14">
+				<outline text="&lt;b&gt;Drummer Experimente und Docs&lt;/b&gt;" created="Sun, 14 Nov 2021 15:50:00 GMT" type="outline">
+					<outline text="Hier sollte eigentlich ein Bild zu sehen sein." created="Sun, 14 Nov 2021 15:50:18 GMT" type="outline">
+						<outline text="Ist es aber nicht. Muß wohl erst als Blog rausgerendert werden, Testen!" created="Sun, 14 Nov 2021 16:36:07 GMT" image="http://cognitiones.kantel-chaos-team.de/produktivitaet/images/drummer.png"/>
+						</outline>
+					<outline text="&lt;i&gt;Amit Gawande&lt;/i&gt;:  Getting Started Blogging with Drummer " created="Sun, 14 Nov 2021 16:10:42 GMT" type="link" url="https://www.amitgawande.com/2021/10/16/getting-started-blogging.html"/>
+					<outline text="&lt;i&gt;Ton Zijlstra&lt;/i&gt;: On Outlines Outliners and Outline Processing " created="Sun, 14 Nov 2021 16:45:20 GMT" type="link" url="https://www.zylstra.org/blog/2021/11/on-outlines-outliners-and-outline-processing/"/>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="&lt;b&gt;November 2021&lt;/b&gt;" created="Wed, 10 Nov 2021 17:51:56 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 10" created="Wed, 10 Nov 2021 17:51:57 GMT" type="calendarDay" name="10">
 				<outline text="&lt;b&gt;Post Stroke Idea&lt;/b&gt;: Give Obsidian a Second Try" created="Wed, 10 Nov 2021 17:51:58 GMT" type="link" url="https://www.youtube.com/watch?v=E6ySG7xYgjY"/>
