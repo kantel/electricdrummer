@@ -3,19 +3,41 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 16 Nov 2021 11:47:10 GMT</dateModified>
+		<dateModified>Wed, 17 Nov 2021 14:42:14 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,3,8,9,10,14,23,28,29,30,39,46,53,57</expansionState>
-		<lastCursor>26</lastCursor>
+		<expansionState>1,2,3,4,7,9,11,13,15,17,22,23,24,28,37,42,43,44,53,60,67,71</expansionState>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
+		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 16" created="Wed, 17 Nov 2021 10:47:25 GMT" type="calendarDay" name="17">
+				<outline text="&lt;b&gt;Der kleine elektrische Trommelwirbel&lt;/b&gt;" created="Wed, 17 Nov 2021 10:47:26 GMT" type="outline">
+					<outline text="Titelbanner: Zwei Drummer-Boys" created="Wed, 17 Nov 2021 11:12:50 GMT">
+						<outline text="Aus dem Gemälde »The Road March« (1879) von &lt;i&gt;Julian Scott&lt;/i&gt; (1846-1901)" created="Wed, 17 Nov 2021 11:14:09 GMT" type="link" url="https://commons.wikimedia.org/wiki/File:The_Road_March_by_Julian_Scott,_1879.png"/>
+						<outline text="&lt;i&gt;Julian Scott&lt;/i&gt; in der Wikipedia" created="Wed, 17 Nov 2021 11:17:54 GMT" type="link" url="https://en.wikipedia.org/wiki/Julian_Scott"/>
+						</outline>
+					<outline text="Wissenschaft: Leben im Meer folgt mathematischem Gesetz" created="Wed, 17 Nov 2021 10:48:31 GMT" type="link" url="https://www.scinexx.de/news/biowissen/leben-im-meer-folgt-mathematischem-gesetz/">
+						<outline text="Eine Formel beschreibt die Häufigkeit aller Meeresbewohner vom Bakterium bis zum Wal " created="Wed, 17 Nov 2021 10:49:27 GMT"/>
+						</outline>
+					<outline text="Technik: Windows oder Android oder gleich die Weltherrschaft? 🤓" created="Wed, 17 Nov 2021 10:50:03 GMT" type="link" url="https://www.gamingonlinux.com/2021/11/kde-developer-thinks-they-will-become-the-windows-or-android-of-the-foss-world/">
+						<outline text="KDE developer thinks they will become the »Windows or Android« of the FOSS world" created="Wed, 17 Nov 2021 10:51:35 GMT"/>
+						</outline>
+					<outline text="Corona: Meine Lieblings-Erklärbärin mit einem Torwartvergleich" created="Wed, 17 Nov 2021 10:54:36 GMT" type="link" url="https://www.rnd.de/digital/corona-mai-thi-nguyen-kim-spricht-sich-fuer-impfpflicht-aus-7FLAVRZ275E5LIZC3OBYEYFLXU.html">
+						<outline text="Torwartvergleich: Mai Thi Nguyen-Kim erklärt, warum die Impfung trotz der Impfdurchbrüche wirkt " created="Wed, 17 Nov 2021 10:56:21 GMT"/>
+						</outline>
+					<outline text="Sammlungen: Prost!" created="Wed, 17 Nov 2021 10:57:32 GMT" type="link" url="https://publicdomainreview.org/collection/babb-photographs">
+						<outline text="&lt;i&gt;Theresa Babb’s&lt;/i&gt; Photographs of Friendship (ca. 1898) " created="Wed, 17 Nov 2021 10:58:38 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="&lt;b&gt;November 2021&lt;/b&gt;" created="Wed, 10 Nov 2021 17:51:56 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 14" created="Sun, 14 Nov 2021 15:49:59 GMT" type="calendarDay" name="14">
 				<outline text="&lt;b&gt;Drummer Experimente und Docs&lt;/b&gt;" created="Sun, 14 Nov 2021 15:50:00 GMT" type="outline">
