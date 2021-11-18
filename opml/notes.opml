@@ -3,13 +3,13 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Wed, 17 Nov 2021 14:42:14 GMT</dateModified>
+		<dateModified>Thu, 18 Nov 2021 17:55:45 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,7,9,11,13,15,17,22,23,24,28,37,42,43,44,53,60,67,71</expansionState>
+		<expansionState>1,2,4,6,8,9,12,18,24,26,31,32,33,37,46,51,52,53,62,69,76,80</expansionState>
 		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
@@ -17,6 +17,36 @@
 		</head>
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 18" created="Thu, 18 Nov 2021 11:37:29 GMT" type="calendarDay" name="18">
+				<outline text="&lt;b&gt;Ein Chromebook für Dave?&lt;/b&gt;" created="Thu, 18 Nov 2021 13:21:50 GMT" type="link" url="http://scripting.com/2021/11/17/184046.html?title=chromebookForDave">
+					<outline text="Und eines für Jörg?" created="Thu, 18 Nov 2021 13:23:37 GMT"/>
+					</outline>
+				<outline text="&lt;b&gt;Markdown Node Type in Drummer?&lt;/b&gt;" created="Thu, 18 Nov 2021 13:09:53 GMT" type="link" url="http://scripting.com/2021/11/17.html#a221550">
+					<outline text="RFC" created="Thu, 18 Nov 2021 13:11:55 GMT" type="link" url="https://github.com/scripting/drummerRFC/issues/14"/>
+					<outline text="Beispiel (Link zu einer OPML-Datei), type: markdown" created="Thu, 18 Nov 2021 13:10:24 GMT" type="link" url="http://scripting.com/publicfolder/misc/markdownExample.opml">
+						<outline text="Gerendert in Old School" created="Thu, 18 Nov 2021 13:17:02 GMT" type="link" url="http://clueless.lucky.wtf/2021/10/30.html#a174131"/>
+						</outline>
+					</outline>
+				<outline text="&lt;b&gt;Trommelwirbel von heute&lt;/b&gt;" created="Thu, 18 Nov 2021 11:37:30 GMT" type="outline">
+					<outline text="&lt;b&gt;AppFlowy, eine freie Notion-Alternative&lt;/b&gt;" created="Thu, 18 Nov 2021 11:54:44 GMT">
+						<outline text="A Notion like Open-Source App is in Development " created="Thu, 18 Nov 2021 11:55:36 GMT" type="link" url="https://news.itsfoss.com/appflowy-development/"/>
+						<outline text="AppFlowy @ GitHub" created="Thu, 18 Nov 2021 12:09:12 GMT" type="link" url="https://github.com/AppFlowy-IO/appflowy"/>
+						</outline>
+					<outline text="&lt;b&gt;Glitch In Bio, a free and fully customizable »Link in bio« app&lt;/b&gt;" created="Thu, 18 Nov 2021 12:00:06 GMT">
+						<outline text="Eintrag im Glitch-Blog" created="Thu, 18 Nov 2021 12:01:12 GMT" type="link" url="https://blog.glitch.com/post/announcing-glitch-in-bio-the-easiest-way-to-share-your-links"/>
+						<outline text="Startpage auf Glitch: You’re getting a better link page. For free. " created="Thu, 18 Nov 2021 12:04:24 GMT" type="link" url="https://glitch.com/glitch-in-bio"/>
+						</outline>
+					<outline text="Cloudflare Pages now offers Gitlab support" created="Thu, 18 Nov 2021 12:07:18 GMT" type="link" url="https://blog.cloudflare.com/cloudflare-pages-partners-with-gitlab/"/>
+					<outline text="&lt;b&gt;Man(n) will doch nur f*cken&lt;/b&gt;: Wie Scientology auf Datingplattformen neue Anhänger ködert " created="Thu, 18 Nov 2021 12:51:50 GMT" type="link" url="https://hpd.de/artikel/scientology-datingplattformen-neue-anhaenger-koedert-19878"/>
+					<outline text="Weil ich solche Spielereien mag: Leipzigs Online-Stadtplan – Einfach umschalten auf die historische Karte von 1913" created="Thu, 18 Nov 2021 11:56:59 GMT" type="link" url="https://www.l-iz.de/bildung/zeitreise/2021/11/leipzigs-online-stadtplan-einfach-umschalten-auf-die-historische-karte-von-1913-420779"/>
+					<outline text="Noch mehr solcher Spielereien: &lt;i&gt;Dave Winers&lt;/i&gt; Art Show" created="Thu, 18 Nov 2021 12:39:29 GMT">
+						<outline text="Art Show Home" created="Thu, 18 Nov 2021 12:40:22 GMT" type="link" url="http://artshow.scripting.com/"/>
+						<outline text="Art Show How To" created="Thu, 18 Nov 2021 12:41:59 GMT" type="link" url="http://this.how/artshow/"/>
+						<outline text="Art Show Downlad" created="Thu, 18 Nov 2021 12:43:21 GMT" type="link" url="https://github.com/scripting/artDownloader/archive/refs/heads/main.zip"/>
+						<outline text="Art Show Downloader @ GitHub" created="Thu, 18 Nov 2021 12:44:45 GMT" type="link" url="https://github.com/scripting/artDownloader/archive/refs/heads/main.zip"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="November 16" created="Wed, 17 Nov 2021 10:47:25 GMT" type="calendarDay" name="17">
 				<outline text="&lt;b&gt;Der kleine elektrische Trommelwirbel&lt;/b&gt;" created="Wed, 17 Nov 2021 10:47:26 GMT" type="outline">
 					<outline text="Titelbanner: Zwei Drummer-Boys" created="Wed, 17 Nov 2021 11:12:50 GMT">
