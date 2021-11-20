@@ -3,22 +3,34 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 19 Nov 2021 15:12:11 GMT</dateModified>
+		<dateModified>Sat, 20 Nov 2021 15:52:58 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,10,16,18,20,24,26,31,32,34,43,48,49,50,59,66,73,77</expansionState>
-		<lastCursor>32</lastCursor>
+		<expansionState>1,2,3,11,13,18,19,21,30,35,36,37,46,53,60,64</expansionState>
+		<lastCursor>13</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 20" created="Sat, 20 Nov 2021 13:32:31 GMT" type="calendarDay" name="20">
+				<outline text="&lt;b&gt;Noch mehr Spielereien: &lt;i&gt;Dave Winers&lt;/i&gt; Art Show&lt;/b&gt;" created="Thu, 18 Nov 2021 12:39:29 GMT" type="outline">
+					<outline text="Art Show Home" created="Thu, 18 Nov 2021 12:40:22 GMT" type="link" url="http://artshow.scripting.com/"/>
+					<outline text="Art Show How To" created="Thu, 18 Nov 2021 12:41:59 GMT" type="link" url="http://this.how/artshow/"/>
+					<outline text="Art Show Downlad" created="Thu, 18 Nov 2021 12:43:21 GMT" type="link" url="https://github.com/scripting/artDownloader/archive/refs/heads/main.zip"/>
+					<outline text="Art Show Downloader @ GitHub" created="Thu, 18 Nov 2021 12:44:45 GMT" type="link" url="https://github.com/scripting/artDownloader/archive/refs/heads/main.zip"/>
+					</outline>
+				</outline>
 			<outline text="November 19" created="Fri, 19 Nov 2021 12:50:58 GMT" type="calendarDay" name="19">
 				<outline text="&lt;b&gt;Trommelwirbel von heute&lt;/b&gt;" created="Fri, 19 Nov 2021 12:54:28 GMT" type="outline">
+					<outline text="Today's Banner Picture: Dean Village
+" created="Sat, 20 Nov 2021 13:47:38 GMT" type="link" url="https://www.facebook.com/permalink.php?story_fbid=5143398875721874&amp;id=101335036594975">
+						<outline text="Wikipedia-Eintrag" created="Sat, 20 Nov 2021 14:06:32 GMT" type="link" url="https://en.wikipedia.org/wiki/Dean_Village"/>
+						</outline>
 					<outline text="&lt;b&gt;Weiter mit »Ein Chromebook für den Schockwellenreiter?«&lt;/b&gt;" created="Fri, 19 Nov 2021 12:50:59 GMT" type="outline">
 						<outline text="&lt;b&gt;Black Friday (1)&lt;/b&gt;: Amazon verscherbelt Lenovo Tablets und Chromebooks ab 87 Euro " created="Fri, 19 Nov 2021 12:52:12 GMT" type="link" url="https://www.smartdroid.de/amazon-verscherbelt-lenovo-tablets-und-chromebooks-ab-87-euro/"/>
 						<outline text="&lt;b&gt;Black Friday (2)&lt;/b&gt;: Saturn verscherbelt Android-Tablets und Chromebooks schon ab 99 Euro " created="Fri, 19 Nov 2021 12:58:40 GMT" type="link" url="https://www.smartdroid.de/saturn-black-friday-lenovo-tablets-chromebook/"/>
@@ -26,13 +38,8 @@
 						<outline text="Cherry Markdown Editor " created="Tue, 26 Oct 2021 17:42:07 GMT" type="link" url="https://github.com/Tencent/cherry-markdown"/>
 						</outline>
 					<outline text="Weil ich solche Spielereien mag: Leipzigs Online-Stadtplan – Einfach umschalten auf die historische Karte von 1913" created="Thu, 18 Nov 2021 11:56:59 GMT" type="link" url="https://www.l-iz.de/bildung/zeitreise/2021/11/leipzigs-online-stadtplan-einfach-umschalten-auf-die-historische-karte-von-1913-420779"/>
-					<outline text="Noch mehr solcher Spielereien: &lt;i&gt;Dave Winers&lt;/i&gt; Art Show" created="Thu, 18 Nov 2021 12:39:29 GMT">
-						<outline text="Art Show Home" created="Thu, 18 Nov 2021 12:40:22 GMT" type="link" url="http://artshow.scripting.com/"/>
-						<outline text="Art Show How To" created="Thu, 18 Nov 2021 12:41:59 GMT" type="link" url="http://this.how/artshow/"/>
-						<outline text="Art Show Downlad" created="Thu, 18 Nov 2021 12:43:21 GMT" type="link" url="https://github.com/scripting/artDownloader/archive/refs/heads/main.zip"/>
-						<outline text="Art Show Downloader @ GitHub" created="Thu, 18 Nov 2021 12:44:45 GMT" type="link" url="https://github.com/scripting/artDownloader/archive/refs/heads/main.zip"/>
-						</outline>
 					<outline text="&lt;b&gt;Für umme lesen&lt;/b&gt;: (Freie) Programmierbücher bis zum Abwinken" created="Fri, 19 Nov 2021 12:55:43 GMT" type="link" url="https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md"/>
+					<outline text="&lt;b&gt;Leben ohne Microsoft&lt;/b&gt;: Schleswig-Holstein setzt auf LibreOffice und Open Source" created="Sat, 20 Nov 2021 12:02:23 GMT" type="link" url="https://www.computerbase.de/2021-11/verwaltung-und-schule-schleswig-holstein-setzt-auf-libreoffice-und-open-source/"/>
 					</outline>
 				</outline>
 			<outline text="November 18" created="Thu, 18 Nov 2021 11:37:29 GMT" type="calendarDay" name="18">
