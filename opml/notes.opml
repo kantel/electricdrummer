@@ -3,20 +3,45 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 20 Nov 2021 15:52:58 GMT</dateModified>
+		<dateModified>Sun, 21 Nov 2021 16:01:29 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,11,13,18,19,21,30,35,36,37,46,53,60,64</expansionState>
-		<lastCursor>13</lastCursor>
+		<expansionState>1,3,4,12,14,18,19,21,30,35,36,37,46,53,60,64</expansionState>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 21" created="Sun, 21 Nov 2021 11:58:15 GMT" type="calendarDay" name="21">
+				<outline text="&lt;b&gt;Trommelwirbel von heute&lt;/b&gt;" created="Sun, 21 Nov 2021 11:58:16 GMT" type="outline">
+					<outline text="&lt;b&gt;Spahns Resterampe&lt;/b&gt;" created="Sun, 21 Nov 2021 11:59:13 GMT">
+						<outline text="Moderna als Booster-Impfstoff - gut oder Spahns Resterampe? " created="Sun, 21 Nov 2021 11:59:44 GMT" type="link" url="https://www1.wdr.de/nachrichten/boostern-biontech-moderna-spahn-100.html"/>
+						<outline text="Kritik an Spahns BioNTech-Deckelung" created="Sun, 21 Nov 2021 12:46:24 GMT" type="link" url="https://www.tagesschau.de/inland/biontech-spahn-deckelung-101.html"/>
+						<outline text="Schwesig ohne Verständnis für Biontech-Begrenzung " created="Sun, 21 Nov 2021 12:01:11 GMT" type="link" url="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Schwesig-ohne-Verstaendnis-fuer-Biontech-Begrenzung,coronavirus5950.html"/>
+						<outline text="Hausärzteverband sieht durch Biontech-Begrenzung Impfkampagne in Gefahr " created="Sun, 21 Nov 2021 12:15:12 GMT" type="link" url="https://www.rbb24.de/politik/thema/corona/beitraege/2021/11/verteilung-impfstoff-biontech-moderna-berlin-brandenburg-spahn-kritik.html"/>
+						</outline>
+					<outline text="Google Chrome vs Chromium: What’s the difference? " created="Sun, 21 Nov 2021 12:02:15 GMT" type="link" url="https://itsfoss.com/chrome-vs-chromium/"/>
+					<outline text="&lt;b&gt;Mein nächster Hoster: Cloudfare?&lt;/b&gt;" created="Sun, 21 Nov 2021 12:03:21 GMT">
+						<outline text="An Open-Source CMS on the Cloudflare Stack: Introductory Post " created="Sun, 21 Nov 2021 12:04:54 GMT" type="link" url="https://blog.cloudflare.com/production-saas-intro/"/>
+						</outline>
+					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (1)&lt;/b&gt;: LibreWolf is a Firefox fork that focuses on privacy and security by eliminating telemetry and adding other perks. " created="Wed, 10 Nov 2021 18:18:13 GMT" type="link" url="https://itsfoss.com/librewolf/"/>
+					<outline text="&lt;b&gt;Der »deutsche Elvis« ist tot&lt;/b&gt;" created="Sun, 21 Nov 2021 15:03:16 GMT">
+						<outline text="Der deutsche Rock'n'Roll-Musiker Ted Herold ist am Samstagabend bei einem Wohnungsbrand in Dortmund ums Leben gekommen. " created="Sun, 21 Nov 2021 15:04:15 GMT" type="link" url="https://www.tagesschau.de/inland/gesellschaft/ted-herold-tot-101.html"/>
+						<outline text="Ted Herold - die letzte Rock n' Roll Legende des deutschen Schlagers
+" created="Sun, 21 Nov 2021 15:05:28 GMT" type="link" url="https://www.youtube.com/watch?v=KLMMSGNYqTM"/>
+						</outline>
+					<outline text="&lt;b&gt;Kommentare via Twitter?&lt;/b&gt;" created="Sun, 21 Nov 2021 12:26:12 GMT"/>
+					<outline text="&lt;b&gt;Das heutige Bannerbild&lt;/b&gt;" created="Sun, 21 Nov 2021 12:06:09 GMT">
+						<outline text="Anna Billing in der Wikipedia" created="Sun, 21 Nov 2021 12:07:20 GMT" type="link" url="https://en.wikipedia.org/wiki/Anna_Billing"/>
+						<outline text="Bild (Dusk Landscape with Birches)" created="Sun, 21 Nov 2021 12:10:19 GMT" type="link" url="https://www.reddit.com/r/DarkGothicArt/comments/nba0dn/dusk_landscape_with_birches_anna_billing/"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="November 20" created="Sat, 20 Nov 2021 13:32:31 GMT" type="calendarDay" name="20">
 				<outline text="&lt;b&gt;Noch mehr Spielereien: &lt;i&gt;Dave Winers&lt;/i&gt; Art Show&lt;/b&gt;" created="Thu, 18 Nov 2021 12:39:29 GMT" type="outline">
 					<outline text="Art Show Home" created="Thu, 18 Nov 2021 12:40:22 GMT" type="link" url="http://artshow.scripting.com/"/>
@@ -27,8 +52,7 @@
 				</outline>
 			<outline text="November 19" created="Fri, 19 Nov 2021 12:50:58 GMT" type="calendarDay" name="19">
 				<outline text="&lt;b&gt;Trommelwirbel von heute&lt;/b&gt;" created="Fri, 19 Nov 2021 12:54:28 GMT" type="outline">
-					<outline text="Today's Banner Picture: Dean Village
-" created="Sat, 20 Nov 2021 13:47:38 GMT" type="link" url="https://www.facebook.com/permalink.php?story_fbid=5143398875721874&amp;id=101335036594975">
+					<outline text="Today's Banner Picture: Dean Village " created="Sat, 20 Nov 2021 13:47:38 GMT" type="link" url="https://www.facebook.com/permalink.php?story_fbid=5143398875721874&amp;id=101335036594975">
 						<outline text="Wikipedia-Eintrag" created="Sat, 20 Nov 2021 14:06:32 GMT" type="link" url="https://en.wikipedia.org/wiki/Dean_Village"/>
 						</outline>
 					<outline text="&lt;b&gt;Weiter mit »Ein Chromebook für den Schockwellenreiter?«&lt;/b&gt;" created="Fri, 19 Nov 2021 12:50:59 GMT" type="outline">
@@ -100,7 +124,6 @@
 				<outline text="&lt;b&gt;Post Stroke Idea&lt;/b&gt;: Give Obsidian a Second Try" created="Wed, 10 Nov 2021 17:51:58 GMT" type="link" url="https://www.youtube.com/watch?v=E6ySG7xYgjY"/>
 				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (3)&lt;/b&gt;: 7 Free and Open Source Plotting Tools (For Maths and Stats) " created="Wed, 10 Nov 2021 18:14:43 GMT" type="link" url="https://itsfoss.com/open-source-plotting-apps/"/>
 				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in ThreeJs" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
-				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (1)&lt;/b&gt;: LibreWolf is a Firefox fork that focuses on privacy and security by eliminating telemetry and adding other perks. " created="Wed, 10 Nov 2021 18:18:13 GMT" type="link" url="https://itsfoss.com/librewolf/"/>
 				</outline>
 			</outline>
 		<outline text="&lt;b&gt;October 2021&lt;/b&gt;" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
