@@ -3,20 +3,25 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 21 Nov 2021 16:48:44 GMT</dateModified>
+		<dateModified>Mon, 22 Nov 2021 16:39:25 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,3,4,12,14,18,19,21,30,35,36,37,46,53,60,64</expansionState>
-		<lastCursor>14</lastCursor>
+		<expansionState>1,2,3,6,7,15,17,21,22,24,33,38,39,40,49,56,63,67</expansionState>
+		<lastCursor>3</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 22" created="Mon, 22 Nov 2021 06:14:46 GMT" type="calendarDay" name="22">
+				<outline text="&lt;b&gt;Trommelwirbel von heute&lt;/b&gt;" created="Mon, 22 Nov 2021 06:14:47 GMT" type="outline">
+					<outline text="4 open source ways to create holiday greetings " created="Mon, 22 Nov 2021 06:23:58 GMT" type="link" url="https://opensource.com/article/21/11/open-source-holiday-greetings"/>
+					</outline>
+				</outline>
 			<outline text="November 21" created="Sun, 21 Nov 2021 11:58:15 GMT" type="calendarDay" name="21">
 				<outline text="&lt;b&gt;Trommelwirbel von heute&lt;/b&gt;" created="Sun, 21 Nov 2021 11:58:16 GMT" type="outline">
 					<outline text="&lt;b&gt;Spahns Resterampe&lt;/b&gt;" created="Sun, 21 Nov 2021 11:59:13 GMT">
@@ -32,8 +37,7 @@
 					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (1)&lt;/b&gt;: LibreWolf is a Firefox fork that focuses on privacy and security by eliminating telemetry and adding other perks. " created="Wed, 10 Nov 2021 18:18:13 GMT" type="link" url="https://itsfoss.com/librewolf/"/>
 					<outline text="&lt;b&gt;Der »deutsche Elvis« ist tot&lt;/b&gt;" created="Sun, 21 Nov 2021 15:03:16 GMT">
 						<outline text="Der deutsche Rock'n'Roll-Musiker Ted Herold ist am Samstagabend bei einem Wohnungsbrand in Dortmund ums Leben gekommen. " created="Sun, 21 Nov 2021 15:04:15 GMT" type="link" url="https://www.tagesschau.de/inland/gesellschaft/ted-herold-tot-101.html"/>
-						<outline text="Ted Herold - die letzte Rock n' Roll Legende des deutschen Schlagers
-" created="Sun, 21 Nov 2021 15:05:28 GMT" type="link" url="https://www.youtube.com/watch?v=KLMMSGNYqTM"/>
+						<outline text="Ted Herold - die letzte Rock n' Roll Legende des deutschen Schlagers " created="Sun, 21 Nov 2021 15:05:28 GMT" type="link" url="https://www.youtube.com/watch?v=KLMMSGNYqTM"/>
 						</outline>
 					<outline text="&lt;b&gt;Kommentare via Twitter?&lt;/b&gt;" created="Sun, 21 Nov 2021 12:26:12 GMT"/>
 					<outline text="&lt;b&gt;Das heutige Bannerbild&lt;/b&gt;" created="Sun, 21 Nov 2021 12:06:09 GMT">
