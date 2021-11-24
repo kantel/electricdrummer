@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 23 Nov 2021 17:02:09 GMT</dateModified>
+		<dateModified>Wed, 24 Nov 2021 07:02:03 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,6,9,10,18,20,24,25,27,36,41,42,43,52,59,66,70</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,6,7,10,11,19,22,23,25,34,39,40,41,50,57,64,68</expansionState>
+		<lastCursor>7</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -20,6 +20,7 @@
 			<outline text="November 23" created="Tue, 23 Nov 2021 07:34:32 GMT" type="calendarDay" name="23">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 23 Nov 2021 07:34:33 GMT" type="outline">
 					<outline text="&lt;b&gt;Vintage Hardware&lt;/b&gt;: Ode an ein Whiteboard (ohne elektronischen Schnick-Schnack)." created="Tue, 23 Nov 2021 07:35:41 GMT" type="link" url="https://flaviocopes.com/whiteboard/"/>
+					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in ThreeJs" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
 					</outline>
 				</outline>
 			<outline text="November 22" created="Mon, 22 Nov 2021 06:14:46 GMT" type="calendarDay" name="22">
@@ -132,7 +133,6 @@
 			<outline text="November 10" created="Wed, 10 Nov 2021 17:51:57 GMT" type="calendarDay" name="10">
 				<outline text="&lt;b&gt;Post Stroke Idea&lt;/b&gt;: Give Obsidian a Second Try" created="Wed, 10 Nov 2021 17:51:58 GMT" type="link" url="https://www.youtube.com/watch?v=E6ySG7xYgjY"/>
 				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (3)&lt;/b&gt;: 7 Free and Open Source Plotting Tools (For Maths and Stats) " created="Wed, 10 Nov 2021 18:14:43 GMT" type="link" url="https://itsfoss.com/open-source-plotting-apps/"/>
-				<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in ThreeJs" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
 				</outline>
 			</outline>
 		<outline text="&lt;b&gt;October 2021&lt;/b&gt;" created="Sun, 17 Oct 2021 16:45:07 GMT" name="october2021" type="calendarMonth">
