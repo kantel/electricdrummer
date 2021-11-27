@@ -3,30 +3,44 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 26 Nov 2021 17:03:44 GMT</dateModified>
+		<dateModified>Sat, 27 Nov 2021 17:13:27 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,12,13,21,24,25,27,36,41,42,43,52,59,66,70</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,7,10,15,16,24,27,28,30,39,44,45,46,55,62,69,73</expansionState>
+		<lastCursor>11</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
-			<outline text="November 23" created="Tue, 23 Nov 2021 07:34:32 GMT" type="calendarDay" name="23">
-				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 23 Nov 2021 07:34:33 GMT" type="outline">
-					<outline text="Turn Your Notes Into a »Second Brain« With Obsidian
-" created="Fri, 26 Nov 2021 17:02:34 GMT" type="link" url="https://www.makeuseof.com/turn-your-notes-into-a-second-brain-with-obsidian/"/>
-					<outline text="Visualize your LinkedIn Network with Python " created="Thu, 25 Nov 2021 07:18:19 GMT" type="link" url="https://medium.com/bitgrit-data-science-publication/visualize-your-linkedin-network-with-python-59a213786c4"/>
+			<outline text="November 27" created="Sat, 27 Nov 2021 13:46:20 GMT" type="calendarDay" name="27">
+				<outline text="&lt;b&gt;Monogatari&lt;/b&gt;" created="Sat, 27 Nov 2021 15:39:54 GMT" type="outline">
+					<outline text="Monogatari Visual Novel Engine (Home)" created="Sat, 27 Nov 2021 15:40:52 GMT" type="link" url="https://monogatari.io/"/>
+					<outline text="Monogatari @ GitHub" created="Sat, 27 Nov 2021 15:42:42 GMT" type="link" url="https://github.com/Monogatari/Monogatari/"/>
+					<outline text="Quick Overview intro to Monogatari Visual Novel Engine (Video) " created="Sat, 27 Nov 2021 15:46:52 GMT" type="link" url="https://www.youtube.com/watch?v=byObSXXFAnM"/>
+					<outline text="&lt;b&gt;Twine Monogatari&lt;/b&gt;" created="Sat, 27 Nov 2021 15:59:16 GMT">
+						<outline text="This Twine 2 story format allows one to use Twine to create Visual Novels for the Monogatari engine." created="Sat, 27 Nov 2021 15:53:03 GMT" type="link" url="https://github.com/haroldo-ok/twine-monogatari/"/>
+						<outline text="Youtube Video for version 0.1.0" created="Sat, 27 Nov 2021 15:58:01 GMT" type="link" url="https://www.youtube.com/watch?v=cNW5hKvAsTo"/>
+						</outline>
+					</outline>
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sat, 27 Nov 2021 13:46:21 GMT" type="outline">
+					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in Three.js" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
 					<outline text="&lt;b&gt;Was ist Storybook?&lt;/b&gt; Storybook and Netlify CMS (Bring your content to Storybook) " created="Thu, 25 Nov 2021 17:52:57 GMT" type="link" url="https://storybook.js.org/blog/storybook-netlify-cms/"/>
+					</outline>
+				</outline>
+			<outline text="November 26" created="Tue, 23 Nov 2021 07:34:32 GMT" type="calendarDay" name="23">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 23 Nov 2021 07:34:33 GMT" type="outline">
+					<outline text="&lt;b&gt;Kunst- und Wunderkammer&lt;/b&gt;:  &lt;i&gt;Frans Francken&lt;/i&gt;: Chamber Of Art And Rarities (ca. 1620-25)" created="Sat, 27 Nov 2021 13:47:00 GMT" type="link" url="https://www.flickr.com/photos/gandalfsgallery/51707681561/"/>
+					<outline text="Turn Your Notes Into a »Second Brain« With Obsidian " created="Fri, 26 Nov 2021 17:02:34 GMT" type="link" url="https://www.makeuseof.com/turn-your-notes-into-a-second-brain-with-obsidian/"/>
+					<outline text="Visualize your LinkedIn Network with Python " created="Thu, 25 Nov 2021 07:18:19 GMT" type="link" url="https://medium.com/bitgrit-data-science-publication/visualize-your-linkedin-network-with-python-59a213786c4"/>
 					<outline text="Fascinating website shows all the gifs on Wikipedia " created="Wed, 24 Nov 2021 17:33:33 GMT" type="link" url="https://boingboing.net/2021/11/24/fascinating-website-shows-all-the-gifs-on-wikipedia.html"/>
 					<outline text="&lt;b&gt;Vintage Hardware&lt;/b&gt;: Ode an ein Whiteboard (ohne elektronischen Schnick-Schnack)." created="Tue, 23 Nov 2021 07:35:41 GMT" type="link" url="https://flaviocopes.com/whiteboard/"/>
 					<outline text="4 open source ways to create holiday greetings " created="Mon, 22 Nov 2021 06:23:58 GMT" type="link" url="https://opensource.com/article/21/11/open-source-holiday-greetings"/>
-					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in ThreeJs" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
+					<outline text="&lt;b&gt;Ich lese gerade&lt;/b&gt;: Mathematics and Art. A Cultural History." created="Sat, 27 Nov 2021 16:11:31 GMT" type="link" url="https://www.amazon.de/Mathematics-Art-Cultural-Lynn-Gamwell/dp/0691165289?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=Mathematics+and+art&amp;qid=1638029640&amp;sr=8-1&amp;linkCode=ll1&amp;tag=derschockwell-21&amp;linkId=d6ca2c3a5cfd1f6618102dd4992128a6&amp;language=de_DE&amp;ref_=as_li_ss_tl"/>
 					</outline>
 				</outline>
 			<outline text="November 21" created="Sun, 21 Nov 2021 11:58:15 GMT" type="calendarDay" name="21">
