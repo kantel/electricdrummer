@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 28 Nov 2021 11:47:08 GMT</dateModified>
+		<dateModified>Sun, 28 Nov 2021 13:24:59 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,10,11,15,20,21,29,32,33,35,44,49,50,51,60,67,74,78</expansionState>
-		<lastCursor>8</lastCursor>
+		<expansionState>1,2,3,7,8,12,17,18,26,29,30,32,41,46,47,48,57,64,71,75</expansionState>
+		<lastCursor>5</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -18,6 +18,10 @@
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 28" created="Sun, 28 Nov 2021 11:38:25 GMT" type="calendarDay" name="28">
+				<outline text="# Markdown Test" created="Sun, 28 Nov 2021 12:49:40 GMT" type="markdown">
+					<outline text="Link zum [Schockwellenreiter](http://blog.schockwellenreiter.de/)." created="Sun, 28 Nov 2021 12:50:57 GMT"/>
+					<outline text="Eine Zeile mit *kursiven* und **fetten** Text." created="Sun, 28 Nov 2021 12:52:34 GMT"/>
+					</outline>
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 28 Nov 2021 11:38:26 GMT" type="outline">
 					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in Three.js" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
 					<outline text="&lt;b&gt;Was ist Storybook?&lt;/b&gt; Storybook and Netlify CMS (Bring your content to Storybook) " created="Thu, 25 Nov 2021 17:52:57 GMT" type="link" url="https://storybook.js.org/blog/storybook-netlify-cms/"/>
