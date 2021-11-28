@@ -3,13 +3,13 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 28 Nov 2021 11:10:46 GMT</dateModified>
+		<dateModified>Sun, 28 Nov 2021 11:47:08 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,10,15,16,24,27,28,30,39,44,45,46,55,62,69,73</expansionState>
+		<expansionState>1,2,3,6,10,11,15,20,21,29,32,33,35,44,49,50,51,60,67,74,78</expansionState>
 		<lastCursor>8</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
@@ -17,6 +17,17 @@
 		</head>
 	<body>
 		<outline text="November 2021" created="Wed, 17 Nov 2021 10:47:24 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 28" created="Sun, 28 Nov 2021 11:38:25 GMT" type="calendarDay" name="28">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 28 Nov 2021 11:38:26 GMT" type="outline">
+					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in Three.js" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
+					<outline text="&lt;b&gt;Was ist Storybook?&lt;/b&gt; Storybook and Netlify CMS (Bring your content to Storybook) " created="Thu, 25 Nov 2021 17:52:57 GMT" type="link" url="https://storybook.js.org/blog/storybook-netlify-cms/"/>
+					<outline text="&lt;b&gt;Sicher surfen?&lt;/b&gt; Brave: Das bietet der sichere Web-Browser " created="Sun, 28 Nov 2021 11:39:20 GMT" type="link" url="https://www.pcwelt.de/ratgeber/Brave-Das-bietet-der-sichere-Web-Browser-11135611.html">
+						<outline text="Brave Home" created="Sun, 28 Nov 2021 11:41:55 GMT" type="link" url="https://brave.com/de/"/>
+						<outline text="Brave @ GitHub (MPL-Lizenz)" created="Sun, 28 Nov 2021 11:44:20 GMT" type="link" url="https://github.com/brave/brave-browser"/>
+						<outline text="Brave Blog" created="Sun, 28 Nov 2021 11:46:33 GMT" type="link" url="https://brave.com/blog/"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="November 27" created="Sat, 27 Nov 2021 13:46:20 GMT" type="calendarDay" name="27">
 				<outline text="&lt;b&gt;Monogatari&lt;/b&gt;" created="Sat, 27 Nov 2021 15:39:54 GMT" type="outline">
 					<outline text="Monogatari Visual Novel Engine (Home)" created="Sat, 27 Nov 2021 15:40:52 GMT" type="link" url="https://monogatari.io/"/>
@@ -26,10 +37,6 @@
 						<outline text="This Twine 2 story format allows one to use Twine to create Visual Novels for the Monogatari engine." created="Sat, 27 Nov 2021 15:53:03 GMT" type="link" url="https://github.com/haroldo-ok/twine-monogatari/"/>
 						<outline text="Youtube Video for version 0.1.0" created="Sat, 27 Nov 2021 15:58:01 GMT" type="link" url="https://www.youtube.com/watch?v=cNW5hKvAsTo"/>
 						</outline>
-					</outline>
-				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sat, 27 Nov 2021 13:46:21 GMT" type="outline">
-					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in Three.js" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
-					<outline text="&lt;b&gt;Was ist Storybook?&lt;/b&gt; Storybook and Netlify CMS (Bring your content to Storybook) " created="Thu, 25 Nov 2021 17:52:57 GMT" type="link" url="https://storybook.js.org/blog/storybook-netlify-cms/"/>
 					</outline>
 				</outline>
 			<outline text="November 26" created="Tue, 23 Nov 2021 07:34:32 GMT" type="calendarDay" name="23">
