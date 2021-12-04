@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 04 Dec 2021 08:07:58 GMT</dateModified>
+		<dateModified>Sat, 04 Dec 2021 11:41:33 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,9,11,14,15,19,22,23,24,27,28,32,37,38,46,49,50,52,61,66,67,68,77,84,91,95</expansionState>
-		<lastCursor>12</lastCursor>
+		<expansionState>1,2,4,10,12,15,16,19,22,23,24,27,28,32,37,38,46,49,50,52,61,66,67,68,77,84,91,95</expansionState>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -18,17 +18,22 @@
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 3" created="Fri, 03 Dec 2021 07:09:47 GMT" type="calendarDay" name="03">
+				<outline text="&lt;b&gt;Es muß nicht immer Photoshop sein&lt;/b&gt;" created="Sat, 04 Dec 2021 07:44:59 GMT" type="outline">
+					<outline text="A New Open-Source Editor for Tweaking Photo Details " created="Fri, 03 Dec 2021 07:10:27 GMT" type="link" url="https://80.lv/articles/a-new-open-source-editor-for-tweaking-photo-details/"/>
+					<outline text="Best Free and Open Source Alternatives to Apple Photos" created="Wed, 01 Dec 2021 16:07:58 GMT" type="link" url="https://www.linuxlinks.com/best-free-open-source-alternatives-apple-photos/"/>
+					</outline>
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 03 Dec 2021 07:09:48 GMT" type="outline">
-					<outline text="&lt;b&gt;Es muß nicht immer Photoshop sein&lt;/b&gt;" created="Sat, 04 Dec 2021 07:44:59 GMT">
-						<outline text="A New Open-Source Editor for Tweaking Photo Details " created="Fri, 03 Dec 2021 07:10:27 GMT" type="link" url="https://80.lv/articles/a-new-open-source-editor-for-tweaking-photo-details/"/>
-						<outline text="Best Free and Open Source Alternatives to Apple Photos" created="Wed, 01 Dec 2021 16:07:58 GMT" type="link" url="https://www.linuxlinks.com/best-free-open-source-alternatives-apple-photos/"/>
-						</outline>
 					<outline text="&lt;b&gt;Ganz Gantt&lt;/b&gt;: Best Open Source Gantt Chart Software for Linux " created="Mon, 29 Nov 2021 17:01:29 GMT" type="link" url="https://itsfoss.com/open-source-gantt-chart/"/>
+					<outline text="&lt;b&gt;Advent of Code&lt;/b&gt;: Solving Your Puzzles With Python " created="Thu, 02 Dec 2021 07:03:53 GMT" type="link" url="https://realpython.com/python-advent-of-code/"/>
 					<outline text="&lt;b&gt;Sicher surfen?&lt;/b&gt; Brave: Das bietet der sichere Web-Browser " created="Sun, 28 Nov 2021 11:39:20 GMT" type="link" url="https://www.pcwelt.de/ratgeber/Brave-Das-bietet-der-sichere-Web-Browser-11135611.html">
 						<outline text="Brave Home" created="Sun, 28 Nov 2021 11:41:55 GMT" type="link" url="https://brave.com/de/"/>
 						<outline text="Brave @ GitHub (MPL-Lizenz)" created="Sun, 28 Nov 2021 11:44:20 GMT" type="link" url="https://github.com/brave/brave-browser"/>
 						<outline text="Brave Blog" created="Sun, 28 Nov 2021 11:46:33 GMT" type="link" url="https://brave.com/blog/"/>
 						</outline>
+					<outline text="&lt;b&gt;Für umme lesen&lt;/b&gt;: HTTP Archive gibt Web-Jahrbuch 2021 heraus " created="Sat, 04 Dec 2021 08:22:58 GMT" type="link" url="https://www.heise.de/developer/artikel/HTTP-Archive-gibt-Web-Jahrbuch-2021-heraus-6280705.html">
+						<outline text="Auch in diesem Jahr gibt das HTTP Archive sein kostenloses Jahrbuch, den Web Almanac heraus. 112 Autoren, Analysten und Reviewer aus der Community haben sich zusammengetan, um den Zustand des Web im Jahr 2021 zu analysieren. Entstanden ist ein Werk mit 24 Kapiteln, die das Web aus unterschiedlichsten Blickwinkeln beleuchten." created="Sat, 04 Dec 2021 08:53:47 GMT"/>
+						</outline>
+					<outline text="&lt;b&gt;Bannerbild heute&lt;/b&gt;: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Douzette_Winterliche_Vollmondlandschaft.jpg?uselang=de&quot;&gt;Winterliche Vollmondlandschaft&lt;/a&gt;, 1869, &lt;i&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Louis_Douzette&quot;&gt;Louis Douzette&lt;/a&gt;&lt;/i&gt; (1834-1924), Bilder für Spiele" created="Sat, 04 Dec 2021 09:01:44 GMT"/>
 					</outline>
 				<outline text="&lt;b&gt;Retro-Hacking: Turbo Rascal&lt;/b&gt;" created="Fri, 03 Dec 2021 07:11:36 GMT" type="outline">
 					<outline text="Turbo Rascal Is The Retro Pascal Compiler We Always Wanted" created="Fri, 03 Dec 2021 07:13:26 GMT" type="link" url="https://hackaday.com/2021/11/30/turbo-rascal-is-the-retro-pascal-compiler-we-always-wanted/"/>
@@ -40,13 +45,12 @@
 				</outline>
 			<outline text="December 2" created="Thu, 02 Dec 2021 07:03:29 GMT" type="calendarDay" name="02">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 02 Dec 2021 07:03:30 GMT" type="outline">
-					<outline text="&lt;b&gt;Advent of Code&lt;/b&gt;: Solving Your Puzzles With Python " created="Thu, 02 Dec 2021 07:03:53 GMT" type="link" url="https://realpython.com/python-advent-of-code/"/>
 					<outline text="&lt;b&gt;Willkommen bei Fleet!&lt;/b&gt; " created="Thu, 02 Dec 2021 07:05:56 GMT" type="link" url="https://blog.jetbrains.com/de/blog/2021/11/29/willkommen-bei-fleet/"/>
 					<outline text="&lt;b&gt;DataSpell Has Been Officially Released&lt;/b&gt;: A Brand New IDE for Data Scientists Using Python and R" created="Wed, 01 Dec 2021 16:09:21 GMT" type="link" url="https://blog.jetbrains.com/blog/2021/11/30/dataspell-has-been-officially-released-a-brand-new-ide-for-data-scientists-using-python-and-r/"/>
-					<outline text="&lt;b&gt;Three.js&lt;/b&gt;" created="Sat, 04 Dec 2021 07:43:21 GMT">
-						<outline text="&lt;b&gt;3D im Web&lt;/b&gt;: Making 3D web apps with Blender and Three.js " created="Thu, 02 Dec 2021 07:07:24 GMT" type="link" url="https://www.soft8soft.com/wiki/index.php/Making_3D_web_apps_with_Blender_and_Three.js"/>
-						<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in Three.js" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
-						</outline>
+					</outline>
+				<outline text="&lt;b&gt;Three.js&lt;/b&gt;" created="Sat, 04 Dec 2021 07:43:21 GMT" type="outline">
+					<outline text="&lt;b&gt;3D im Web&lt;/b&gt;: Making 3D web apps with Blender and Three.js " created="Thu, 02 Dec 2021 07:07:24 GMT" type="link" url="https://www.soft8soft.com/wiki/index.php/Making_3D_web_apps_with_Blender_and_Three.js"/>
+					<outline text="&lt;b&gt;Futter für den Schockwellenreiter (2)&lt;/b&gt;: Having fun with pendulums in Three.js" created="Wed, 10 Nov 2021 18:16:20 GMT" type="link" url="https://dev.to/nordicbeaver/having-fun-with-pendulums-in-threejs-31hc"/>
 					</outline>
 				</outline>
 			</outline>
