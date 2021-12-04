@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 04 Dec 2021 11:41:33 GMT</dateModified>
+		<dateModified>Sat, 04 Dec 2021 14:23:39 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,4,10,12,15,16,19,22,23,24,27,28,32,37,38,46,49,50,52,61,66,67,68,77,84,91,95</expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>1,2,5,7,10,11,14,17,18,19,22,23,27,32,33,41,44,45,47,56,61,62,63,72,79,86,90</expansionState>
+		<lastCursor>10</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -33,6 +33,7 @@
 					<outline text="&lt;b&gt;Für umme lesen&lt;/b&gt;: HTTP Archive gibt Web-Jahrbuch 2021 heraus " created="Sat, 04 Dec 2021 08:22:58 GMT" type="link" url="https://www.heise.de/developer/artikel/HTTP-Archive-gibt-Web-Jahrbuch-2021-heraus-6280705.html">
 						<outline text="Auch in diesem Jahr gibt das HTTP Archive sein kostenloses Jahrbuch, den Web Almanac heraus. 112 Autoren, Analysten und Reviewer aus der Community haben sich zusammengetan, um den Zustand des Web im Jahr 2021 zu analysieren. Entstanden ist ein Werk mit 24 Kapiteln, die das Web aus unterschiedlichsten Blickwinkeln beleuchten." created="Sat, 04 Dec 2021 08:53:47 GMT"/>
 						</outline>
+					<outline text="&lt;b&gt;Ich lese gerade&lt;/b&gt;: Generatives Deep Learning – Maschinen das Malen, Schreiben und Komponieren beibringen von &lt;i&gt;David Foster&lt;/i&gt; " created="Sat, 04 Dec 2021 12:01:34 GMT" type="link" url="https://www.amazon.de/Generatives-Deep-Learning-Komponieren-beibringen/dp/3960091281?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=R6THX9GMAG6O&amp;keywords=generatives+deep+learning&amp;qid=1638619351&amp;sprefix=Generatives+De%2Caps%2C169&amp;sr=8-1&amp;linkCode=ll1&amp;tag=derschockwell-21&amp;linkId=fea7aa619a323febc78e582697a55208&amp;language=de_DE&amp;ref_=as_li_ss_tl"/>
 					<outline text="&lt;b&gt;Bannerbild heute&lt;/b&gt;: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Douzette_Winterliche_Vollmondlandschaft.jpg?uselang=de&quot;&gt;Winterliche Vollmondlandschaft&lt;/a&gt;, 1869, &lt;i&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Louis_Douzette&quot;&gt;Louis Douzette&lt;/a&gt;&lt;/i&gt; (1834-1924), Bilder für Spiele" created="Sat, 04 Dec 2021 09:01:44 GMT"/>
 					</outline>
 				<outline text="&lt;b&gt;Retro-Hacking: Turbo Rascal&lt;/b&gt;" created="Fri, 03 Dec 2021 07:11:36 GMT" type="outline">
@@ -44,7 +45,7 @@
 					</outline>
 				</outline>
 			<outline text="December 2" created="Thu, 02 Dec 2021 07:03:29 GMT" type="calendarDay" name="02">
-				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 02 Dec 2021 07:03:30 GMT" type="outline">
+				<outline text="&lt;b&gt;Neue Editoren und IDEs, ein Angriff auf VS Code?&lt;/b&gt;" created="Thu, 02 Dec 2021 07:03:30 GMT" type="outline">
 					<outline text="&lt;b&gt;Willkommen bei Fleet!&lt;/b&gt; " created="Thu, 02 Dec 2021 07:05:56 GMT" type="link" url="https://blog.jetbrains.com/de/blog/2021/11/29/willkommen-bei-fleet/"/>
 					<outline text="&lt;b&gt;DataSpell Has Been Officially Released&lt;/b&gt;: A Brand New IDE for Data Scientists Using Python and R" created="Wed, 01 Dec 2021 16:09:21 GMT" type="link" url="https://blog.jetbrains.com/blog/2021/11/30/dataspell-has-been-officially-released-a-brand-new-ide-for-data-scientists-using-python-and-r/"/>
 					</outline>
