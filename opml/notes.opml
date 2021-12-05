@@ -3,20 +3,29 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 04 Dec 2021 14:23:39 GMT</dateModified>
+		<dateModified>Sun, 05 Dec 2021 10:06:12 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,5,7,10,11,14,17,18,19,22,23,27,32,33,41,44,45,47,56,61,62,63,72,79,86,90</expansionState>
-		<lastCursor>10</lastCursor>
+		<expansionState>1,2,3,6,9,10,13,16,17,18,21,22,26,31,32,40,43,44,46,55,60,61,62,71,78,85,89</expansionState>
+		<lastCursor>7</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 5" created="Sun, 05 Dec 2021 08:28:28 GMT" type="calendarDay" name="05">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 05 Dec 2021 08:28:29 GMT" type="outline">
+					<outline text="&lt;b&gt;Mind Mapping&lt;/b&gt;: Open source mind mapping with Draw.io " created="Sun, 05 Dec 2021 08:39:14 GMT" type="link" url="https://opensource.com/article/21/12/open-source-mind-mapping-drawio"/>
+					<outline text="&lt;b&gt;So gut schützen Masken&lt;/b&gt;: Eine detaillierte Studie weist das maximale Risiko einer Coronainfektion für verschiedene Szenarien mit und ohne Masken aus. " created="Sun, 05 Dec 2021 08:28:59 GMT" type="link" url="https://www.ds.mpg.de/3822295/211202_upperbound_infections"/>
+					<outline text="&lt;b&gt;Retro-Hacking: Turbo Rascal&lt;/b&gt;" created="Fri, 03 Dec 2021 07:11:36 GMT" type="outline">
+						<outline text="Turbo Rascal Is The Retro Pascal Compiler We Always Wanted" created="Fri, 03 Dec 2021 07:13:26 GMT" type="link" url="https://hackaday.com/2021/11/30/turbo-rascal-is-the-retro-pascal-compiler-we-always-wanted/"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="December 3" created="Fri, 03 Dec 2021 07:09:47 GMT" type="calendarDay" name="03">
 				<outline text="&lt;b&gt;Es muß nicht immer Photoshop sein&lt;/b&gt;" created="Sat, 04 Dec 2021 07:44:59 GMT" type="outline">
 					<outline text="A New Open-Source Editor for Tweaking Photo Details " created="Fri, 03 Dec 2021 07:10:27 GMT" type="link" url="https://80.lv/articles/a-new-open-source-editor-for-tweaking-photo-details/"/>
@@ -35,9 +44,6 @@
 						</outline>
 					<outline text="&lt;b&gt;Ich lese gerade&lt;/b&gt;: Generatives Deep Learning – Maschinen das Malen, Schreiben und Komponieren beibringen von &lt;i&gt;David Foster&lt;/i&gt; " created="Sat, 04 Dec 2021 12:01:34 GMT" type="link" url="https://www.amazon.de/Generatives-Deep-Learning-Komponieren-beibringen/dp/3960091281?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=R6THX9GMAG6O&amp;keywords=generatives+deep+learning&amp;qid=1638619351&amp;sprefix=Generatives+De%2Caps%2C169&amp;sr=8-1&amp;linkCode=ll1&amp;tag=derschockwell-21&amp;linkId=fea7aa619a323febc78e582697a55208&amp;language=de_DE&amp;ref_=as_li_ss_tl"/>
 					<outline text="&lt;b&gt;Bannerbild heute&lt;/b&gt;: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Douzette_Winterliche_Vollmondlandschaft.jpg?uselang=de&quot;&gt;Winterliche Vollmondlandschaft&lt;/a&gt;, 1869, &lt;i&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Louis_Douzette&quot;&gt;Louis Douzette&lt;/a&gt;&lt;/i&gt; (1834-1924), Bilder für Spiele" created="Sat, 04 Dec 2021 09:01:44 GMT"/>
-					</outline>
-				<outline text="&lt;b&gt;Retro-Hacking: Turbo Rascal&lt;/b&gt;" created="Fri, 03 Dec 2021 07:11:36 GMT" type="outline">
-					<outline text="Turbo Rascal Is The Retro Pascal Compiler We Always Wanted" created="Fri, 03 Dec 2021 07:13:26 GMT" type="link" url="https://hackaday.com/2021/11/30/turbo-rascal-is-the-retro-pascal-compiler-we-always-wanted/"/>
 					</outline>
 				<outline text="&lt;b&gt;Wireframe 56&lt;/b&gt;" created="Sat, 04 Dec 2021 08:03:33 GMT">
 					<outline text="Code an homage to Bubble Bobble " created="Sat, 04 Dec 2021 08:04:18 GMT" type="link" url="https://www.raspberrypi.com/news/code-an-homage-to-bubble-bobble-wireframe-56/"/>
