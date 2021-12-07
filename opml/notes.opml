@@ -3,13 +3,13 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Mon, 06 Dec 2021 16:55:12 GMT</dateModified>
+		<dateModified>Tue, 07 Dec 2021 07:18:23 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,8,12,13,16,17,20,24,25,27,36,41,42,43,52,59,66,70</expansionState>
+		<expansionState>1,2,3,8,9,10,14,17,19,20,23,24,27,31,32,34,43,48,49,50,59,66,73,77</expansionState>
 		<lastCursor>6</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
@@ -17,6 +17,14 @@
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 7" created="Tue, 07 Dec 2021 07:09:39 GMT" type="calendarDay" name="07">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 07 Dec 2021 07:09:40 GMT" type="outline">
+					<outline text="&lt;b&gt;Code the Classics&lt;/b&gt;: Code your own landscape engine | Wireframe #57 " created="Tue, 07 Dec 2021 07:11:57 GMT" type="link" url="https://www.raspberrypi.com/news/code-your-own-landscape-engine-wireframe-57/"/>
+					<outline text="&lt;b&gt;Es muß nicht immer Photoshop sein&lt;/b&gt;: GIMP 2.99.8 macOS package now available " created="Tue, 07 Dec 2021 07:13:44 GMT" type="link" url="https://www.gimp.org/news/2021/12/06/gimp-2-99-8-for-macos/"/>
+					<outline text="&lt;b&gt;Blog-Tips: Es ist alles so schön bunt hier&lt;/b&gt;: The 7 Best Types of Visual Elements for Content Creation " created="Tue, 07 Dec 2021 07:15:23 GMT" type="link" url="https://www.makeuseof.com/best-visual-elements-for-content-creation/"/>
+					<outline text="&lt;b&gt;Python und RStudio&lt;/b&gt;: Three Ways to Program in Python With RStudio " created="Tue, 07 Dec 2021 07:17:15 GMT" type="link" url="https://www.rstudio.com/blog/three-ways-to-program-in-python-with-rstudio/"/>
+					</outline>
+				</outline>
 			<outline text="December 6" created="Mon, 06 Dec 2021 07:31:42 GMT" type="calendarDay" name="06">
 				<outline text="&lt;b&gt;Auf dem Weg zur World Markdown&lt;/b&gt;" created="Mon, 06 Dec 2021 16:52:51 GMT" type="outline">
 					<outline text="&lt;b&gt;Raito | Minimal Markdown CMS&lt;/b&gt; " created="Mon, 06 Dec 2021 07:32:25 GMT" type="outline">
@@ -28,7 +36,9 @@
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 05 Dec 2021 08:28:29 GMT" type="outline">
 					<outline text="&lt;b&gt;Mind Mapping&lt;/b&gt;: Open source mind mapping with Draw.io" created="Sun, 05 Dec 2021 08:39:14 GMT" type="link" url="https://opensource.com/article/21/12/open-source-mind-mapping-drawio"/>
 					<outline text="&lt;b&gt;Gaphor&lt;/b&gt;: Open Source Graphical Modeling Tool " created="Mon, 06 Dec 2021 16:01:24 GMT" type="link" url="https://itsfoss.com/gaphor-modeling-tool/"/>
-					<outline text="&lt;b&gt;So gut schützen Masken&lt;/b&gt;: Eine detaillierte Studie weist das maximale Risiko einer Coronainfektion für verschiedene Szenarien mit und ohne Masken aus. " created="Sun, 05 Dec 2021 08:28:59 GMT" type="link" url="https://www.ds.mpg.de/3822295/211202_upperbound_infections"/>
+					</outline>
+				<outline text="&lt;b&gt;So gut schützen Masken&lt;/b&gt;: Eine detaillierte Studie weist das maximale Risiko einer Coronainfektion für verschiedene Szenarien mit und ohne Masken aus. " created="Sun, 05 Dec 2021 08:28:59 GMT" type="link" url="https://www.ds.mpg.de/3822295/211202_upperbound_infections">
+					<outline text="Wie gut schützen FFP2-Masken vor Corona? Neue Studie überrascht selbst Experten " created="Tue, 07 Dec 2021 07:10:54 GMT" type="link" url="https://www.fr.de/wissen/ffp2-maske-op-medizinische-studie-schutz-corona-max-planck-institut-mpi-goettingen-news-91158808.html"/>
 					</outline>
 				</outline>
 			<outline text="December 5" created="Sun, 05 Dec 2021 08:28:28 GMT" type="calendarDay" name="05">
