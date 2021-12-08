@@ -3,20 +3,25 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 07 Dec 2021 07:36:08 GMT</dateModified>
+		<dateModified>Wed, 08 Dec 2021 07:10:22 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,10,11,12,16,19,21,22,25,26,29,33,34,36,45,50,51,52,61,68,75,79</expansionState>
-		<lastCursor>4</lastCursor>
+		<expansionState>1,2,3,5,6,9,13,14,15,19,23,25,26,29,30,33,37,38,40,49,54,55,56,65,72,79,83</expansionState>
+		<lastCursor>3</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 8" created="Wed, 08 Dec 2021 07:08:53 GMT" type="calendarDay" name="08">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Wed, 08 Dec 2021 07:08:54 GMT" type="outline">
+					<outline text="&lt;b&gt;Apps We Love&lt;/b&gt;: Last month on Glitch, the November 2021 edition " created="Wed, 08 Dec 2021 07:09:17 GMT" type="link" url="https://blog.glitch.com/post/last-month-on-glitch-the-november-2021-edition"/>
+					</outline>
+				</outline>
 			<outline text="December 7" created="Tue, 07 Dec 2021 07:09:39 GMT" type="calendarDay" name="07">
 				<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;" created="Tue, 07 Dec 2021 07:33:54 GMT" type="outline">
 					<outline text="&lt;b&gt;Code the Classics&lt;/b&gt;: Code your own landscape engine | Wireframe #57 " created="Tue, 07 Dec 2021 07:11:57 GMT" type="link" url="https://www.raspberrypi.com/news/code-your-own-landscape-engine-wireframe-57/"/>
@@ -36,9 +41,10 @@
 						</outline>
 					<outline text="&lt;b&gt;Online Markdown Editoren&lt;/b&gt;: The 6 Best Free Alternatives to Typora Markdown Editor " created="Sun, 05 Dec 2021 16:03:32 GMT" type="link" url="https://www.makeuseof.com/free-alternatives-to-typora-markdown-editor/"/>
 					</outline>
-				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 05 Dec 2021 08:28:29 GMT" type="outline">
+				<outline text="&lt;b&gt;Computergraphik-Werkzeuge&lt;/b&gt;" created="Sun, 05 Dec 2021 08:28:29 GMT" type="outline">
 					<outline text="&lt;b&gt;Mind Mapping&lt;/b&gt;: Open source mind mapping with Draw.io" created="Sun, 05 Dec 2021 08:39:14 GMT" type="link" url="https://opensource.com/article/21/12/open-source-mind-mapping-drawio"/>
 					<outline text="&lt;b&gt;Gaphor&lt;/b&gt;: Open Source Graphical Modeling Tool " created="Mon, 06 Dec 2021 16:01:24 GMT" type="link" url="https://itsfoss.com/gaphor-modeling-tool/"/>
+					<outline text="&lt;b&gt;Inkscape-Tutorial&lt;/b&gt; (nicht nur für Linux): Anyone can draw on Linux with Inkscape " created="Wed, 08 Dec 2021 07:05:31 GMT" type="link" url="https://opensource.com/article/21/12/linux-draw-inkscape"/>
 					</outline>
 				<outline text="&lt;b&gt;So gut schützen Masken&lt;/b&gt;: Eine detaillierte Studie weist das maximale Risiko einer Coronainfektion für verschiedene Szenarien mit und ohne Masken aus. " created="Sun, 05 Dec 2021 08:28:59 GMT" type="link" url="https://www.ds.mpg.de/3822295/211202_upperbound_infections">
 					<outline text="Wie gut schützen FFP2-Masken vor Corona? Neue Studie überrascht selbst Experten " created="Tue, 07 Dec 2021 07:10:54 GMT" type="link" url="https://www.fr.de/wissen/ffp2-maske-op-medizinische-studie-schutz-corona-max-planck-institut-mpi-goettingen-news-91158808.html"/>
