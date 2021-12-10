@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 10 Dec 2021 07:19:31 GMT</dateModified>
+		<dateModified>Fri, 10 Dec 2021 17:19:28 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,12,13,17,18,21,26,27,28,32,36,38,39,42,43,46,50,51,53,62,67,68,69,78,85,92,96</expansionState>
-		<lastCursor>9</lastCursor>
+		<expansionState>1,2,3,7,13,14,18,19,22,27,28,29,32,36,38,39,42,43,46,50,51,53,62,67,68,69,78,85,92,96</expansionState>
+		<lastCursor>11</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -28,6 +28,7 @@
 					<outline text="Google Play makes good on its promise to surface device-specific content on Chromebooks" created="Thu, 09 Dec 2021 08:18:20 GMT" type="link" url="https://chromeunboxed.com/google-play-store-chromebook-content-surfaces"/>
 					<outline text="&lt;b&gt;Google Chrome OS&lt;/b&gt;: Von Google ausgewählt – das sind die besten Chrome-Apps des Jahres 2021" created="Fri, 10 Dec 2021 07:17:06 GMT" type="link" url="https://www.googlewatchblog.de/2021/12/google-chrome-best-of-apps2021/"/>
 					<outline text="How to type symbols with Unicode on your Chromebook" created="Fri, 10 Dec 2021 07:18:43 GMT" type="link" url="https://chromeunboxed.com/how-to-type-symbols-with-unicode-on-your-chromebook/"/>
+					<outline text="&lt;b&gt;Online Markdown Editoren&lt;/b&gt;: The 6 Best Free Alternatives to Typora Markdown Editor " created="Sun, 05 Dec 2021 16:03:32 GMT" type="link" url="https://www.makeuseof.com/free-alternatives-to-typora-markdown-editor/"/>
 					</outline>
 				</outline>
 			<outline text="December 8" created="Wed, 08 Dec 2021 07:08:53 GMT" type="calendarDay" name="08">
@@ -55,7 +56,6 @@
 						<outline text="Raito is ultralight, 100% static, and resides in a single 8kb file." created="Mon, 06 Dec 2021 07:32:57 GMT" type="link" url="https://arnaud.at/raito/#/"/>
 						<outline text="Raito @ GitHub" created="Mon, 06 Dec 2021 07:34:57 GMT" type="link" url="https://github.com/arnaudsm/raito"/>
 						</outline>
-					<outline text="&lt;b&gt;Online Markdown Editoren&lt;/b&gt;: The 6 Best Free Alternatives to Typora Markdown Editor " created="Sun, 05 Dec 2021 16:03:32 GMT" type="link" url="https://www.makeuseof.com/free-alternatives-to-typora-markdown-editor/"/>
 					</outline>
 				<outline text="&lt;b&gt;Computergraphik-Werkzeuge&lt;/b&gt;" created="Sun, 05 Dec 2021 08:28:29 GMT" type="outline">
 					<outline text="&lt;b&gt;Mind Mapping&lt;/b&gt;: Open source mind mapping with Draw.io" created="Sun, 05 Dec 2021 08:39:14 GMT" type="link" url="https://opensource.com/article/21/12/open-source-mind-mapping-drawio"/>
