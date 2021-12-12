@@ -3,20 +3,26 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 11 Dec 2021 18:00:38 GMT</dateModified>
+		<dateModified>Sun, 12 Dec 2021 07:06:45 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,8,9,16,17,18,21,25,27,28,31,32,35,39,40,42,51,56,57,58,67,74,81,85</expansionState>
-		<lastCursor>42</lastCursor>
+		<expansionState>1,2,3,6,7,12,13,20,21,22,25,30,31,34,35,38,42,43,45,54,59,60,61,70,77,84,88</expansionState>
+		<lastCursor>4</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 12" created="Sun, 12 Dec 2021 07:02:26 GMT" type="calendarDay" name="12">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 12 Dec 2021 07:02:27 GMT" type="outline">
+					<outline text="&lt;b&gt;Virtual-Personal-Assistant-using-Python&lt;/b&gt;: In this project, we'll be creating a virtual personal assistant for ourselves using our favorite programming language, Python. We can perform several offline as well as online operations using the bot.  " created="Sun, 12 Dec 2021 07:02:51 GMT" type="link" url="https://github.com/ashutoshkrris/Virtual-Personal-Assistant-using-Python"/>
+					<outline text="&lt;b&gt;Zunft war gestern&lt;/b&gt;: So stellte man sich im Jahr 1900 die Zukunft unserer Mobilität vor" created="Sun, 12 Dec 2021 07:04:59 GMT" type="link" url="https://www.derstandard.de/story/2000131787502/so-stellte-man-sich-im-jahr-1900-die-zukunft-unserer"/>
+					</outline>
+				</outline>
 			<outline text="December 11" created="Sat, 11 Dec 2021 12:57:55 GMT" type="calendarDay" name="11">
 				<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;" created="Tue, 07 Dec 2021 07:33:54 GMT" type="outline">
 					<outline text="&lt;b&gt;Code the Classics&lt;/b&gt;: Code your own landscape engine | Wireframe #57 " created="Tue, 07 Dec 2021 07:11:57 GMT" type="link" url="https://www.raspberrypi.com/news/code-your-own-landscape-engine-wireframe-57/"/>
