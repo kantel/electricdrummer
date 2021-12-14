@@ -3,20 +3,27 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Mon, 13 Dec 2021 12:12:38 GMT</dateModified>
+		<dateModified>Tue, 14 Dec 2021 13:09:14 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,8,11,15,16,24,26,31,32,35,36,39,43,48,49,50,59,66,73,77</expansionState>
-		<lastCursor>24</lastCursor>
+		<expansionState>1,2,3,4,6,7,11,12,15,19,20,28,30,35,36,39,40,43,47,52,53,54,63,70,77,81</expansionState>
+		<lastCursor>4</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 14" created="Tue, 14 Dec 2021 13:06:41 GMT" type="calendarDay" name="14">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 14 Dec 2021 13:06:42 GMT" type="outline">
+					<outline text="Kdenlive 21.12 is out" created="Tue, 14 Dec 2021 13:07:03 GMT" type="link" url="https://kdenlive.org/en/2021/12/kdenlive-21-12-is-out/">
+						<outline text="Kdenlive Video Editor Just Got a Blockbuster Update" created="Tue, 14 Dec 2021 13:08:11 GMT" type="link" url="https://www.omgubuntu.co.uk/2021/12/kdenlive-21-12-video-editor-release-new-features"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="December 13" created="Mon, 13 Dec 2021 07:16:43 GMT" type="calendarDay" name="13">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Mon, 13 Dec 2021 07:16:44 GMT" type="outline">
 					<outline text="&lt;b&gt;Weird&lt;/b&gt;: Generative art in Common Lisp – wer nicht funktional programmiert, programmiert dysfunktional." created="Mon, 13 Dec 2021 07:17:02 GMT" type="link" url="https://github.com/inconvergent/weird"/>
