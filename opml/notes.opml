@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Wed, 15 Dec 2021 11:39:04 GMT</dateModified>
+		<dateModified>Wed, 15 Dec 2021 12:03:17 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,4,5,9,10,13,17,18,26,28,33,34,37,38,41,45,50,51,52,61,68,75,79</expansionState>
-		<lastCursor>1</lastCursor>
+		<expansionState>1,2,3,5,8,9,13,14,17,21,22,30,32,37,38,41,42,45,49,54,55,56,65,72,79,83</expansionState>
+		<lastCursor>5</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,7 +19,10 @@
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 15" created="Wed, 15 Dec 2021 10:21:05 GMT" type="calendarDay" name="15">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Wed, 15 Dec 2021 10:21:06 GMT" type="outline">
-					<outline text="Building an Autonomous Generative Art Collection with p5.js" created="Wed, 15 Dec 2021 10:21:46 GMT" type="link" url="https://richtabor.com/generative-art/"/>
+					<outline text="Building an Autonomous Generative Art Collection with p5.js √" created="Wed, 15 Dec 2021 10:21:46 GMT" type="link" url="https://richtabor.com/generative-art/"/>
+					<outline text="&lt;b&gt;Auf dem Weg zur World Markdown&lt;/b&gt;: Type.md is a tool for collaborative editing and sharing of Markdown files on Google Drive. It is free and can be used immediately with a Google account." created="Wed, 15 Dec 2021 11:58:09 GMT" type="link" url=" https://type.md/">
+						<outline text="Type.md Doku" created="Wed, 15 Dec 2021 12:01:52 GMT" type="link" url="https://about.type.md/en/index.html"/>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="December 14" created="Tue, 14 Dec 2021 13:06:41 GMT" type="calendarDay" name="14">
