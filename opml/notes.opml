@@ -3,20 +3,25 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 14 Dec 2021 13:09:14 GMT</dateModified>
+		<dateModified>Wed, 15 Dec 2021 11:39:04 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,6,7,11,12,15,19,20,28,30,35,36,39,40,43,47,52,53,54,63,70,77,81</expansionState>
-		<lastCursor>4</lastCursor>
+		<expansionState>1,4,5,9,10,13,17,18,26,28,33,34,37,38,41,45,50,51,52,61,68,75,79</expansionState>
+		<lastCursor>1</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 15" created="Wed, 15 Dec 2021 10:21:05 GMT" type="calendarDay" name="15">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Wed, 15 Dec 2021 10:21:06 GMT" type="outline">
+					<outline text="Building an Autonomous Generative Art Collection with p5.js" created="Wed, 15 Dec 2021 10:21:46 GMT" type="link" url="https://richtabor.com/generative-art/"/>
+					</outline>
+				</outline>
 			<outline text="December 14" created="Tue, 14 Dec 2021 13:06:41 GMT" type="calendarDay" name="14">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 14 Dec 2021 13:06:42 GMT" type="outline">
 					<outline text="Kdenlive 21.12 is out" created="Tue, 14 Dec 2021 13:07:03 GMT" type="link" url="https://kdenlive.org/en/2021/12/kdenlive-21-12-is-out/">
@@ -26,7 +31,7 @@
 				</outline>
 			<outline text="December 13" created="Mon, 13 Dec 2021 07:16:43 GMT" type="calendarDay" name="13">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Mon, 13 Dec 2021 07:16:44 GMT" type="outline">
-					<outline text="&lt;b&gt;Weird&lt;/b&gt;: Generative art in Common Lisp – wer nicht funktional programmiert, programmiert dysfunktional." created="Mon, 13 Dec 2021 07:17:02 GMT" type="link" url="https://github.com/inconvergent/weird"/>
+					<outline text="&lt;b&gt;Weird&lt;/b&gt;: Generative art in Common Lisp – wer nicht funktional programmiert, programmiert dysfunktional. √" created="Mon, 13 Dec 2021 07:17:02 GMT" type="link" url="https://github.com/inconvergent/weird"/>
 					<outline text="&lt;b&gt;The Python Coding Book&lt;/b&gt;: Simulating a 3D Solar System In Python Using Matplotlib 🐍 " created="Mon, 13 Dec 2021 07:19:52 GMT" type="link" url="https://thepythoncodingbook.com/2021/12/11/simulating-3d-solar-system-python-matplotlib/"/>
 					<outline text="&lt;b&gt;Noch mehr Schlangenfraß&lt;/b&gt;: Python 4.0 will never arrive🤚😔. Said by Python’s creator. Er hat wohl aus dem (vermeidbaren und überflüssigen) Chaos bim Übergang von Python 2.0 auf Python 3.0 gelernt. (Medium.com-Link)" created="Mon, 13 Dec 2021 08:59:42 GMT" type="link" url="https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1"/>
 					</outline>
@@ -34,7 +39,7 @@
 			<outline text="December 12" created="Sun, 12 Dec 2021 07:02:26 GMT" type="calendarDay" name="12">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 12 Dec 2021 07:02:27 GMT" type="outline">
 					<outline text="&lt;b&gt;Virtual-Personal-Assistant-using-Python&lt;/b&gt;: In this project, we'll be creating a virtual personal assistant for ourselves using our favorite programming language, Python. We can perform several offline as well as online operations using the bot.  " created="Sun, 12 Dec 2021 07:02:51 GMT" type="link" url="https://github.com/ashutoshkrris/Virtual-Personal-Assistant-using-Python"/>
-					<outline text="&lt;b&gt;Zukunft war gestern&lt;/b&gt;: So stellte man sich im Jahr 1900 die Zukunft unserer Mobilität vor" created="Sun, 12 Dec 2021 07:04:59 GMT" type="link" url="https://www.derstandard.de/story/2000131787502/so-stellte-man-sich-im-jahr-1900-die-zukunft-unserer"/>
+					<outline text="&lt;b&gt;Zukunft war gestern&lt;/b&gt;: So stellte man sich im Jahr 1900 die Zukunft unserer Mobilität vor √" created="Sun, 12 Dec 2021 07:04:59 GMT" type="link" url="https://www.derstandard.de/story/2000131787502/so-stellte-man-sich-im-jahr-1900-die-zukunft-unserer"/>
 					</outline>
 				<outline text="&lt;b&gt;Apple Open Source&lt;/b&gt;" created="Thu, 09 Dec 2021 08:09:51 GMT" type="outline">
 					<outline text="Apple debuts new Open Source website, will release projects on GitHub " created="Thu, 09 Dec 2021 08:10:38 GMT" type="link" url="https://appleinsider.com/articles/21/12/08/apple-debuts-new-open-source-website-will-release-projects-on-github"/>
