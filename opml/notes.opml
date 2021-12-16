@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Wed, 15 Dec 2021 16:20:22 GMT</dateModified>
+		<dateModified>Thu, 16 Dec 2021 07:24:34 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
 		<expansionState>1,2,3,5,8,9,13,14,17,21,22,30,32,37,38,41,42,45,49,54,55,56,65,72,79,83</expansionState>
-		<lastCursor>4</lastCursor>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
