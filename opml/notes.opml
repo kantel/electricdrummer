@@ -3,20 +3,25 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Thu, 16 Dec 2021 17:12:37 GMT</dateModified>
+		<dateModified>Fri, 17 Dec 2021 08:02:08 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,9,12,13,17,18,21,25,26,34,36,41,42,45,46,49,53,58,59,60,69,76,83,87</expansionState>
-		<lastCursor>4</lastCursor>
+		<expansionState>1,2,3,5,6,9,10,12,15,16,20,21,24,28,29,37,39,44,45,48,49,52,56,61,62,63,72,79,86,90</expansionState>
+		<lastCursor>3</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 17" created="Fri, 17 Dec 2021 08:00:04 GMT" type="calendarDay" name="17">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 17 Dec 2021 08:00:05 GMT" type="outline">
+					<outline text="Get started with WebXR on Glitch" created="Fri, 17 Dec 2021 08:00:23 GMT" type="link" url="https://blog.glitch.com/post/create-your-own-reality-on-glitch"/>
+					</outline>
+				</outline>
 			<outline text="December 16" created="Thu, 16 Dec 2021 17:09:41 GMT" type="calendarDay" name="16">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 16 Dec 2021 17:09:42 GMT" type="outline">
 					<outline text="Tips and Tricks for organizing your Chromebook’s app launcher" created="Thu, 16 Dec 2021 17:09:59 GMT" type="link" url="https://chromeunboxed.com/tips-and-tricks-organizing-your-chromebook-app-launcher"/>
