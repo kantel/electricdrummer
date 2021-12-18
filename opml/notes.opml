@@ -3,20 +3,28 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 18 Dec 2021 06:56:45 GMT</dateModified>
+		<dateModified>Sat, 18 Dec 2021 07:34:46 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,6,7,11,12,15,19,20,28,30,37,38,41,45,50</expansionState>
-		<lastCursor>51</lastCursor>
+		<expansionState>1,2,3,4,11,12,16,17,20,24,25,33,35,42,43,46,50,55</expansionState>
+		<lastCursor>4</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 18" created="Sat, 18 Dec 2021 07:30:05 GMT" type="calendarDay" name="18">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sat, 18 Dec 2021 07:30:06 GMT" type="outline">
+					<outline text="&lt;b&gt;Glitch 🐟&lt;/b&gt;" created="Sat, 18 Dec 2021 07:30:46 GMT">
+						<outline text="&lt;b&gt;Noch mehr WebXR&lt;/b&gt;: Make a VR greetings card in just a few steps " created="Sat, 18 Dec 2021 07:31:45 GMT" type="link" url="https://blog.glitch.com/post/make-a-vr-greetings-card"/>
+						<outline text="&lt;b&gt;World Markdown&lt;/b&gt;: Glitch ist auch ein Google Docs für Markdown" created="Sat, 18 Dec 2021 07:33:15 GMT" type="link" url="https://blog.glitch.com/post/google-docs-markdown-glitch"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="December 17" created="Fri, 17 Dec 2021 08:00:04 GMT" type="calendarDay" name="17">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 17 Dec 2021 08:00:05 GMT" type="outline">
 					<outline text="Get started with WebXR on Glitch" created="Fri, 17 Dec 2021 08:00:23 GMT" type="link" url="https://blog.glitch.com/post/create-your-own-reality-on-glitch"/>
