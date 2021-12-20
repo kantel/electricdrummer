@@ -3,30 +3,35 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 19 Dec 2021 17:43:52 GMT</dateModified>
+		<dateModified>Mon, 20 Dec 2021 15:58:34 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,9,16,17,21,22,25,37,38,43,48</expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>1,2,3,4,7,8,14,21,22,26,27,30,42,43,48,53</expansionState>
+		<lastCursor>5</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 20" created="Mon, 20 Dec 2021 15:47:30 GMT" type="calendarDay" name="20">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Mon, 20 Dec 2021 15:47:31 GMT" type="outline">
+					<outline text="&lt;b&gt;Künstliche Intelligenz:&lt;/b&gt; Retro-Game zeigt Deep-Learning-Schwächen" created="Mon, 20 Dec 2021 15:48:27 GMT" type="link" url="https://mixed.de/nethack-retro-game-zeigt-deep-learning-schwaechen/">
+						<outline text="&lt;b&gt;The NetHack Challenge&lt;/b&gt;: Dungeons, Dragons, and Tourists" created="Mon, 20 Dec 2021 15:53:29 GMT" type="link" url="https://nethackchallenge.com/report.html"/>
+						<outline text="&lt;b&gt;The NetHack Challenge at NeurIPS 2021&lt;/b&gt; - Full Session @ YouTube " created="Mon, 20 Dec 2021 15:56:59 GMT" type="link" url="https://www.youtube.com/watch?v=fVkXE330Bh0"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="December 19" created="Sun, 19 Dec 2021 10:37:40 GMT" type="calendarDay" name="19">
 				<outline text="&lt;b&gt;TIC-80 Tutorials on YouTube&lt;/b&gt;" created="Sun, 19 Dec 2021 17:14:41 GMT" type="outline">
 					<outline text="Playlist (28 Videos): Beginners game programming course - Learn to code by writing Space Invaders" created="Sun, 19 Dec 2021 17:15:43 GMT" type="link" url="https://www.youtube.com/playlist?list=PLvOT6zBnJyYF3FzmfXz2QXMA8xk7JHA_b"/>
-					<outline text="Playlist (6 Videos): Game Coding Tutorials (TIC-80)
-" created="Sun, 19 Dec 2021 17:20:09 GMT" type="link" url="https://www.youtube.com/playlist?list=PLvOT6zBnJyYEi51ZAZLeKz7mIPw4TMR-N"/>
+					<outline text="Playlist (6 Videos): Game Coding Tutorials (TIC-80) " created="Sun, 19 Dec 2021 17:20:09 GMT" type="link" url="https://www.youtube.com/playlist?list=PLvOT6zBnJyYEi51ZAZLeKz7mIPw4TMR-N"/>
 					<outline text="Playlist (22 Videos): TIC-80 Platformer" created="Sun, 19 Dec 2021 17:26:08 GMT" type="link" url="https://www.youtube.com/playlist?list=PLOUbntoMeucFBoxH6-AkpyHA2DJ5oBSPB"/>
-					<outline text="Playlist (32 Videos): TIC-80 Beginner Tutorials
-" created="Sun, 19 Dec 2021 17:30:29 GMT" type="link" url="https://www.youtube.com/playlist?list=PL5VlvsnKT2RptXohkDdgXvmCfdchRZ4hl"/>
-					<outline text="TIC-80 Full Course: Space Invaders in JavaScript
-" created="Sun, 19 Dec 2021 17:37:51 GMT" type="link" url="https://www.youtube.com/watch?v=NEXasM8qrGw"/>
+					<outline text="Playlist (32 Videos): TIC-80 Beginner Tutorials " created="Sun, 19 Dec 2021 17:30:29 GMT" type="link" url="https://www.youtube.com/playlist?list=PL5VlvsnKT2RptXohkDdgXvmCfdchRZ4hl"/>
+					<outline text="TIC-80 Full Course: Space Invaders in JavaScript " created="Sun, 19 Dec 2021 17:37:51 GMT" type="link" url="https://www.youtube.com/watch?v=NEXasM8qrGw"/>
 					</outline>
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sun, 19 Dec 2021 10:37:41 GMT" type="outline">
 					<outline text="Linux for Chromebooks" created="Sun, 19 Dec 2021 10:37:58 GMT" type="link" url="https://github.com/MilkyDeveloper/cb-linux"/>
