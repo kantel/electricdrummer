@@ -3,13 +3,13 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 21 Dec 2021 07:28:53 GMT</dateModified>
+		<dateModified>Tue, 21 Dec 2021 17:27:31 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,8,17,18,22,23,37,42</expansionState>
+		<expansionState>1,2,3,6,7,8,19,20,24,25,39,44</expansionState>
 		<lastCursor>7</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
@@ -29,6 +29,8 @@
 						<outline text="&lt;b&gt;The NetHack Challenge&lt;/b&gt;: Dungeons, Dragons, and Tourists" created="Mon, 20 Dec 2021 15:53:29 GMT" type="link" url="https://nethackchallenge.com/report.html"/>
 						<outline text="&lt;b&gt;The NetHack Challenge at NeurIPS 2021&lt;/b&gt; - Full Session @ YouTube " created="Mon, 20 Dec 2021 15:56:59 GMT" type="link" url="https://www.youtube.com/watch?v=fVkXE330Bh0"/>
 						</outline>
+					<outline text="Eine Million gezüchtete Hirnzellen lernen Pong zu spielen " created="Tue, 21 Dec 2021 16:55:09 GMT" type="link" url="https://futurezone.at/science/hirnzellen-pong-kuenstliche-intelligenz/401849683"/>
+					<outline text="&lt;b&gt;PuzzleScript und Künstliche Intelligenz&lt;/b&gt; im Schockwellenreiter" created="Tue, 21 Dec 2021 16:58:46 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/10/2021102201.html"/>
 					</outline>
 				</outline>
 			<outline text="December 19" created="Sun, 19 Dec 2021 10:37:40 GMT" type="calendarDay" name="19">
