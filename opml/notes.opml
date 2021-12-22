@@ -3,20 +3,25 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 21 Dec 2021 17:27:31 GMT</dateModified>
+		<dateModified>Wed, 22 Dec 2021 15:48:48 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,8,19,20,24,25,39,44</expansionState>
-		<lastCursor>7</lastCursor>
+		<expansionState>1,2,3,5,6,9,10,11,22,23,27,28,42,47</expansionState>
+		<lastCursor>3</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 22" created="Wed, 22 Dec 2021 15:44:29 GMT" type="calendarDay" name="22">
+				<outline text="Trommelwirbel" created="Wed, 22 Dec 2021 15:46:45 GMT" type="outline">
+					<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;:  Rival Gangs - A Grand Theft Auto »demake« arrives on the ZX Spectrum 128k" created="Wed, 22 Dec 2021 15:44:30 GMT" type="link" url="https://www.indieretronews.com/2021/12/rival-gangs-grand-theft-auto-demake.html"/>
+					</outline>
+				</outline>
 			<outline text="December 21" created="Tue, 21 Dec 2021 07:23:24 GMT" type="calendarDay" name="21">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 21 Dec 2021 07:23:25 GMT" type="outline">
 					<outline text="Data visualization with D3.js and Node.js" created="Tue, 21 Dec 2021 07:24:01 GMT" type="link" url="https://blog.logrocket.com/data-visualization-d3-js-node-js/"/>
