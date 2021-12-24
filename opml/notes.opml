@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Thu, 23 Dec 2021 17:31:57 GMT</dateModified>
+		<dateModified>Thu, 23 Dec 2021 17:50:29 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,10,11,14,15,16,19,29,30,34,35,49,54</expansionState>
-		<lastCursor>20</lastCursor>
+		<expansionState>1,2,3,6,7,10,11,14,15,16,19,30,31,35,36,50,55</expansionState>
+		<lastCursor>14</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -43,6 +43,7 @@
 						</outline>
 					<outline text="Eine Million gezüchtete Hirnzellen lernen Pong zu spielen " created="Tue, 21 Dec 2021 16:55:09 GMT" type="link" url="https://futurezone.at/science/hirnzellen-pong-kuenstliche-intelligenz/401849683">
 						<outline text="&lt;b&gt;Sie leben in der Matrix&lt;/b&gt;: Gezüchtete Hirnzellen in Petrischalen spielen Retro-Game »Pong«" created="Thu, 23 Dec 2021 17:17:27 GMT" type="link" url="https://www.20min.ch/story/gezuechtete-hirnzellen-in-petrischalen-spielen-retro-game-pong-761024827410"/>
+						<outline text="&lt;b&gt;Dish Brain&lt;/b&gt;: Cells in a petri dish learned to play pong " created="Thu, 23 Dec 2021 17:49:04 GMT" type="link" url="https://boingboing.net/2021/12/23/cells-in-a-petri-dish-learned-to-play-pong.html"/>
 						</outline>
 					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: 2021 was the year of monster AI models" created="Thu, 23 Dec 2021 17:24:36 GMT" type="link" url="https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/"/>
 					<outline text="&lt;b&gt;PuzzleScript und Künstliche Intelligenz&lt;/b&gt; im Schockwellenreiter" created="Tue, 21 Dec 2021 16:58:46 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/10/2021102201.html"/>
