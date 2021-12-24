@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 24 Dec 2021 12:51:14 GMT</dateModified>
+		<dateModified>Fri, 24 Dec 2021 17:32:12 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,10,11,14,15,18,19,20,23,26,38,39,43,44,58,63</expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>1,6,7,8,11,14,28,29,34,35,49,54</expansionState>
+		<lastCursor>1</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,20 +19,25 @@
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 24" created="Fri, 24 Dec 2021 12:27:16 GMT" type="calendarDay" name="24">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 24 Dec 2021 12:27:17 GMT" type="outline">
-					<outline text="&lt;b&gt;Für Chromebook-Nutzer?&lt;/b&gt; How to Edit Videos With Canva: A Step-By-Step Guide" created="Fri, 24 Dec 2021 12:27:37 GMT" type="link" url="https://www.makeuseof.com/how-to-edit-video-with-canva-guide/"/>
-					<outline text="&lt;b&gt;Auf dem Weg zur World Markdown&lt;/b&gt;: Markdown editor for freedom!" created="Fri, 24 Dec 2021 12:48:06 GMT" type="link" url="https://dev.to/saulmirone/markdown-editor-for-freedom-3jo1"/>
+					<outline text="&lt;b&gt;Für Chromebook-Nutzer?&lt;/b&gt; How to Edit Videos With Canva: A Step-By-Step Guide √" created="Fri, 24 Dec 2021 12:27:37 GMT" type="link" url="https://www.makeuseof.com/how-to-edit-video-with-canva-guide/"/>
+					<outline text="&lt;b&gt;Auf dem Weg zur World Markdown&lt;/b&gt;: Markdown editor for freedom! √" created="Fri, 24 Dec 2021 12:48:06 GMT" type="link" url="https://dev.to/saulmirone/markdown-editor-for-freedom-3jo1"/>
+					<outline text="&lt;b&gt;Tutorial&lt;/b&gt;: Open source desktop publishing with Scribus. Use Scribus to produce print-ready documents for printing either at home, office, or professional print shop. √ " created="Fri, 24 Dec 2021 15:00:48 GMT" type="link" url="https://opensource.com/article/21/12/desktop-publishing-scribus"/>
+					<outline text="&lt;b&gt;Merry Christmas&lt;/b&gt;: Mu 1.1.0-beta.7 " created="Fri, 24 Dec 2021 15:02:56 GMT" type="link" url="https://madewith.mu/mu/users/2021/12/22/beta7.html"/>
+					<outline text="&lt;b&gt;Bannerbild des Tages&lt;/b&gt;: Krampus" created="Fri, 24 Dec 2021 15:08:06 GMT" type="link" url="https://www.flickr.com/photos/x-ray_delta_one/51771383333/"/>
 					</outline>
 				</outline>
 			<outline text="December 23" created="Thu, 23 Dec 2021 17:21:11 GMT" type="calendarDay" name="23">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 23 Dec 2021 17:21:12 GMT" type="outline">
-					<outline text="&lt;b&gt;Krita 5.0 Released&lt;/b&gt; With Big Improvements For Open-Source Digital Painting / 2D Animation" created="Thu, 23 Dec 2021 17:21:39 GMT" type="link" url=""/>
+					<outline text="&lt;b&gt;Krita 5.0 Released&lt;/b&gt; With Big Improvements For Open-Source Digital Painting / 2D Animation " created="Thu, 23 Dec 2021 17:21:39 GMT" type="link" url="https://krita.org/en/item/krita-5-0-released/">
+						<outline text="&lt;b&gt;Pünktlich zum Fest&lt;/b&gt;: Krita 5.0 ist endlich da! " created="Fri, 24 Dec 2021 15:05:44 GMT" type="link" url="https://linuxnews.de/2021/12/krita-5-0-ist-endlich-da/"/>
+						<outline text="&lt;b&gt;Krita 5&lt;/b&gt;: Großes Update für die freie Mac-Zeichen-App " created="Fri, 24 Dec 2021 15:10:17 GMT" type="link" url="https://www.ifun.de/krita-5-grosses-update-fuer-die-freie-mac-zeichen-app-180087/"/>
+						</outline>
 					<outline text="&lt;b&gt;Synfig&lt;/b&gt;: Create your own animations with this open source motion graphics tool" created="Thu, 23 Dec 2021 17:27:20 GMT" type="link" url="https://opensource.com/article/21/12/synfig-motion-graphics"/>
 					</outline>
 				</outline>
 			<outline text="December 22" created="Wed, 22 Dec 2021 15:44:29 GMT" type="calendarDay" name="22">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Wed, 22 Dec 2021 15:46:45 GMT" type="outline">
-					<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;:  Rival Gangs - A Grand Theft Auto »demake« arrives on the ZX Spectrum 128k" created="Wed, 22 Dec 2021 15:44:30 GMT" type="link" url="https://www.indieretronews.com/2021/12/rival-gangs-grand-theft-auto-demake.html"/>
-					<outline text="&lt;b&gt;Markdown Hacks&lt;/b&gt; im Markdown Guide" created="Thu, 23 Dec 2021 07:54:28 GMT" type="link" url="https://www.markdownguide.org/hacks/"/>
+					<outline text="&lt;b&gt;Markdown Hacks&lt;/b&gt; im Markdown Guide √" created="Thu, 23 Dec 2021 07:54:28 GMT" type="link" url="https://www.markdownguide.org/hacks/"/>
 					</outline>
 				</outline>
 			<outline text="December 21" created="Tue, 21 Dec 2021 07:23:24 GMT" type="calendarDay" name="21">
@@ -56,8 +61,10 @@
 						</outline>
 					<outline text="&lt;b&gt;So viel zu lesen, so wenig Zeit&lt;/b&gt;: Best AI and Deep learning books to read in 2022" created="Fri, 24 Dec 2021 12:43:20 GMT" type="link" url="https://theaisummer.com/deep-learning-books-2022/"/>
 					<outline text="&lt;b&gt;PuzzleScript und Künstliche Intelligenz&lt;/b&gt; im Schockwellenreiter" created="Tue, 21 Dec 2021 16:58:46 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/10/2021102201.html"/>
-					<outline text="&lt;b&gt;Meta-Träume und Künstliche Intelligenz&lt;/b&gt;: Meta (Facebook) hat ein neues “Künstliche Intelligenz”-Tool vorgestellt." created="Fri, 24 Dec 2021 12:31:18 GMT" type="link" url="https://scilogs.spektrum.de/gehirn-und-ki/kindertraeume-und-kuenstliche-intelligenz/"/>
+					<outline text="&lt;b&gt;Meta-Träume und Künstliche Intelligenz&lt;/b&gt;: Meta (Facebook) hat ein neues »Künstliche Intelligenz«-Tool vorgestellt." created="Fri, 24 Dec 2021 12:31:18 GMT" type="link" url="https://scilogs.spektrum.de/gehirn-und-ki/kindertraeume-und-kuenstliche-intelligenz/"/>
 					<outline text="&lt;b&gt;Am Anfang war das Spiel&lt;/b&gt;: Daten, Computer und der Aufbruch der Künstlichen Intelligenz " created="Fri, 24 Dec 2021 12:39:18 GMT" type="link" url="https://scilogs.spektrum.de/gehirn-und-ki/am-anfang-war-das-spiel-daten-computer-und-der-aufbruch-der-kuenstlichen-intelligenz/"/>
+					<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;:  Rival Gangs - A Grand Theft Auto »demake« arrives on the ZX Spectrum 128k" created="Wed, 22 Dec 2021 15:44:30 GMT" type="link" url="https://www.indieretronews.com/2021/12/rival-gangs-grand-theft-auto-demake.html"/>
+					<outline text="&lt;b&gt;Robotik&lt;/b&gt; (im Schockwellenreiter): Wissenschaftler der &lt;i&gt;Eindhoven University of Technology&lt;/i&gt; in den Niederlanden haben einen Lego-Roboter gebaut, der sich seinen Weg durch ein hexagonal ausgerichtetes Labyrinth bahnen kann. Das inspiriert mich dazu, TigerJython mal wieder hervorzukramen und dem darin integrierten Robotik-Modul meine Aufmerksamkeit zu widmen. Denn soweit ich mich erinnere, kann dieses Modul auch Lego-Roboter steuern." created="Fri, 24 Dec 2021 15:11:58 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/12/2021121901.html"/>
 					</outline>
 				</outline>
 			<outline text="December 19" created="Sun, 19 Dec 2021 10:37:40 GMT" type="calendarDay" name="19">
@@ -115,6 +122,7 @@
 					<outline text="&lt;b&gt;Weird&lt;/b&gt;: Generative art in Common Lisp – wer nicht funktional programmiert, programmiert dysfunktional. √" created="Mon, 13 Dec 2021 07:17:02 GMT" type="link" url="https://github.com/inconvergent/weird"/>
 					<outline text="&lt;b&gt;The Python Coding Book&lt;/b&gt;: Simulating a 3D Solar System In Python Using Matplotlib 🐍 " created="Mon, 13 Dec 2021 07:19:52 GMT" type="link" url="https://thepythoncodingbook.com/2021/12/11/simulating-3d-solar-system-python-matplotlib/"/>
 					<outline text="&lt;b&gt;Noch mehr Schlangenfraß&lt;/b&gt;: Python 4.0 will never arrive🤚😔. Said by Python’s creator. Er hat wohl aus dem (vermeidbaren und überflüssigen) Chaos bim Übergang von Python 2.0 auf Python 3.0 gelernt. (Medium.com-Link)" created="Mon, 13 Dec 2021 08:59:42 GMT" type="link" url="https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1"/>
+					<outline text="&lt;b&gt;More Than Words&lt;/b&gt; – Your Emoji Says A Lot. A brief overview of three emoji interpreter Python packages. " created="Fri, 24 Dec 2021 14:58:43 GMT" type="link" url="https://towardsdatascience.com/more-than-words-your-emoji-says-a-lot-96f4ec21af23"/>
 					</outline>
 				</outline>
 			<outline text="December 12" created="Sun, 12 Dec 2021 07:02:26 GMT" type="calendarDay" name="12">
