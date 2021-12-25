@@ -3,20 +3,34 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 24 Dec 2021 17:32:12 GMT</dateModified>
+		<dateModified>Sat, 25 Dec 2021 11:19:13 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,6,7,8,11,14,28,29,34,35,49,54</expansionState>
-		<lastCursor>1</lastCursor>
+		<expansionState>1,2,3,7,9,16,17,18,21,28,33,43,44,49,50,64,69</expansionState>
+		<lastCursor>8</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 25" created="Sat, 25 Dec 2021 10:41:24 GMT" type="calendarDay" name="25">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sat, 25 Dec 2021 10:41:25 GMT" type="outline">
+					<outline text="&lt;b&gt;Chromebook Notes&lt;/b&gt;: How to take a screenshot on a Chromebook" created="Sat, 25 Dec 2021 11:00:59 GMT" type="link" url="https://www.cnet.com/tech/computing/how-to-take-a-screenshot-on-a-chromebook/"/>
+					<outline text="&lt;b&gt;Multimedia-Geschichte(n)&lt;/b&gt;: The Magical Animation of »Rudolph the Red-Nosed Reindeer«" created="Sat, 25 Dec 2021 11:02:38 GMT" type="link" url="https://www.smithsonianmag.com/innovation/magical-animation-rudolph-red-nosed-reindeer-180973841/"/>
+					<outline text="&lt;b&gt;Künstler des Monats Dezember 2021&lt;/b&gt;: Rethinking Kandinsky (mit Bannerbild des Tages)" created="Sat, 25 Dec 2021 11:04:33 GMT" type="link" url="https://hyperallergic.com/699716/rethinking-kandinsky/"/>
+					<outline text="&lt;b&gt;World Markdown&lt;/b&gt;: Bangle.io – a web only WYSIWYG note taking app that saves notes locally in markdown format" created="Sat, 25 Dec 2021 11:08:33 GMT" type="link" url="https://github.com/bangle-io/bangle-io">
+						<outline text="Bangle.io Home (und online)" created="Sat, 25 Dec 2021 11:10:33 GMT" type="link" url="https://bangle.io/"/>
+						</outline>
+					<outline text="&lt;b&gt;Gemeinsam Designsam&lt;/b&gt;: Open source design collaboration with Penpot" created="Sat, 25 Dec 2021 11:13:34 GMT" type="link" url="https://opensource.com/article/21/12/open-source-design-penpot">
+						<outline text="Penpot online" created="Sat, 25 Dec 2021 11:16:05 GMT" type="link" url="https://penpot.app/"/>
+						</outline>
+					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt; LISP In 436 Bytes" created="Sat, 25 Dec 2021 11:17:19 GMT" type="link" url="https://hackaday.com/2021/12/23/lisp-in-436-bytes/"/>
+					</outline>
+				</outline>
 			<outline text="December 24" created="Fri, 24 Dec 2021 12:27:16 GMT" type="calendarDay" name="24">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 24 Dec 2021 12:27:17 GMT" type="outline">
 					<outline text="&lt;b&gt;Für Chromebook-Nutzer?&lt;/b&gt; How to Edit Videos With Canva: A Step-By-Step Guide √" created="Fri, 24 Dec 2021 12:27:37 GMT" type="link" url="https://www.makeuseof.com/how-to-edit-video-with-canva-guide/"/>
@@ -52,10 +66,6 @@
 						<outline text="&lt;b&gt;The NetHack Challenge&lt;/b&gt;: Dungeons, Dragons, and Tourists" created="Mon, 20 Dec 2021 15:53:29 GMT" type="link" url="https://nethackchallenge.com/report.html"/>
 						<outline text="&lt;b&gt;The NetHack Challenge at NeurIPS 2021&lt;/b&gt; - Full Session @ YouTube " created="Mon, 20 Dec 2021 15:56:59 GMT" type="link" url="https://www.youtube.com/watch?v=fVkXE330Bh0"/>
 						</outline>
-					<outline text="Eine Million gezüchtete Hirnzellen lernen Pong zu spielen " created="Tue, 21 Dec 2021 16:55:09 GMT" type="link" url="https://futurezone.at/science/hirnzellen-pong-kuenstliche-intelligenz/401849683">
-						<outline text="&lt;b&gt;Sie leben in der Matrix&lt;/b&gt;: Gezüchtete Hirnzellen in Petrischalen spielen Retro-Game »Pong«" created="Thu, 23 Dec 2021 17:17:27 GMT" type="link" url="https://www.20min.ch/story/gezuechtete-hirnzellen-in-petrischalen-spielen-retro-game-pong-761024827410"/>
-						<outline text="&lt;b&gt;Dish Brain&lt;/b&gt;: Cells in a petri dish learned to play pong " created="Thu, 23 Dec 2021 17:49:04 GMT" type="link" url="https://boingboing.net/2021/12/23/cells-in-a-petri-dish-learned-to-play-pong.html"/>
-						</outline>
 					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: 2021 was the year of monster AI models" created="Thu, 23 Dec 2021 17:24:36 GMT" type="link" url="https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/">
 						<outline text="&lt;b&gt;Deutsche Übersetzung&lt;/b&gt;: 2021 – Das Jahr der KI-Monstermodelle" created="Fri, 24 Dec 2021 12:45:57 GMT" type="link" url="https://www.heise.de/hintergrund/2021-Das-Jahr-der-KI-Monstermodelle-6305269.html"/>
 						</outline>
@@ -63,8 +73,18 @@
 					<outline text="&lt;b&gt;PuzzleScript und Künstliche Intelligenz&lt;/b&gt; im Schockwellenreiter" created="Tue, 21 Dec 2021 16:58:46 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/10/2021102201.html"/>
 					<outline text="&lt;b&gt;Meta-Träume und Künstliche Intelligenz&lt;/b&gt;: Meta (Facebook) hat ein neues »Künstliche Intelligenz«-Tool vorgestellt." created="Fri, 24 Dec 2021 12:31:18 GMT" type="link" url="https://scilogs.spektrum.de/gehirn-und-ki/kindertraeume-und-kuenstliche-intelligenz/"/>
 					<outline text="&lt;b&gt;Am Anfang war das Spiel&lt;/b&gt;: Daten, Computer und der Aufbruch der Künstlichen Intelligenz " created="Fri, 24 Dec 2021 12:39:18 GMT" type="link" url="https://scilogs.spektrum.de/gehirn-und-ki/am-anfang-war-das-spiel-daten-computer-und-der-aufbruch-der-kuenstlichen-intelligenz/"/>
-					<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;:  Rival Gangs - A Grand Theft Auto »demake« arrives on the ZX Spectrum 128k" created="Wed, 22 Dec 2021 15:44:30 GMT" type="link" url="https://www.indieretronews.com/2021/12/rival-gangs-grand-theft-auto-demake.html"/>
 					<outline text="&lt;b&gt;Robotik&lt;/b&gt; (im Schockwellenreiter): Wissenschaftler der &lt;i&gt;Eindhoven University of Technology&lt;/i&gt; in den Niederlanden haben einen Lego-Roboter gebaut, der sich seinen Weg durch ein hexagonal ausgerichtetes Labyrinth bahnen kann. Das inspiriert mich dazu, TigerJython mal wieder hervorzukramen und dem darin integrierten Robotik-Modul meine Aufmerksamkeit zu widmen. Denn soweit ich mich erinnere, kann dieses Modul auch Lego-Roboter steuern." created="Fri, 24 Dec 2021 15:11:58 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/12/2021121901.html"/>
+					<outline text="&lt;b&gt;LowRes NX&lt;/b&gt;: Eine weitere, freie Fantasy Console, programmierbar in BASIC – mehr Retro geht nicht" created="Sat, 25 Dec 2021 10:43:51 GMT" type="link" url="https://lowresnx.inutilis.com/">
+						<outline text="LowRex NX User Manual" created="Sat, 25 Dec 2021 10:46:59 GMT" type="link" url="https://lowresnx.inutilis.com/help.php"/>
+						<outline text="LowRes NX @ GitHub" created="Sat, 25 Dec 2021 10:49:11 GMT" type="link" url="https://github.com/timoinutilis/lowres-nx"/>
+						<outline text="LowRex NX @ GameFromScratch" created="Sat, 25 Dec 2021 10:50:33 GMT" type="link" url="https://gamefromscratch.com/lowres-nx-fantasy-console/"/>
+						<outline text="LowRes NX – Awesome Free Fantasy Console For Win/Mac/Linux and iOS! (Video) " created="Sat, 25 Dec 2021 10:51:46 GMT" type="link" url="https://www.youtube.com/watch?v=1F4TOtT2k1M"/>
+						</outline>
+					<outline text="Eine Million gezüchtete Hirnzellen lernen Pong zu spielen " created="Tue, 21 Dec 2021 16:55:09 GMT" type="link" url="https://futurezone.at/science/hirnzellen-pong-kuenstliche-intelligenz/401849683">
+						<outline text="&lt;b&gt;Sie leben in der Matrix&lt;/b&gt;: Gezüchtete Hirnzellen in Petrischalen spielen Retro-Game »Pong«" created="Thu, 23 Dec 2021 17:17:27 GMT" type="link" url="https://www.20min.ch/story/gezuechtete-hirnzellen-in-petrischalen-spielen-retro-game-pong-761024827410"/>
+						<outline text="&lt;b&gt;Dish Brain&lt;/b&gt;: Cells in a petri dish learned to play pong " created="Thu, 23 Dec 2021 17:49:04 GMT" type="link" url="https://boingboing.net/2021/12/23/cells-in-a-petri-dish-learned-to-play-pong.html"/>
+						</outline>
+					<outline text="&lt;b&gt;Retro Gaming&lt;/b&gt;:  Rival Gangs - A Grand Theft Auto »demake« arrives on the ZX Spectrum 128k" created="Wed, 22 Dec 2021 15:44:30 GMT" type="link" url="https://www.indieretronews.com/2021/12/rival-gangs-grand-theft-auto-demake.html"/>
 					</outline>
 				</outline>
 			<outline text="December 19" created="Sun, 19 Dec 2021 10:37:40 GMT" type="calendarDay" name="19">
