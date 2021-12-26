@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 26 Dec 2021 14:11:10 GMT</dateModified>
+		<dateModified>Sun, 26 Dec 2021 14:15:26 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,11,14,15,27,28,29,33,40,62,67</expansionState>
-		<lastCursor>11</lastCursor>
+		<expansionState>1,2,3,5,11,14,15,28,29,30,34,41,63,68</expansionState>
+		<lastCursor>17</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -35,6 +35,7 @@
 						<outline text="Pyavataaars GitHub Repo" created="Sun, 26 Dec 2021 13:24:06 GMT" type="link" url="https://github.com/kebu/py-avataaars">
 							<outline text="Avataaars Home (Chrome meckert)" created="Sun, 26 Dec 2021 13:26:19 GMT" type="link" url="https://avataaars.com/"/>
 							<outline text="Avataaars Demo (Video)" created="Sun, 26 Dec 2021 13:28:00 GMT" type="link" url="https://www.youtube.com/watch?v=adNat6p5xHE"/>
+							<outline text="Avataaars Generator Video-Tutorial" created="Sun, 26 Dec 2021 14:14:21 GMT" type="link" url="https://www.youtube.com/watch?v=3TcppNYZ7XU"/>
 							<outline text="&lt;b&gt;Avataaars Web Editor&lt;/b&gt; by &lt;i&gt;Fang-Pen Lin&lt;/i&gt;" created="Sun, 26 Dec 2021 13:29:13 GMT" type="link" url="https://getavataaars.com/"/>
 							<outline text="Avaaatars im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Sun, 26 Dec 2021 14:03:04 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/10/2021102501.html"/>
 							</outline>
