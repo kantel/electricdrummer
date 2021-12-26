@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 26 Dec 2021 14:15:26 GMT</dateModified>
+		<dateModified>Sun, 26 Dec 2021 17:42:16 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,11,14,15,28,29,30,34,41,63,68</expansionState>
-		<lastCursor>17</lastCursor>
+		<expansionState>1,2,3,5,17,18,19,23,30,52,57</expansionState>
+		<lastCursor>10</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -30,8 +30,8 @@
 					</outline>
 				<outline text="&lt;b&gt;Schlangenfraß&lt;/b&gt;" created="Sun, 26 Dec 2021 13:20:33 GMT" type="outline">
 					<outline text="&lt;b&gt;The Python Coding Book&lt;/b&gt;: Simulating a 3D Solar System In Python Using Matplotlib 🐍 " created="Mon, 13 Dec 2021 07:19:52 GMT" type="link" url="https://thepythoncodingbook.com/2021/12/11/simulating-3d-solar-system-python-matplotlib/"/>
-					<outline text="&lt;b&gt;Virtual-Personal-Assistant-using-Python&lt;/b&gt;: In this project, we'll be creating a virtual personal assistant for ourselves using our favorite programming language, Python. We can perform several offline as well as online operations using the bot." created="Sun, 12 Dec 2021 07:02:51 GMT" type="link" url="https://github.com/ashutoshkrris/Virtual-Personal-Assistant-using-Python"/>
-					<outline text="&lt;b&gt;Pyavataaars Tutorial&lt;/b&gt;: Create your own Avatar icon using Python " created="Sun, 26 Dec 2021 13:22:26 GMT" type="link" url="https://www.youtube.com/watch?v=P0-5Nf_rPRs">
+					<outline text="&lt;b&gt;Virtual-Personal-Assistant-using-Python&lt;/b&gt;: In this project, we'll be creating a virtual personal assistant for ourselves using our favorite programming language, Python. We can perform several offline as well as online operations using the bot. √" created="Sun, 12 Dec 2021 07:02:51 GMT" type="link" url="https://github.com/ashutoshkrris/Virtual-Personal-Assistant-using-Python"/>
+					<outline text="&lt;b&gt;Pyavataaars Tutorial&lt;/b&gt;: Create your own Avatar icon using Python √ " created="Sun, 26 Dec 2021 13:22:26 GMT" type="link" url="https://www.youtube.com/watch?v=P0-5Nf_rPRs">
 						<outline text="Pyavataaars GitHub Repo" created="Sun, 26 Dec 2021 13:24:06 GMT" type="link" url="https://github.com/kebu/py-avataaars">
 							<outline text="Avataaars Home (Chrome meckert)" created="Sun, 26 Dec 2021 13:26:19 GMT" type="link" url="https://avataaars.com/"/>
 							<outline text="Avataaars Demo (Video)" created="Sun, 26 Dec 2021 13:28:00 GMT" type="link" url="https://www.youtube.com/watch?v=adNat6p5xHE"/>
@@ -40,7 +40,8 @@
 							<outline text="Avaaatars im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Sun, 26 Dec 2021 14:03:04 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/10/2021102501.html"/>
 							</outline>
 						</outline>
-					<outline text="&lt;b&gt;More Than Words&lt;/b&gt; – Your Emoji Says A Lot. A brief overview of three emoji interpreter Python packages. " created="Fri, 24 Dec 2021 14:58:43 GMT" type="link" url="https://towardsdatascience.com/more-than-words-your-emoji-says-a-lot-96f4ec21af23"/>
+					<outline text="&lt;b&gt;Wie ist das Wetter draußen?&lt;/b&gt; Create Your Own Weather App With Python and TuyaAPI (With GUI) √ " created="Sun, 26 Dec 2021 15:17:08 GMT" type="link" url="https://dev.to/unitybuddy/create-your-own-weather-app-with-python-tuyaapi-with-gui-4bf0"/>
+					<outline text="&lt;b&gt;More Than Words&lt;/b&gt; – Your Emoji Says A Lot. A brief overview of three emoji interpreter Python packages. √" created="Fri, 24 Dec 2021 14:58:43 GMT" type="link" url="https://towardsdatascience.com/more-than-words-your-emoji-says-a-lot-96f4ec21af23"/>
 					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt; Python 4.0 will never arrive🤚😔. Said by Python’s creator. Er hat wohl aus dem (vermeidbaren und überflüssigen) Chaos beim Übergang von Python 2.0 auf Python 3.0 gelernt. (Medium.com-Link)" created="Mon, 13 Dec 2021 08:59:42 GMT" type="link" url="https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1"/>
 					</outline>
 				</outline>
