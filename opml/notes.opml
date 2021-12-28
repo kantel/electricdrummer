@@ -3,20 +3,26 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Mon, 27 Dec 2021 16:46:13 GMT</dateModified>
+		<dateModified>Tue, 28 Dec 2021 07:39:01 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,7,11,13,26,27,28,32,39</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,6,7,9,11,15,17,30,31,32,36,43</expansionState>
+		<lastCursor>7</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 28" created="Tue, 28 Dec 2021 07:33:11 GMT" type="calendarDay" name="28">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Tue, 28 Dec 2021 07:33:12 GMT" type="outline">
+					<outline text="&lt;b&gt;Nostalgie redux&lt;/b&gt;: So hätten Zoom, Google Chrome und Spotify im Jahr 1999 ausgesehen" created="Tue, 28 Dec 2021 07:33:38 GMT" type="link" url="https://www.derstandard.de/story/2000132159456/so-haetten-zoom-google-chrome-und-spotify-im-jahr-1999"/>
+					<outline text="Meta investiert in Open-Source-Engine Godot" created="Tue, 28 Dec 2021 07:37:29 GMT" type="link" url="https://mixed.de/meta-investiert-in-open-source-engine-godot-weshalb/"/>
+					</outline>
+				</outline>
 			<outline text="December 27" created="Mon, 27 Dec 2021 07:57:52 GMT" type="calendarDay" name="27">
 				<outline text="&lt;b&gt;History of Games&lt;/b&gt;" created="Mon, 27 Dec 2021 16:43:55 GMT" type="outline">
 					<outline text="&lt;b&gt;Progress in Play&lt;/b&gt;: Board Games and the Meaning of History " created="Mon, 27 Dec 2021 16:44:34 GMT" type="link" url="https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history"/>
