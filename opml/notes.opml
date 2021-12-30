@@ -3,20 +3,25 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Wed, 29 Dec 2021 17:33:29 GMT</dateModified>
+		<dateModified>Thu, 30 Dec 2021 07:36:05 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,10,11,13,15,19,21,34,35,36,40,47</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,5,6,9,10,13,14,16,18,22,24,37,38,39,43,50</expansionState>
+		<lastCursor>5</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 30" created="Thu, 30 Dec 2021 07:34:18 GMT" type="calendarDay" name="30">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 30 Dec 2021 07:34:19 GMT" type="outline">
+					<outline text="&lt;b&gt;Markdown und HTML&lt;/b&gt;: On Yak Shaving and md-block, a new HTML element for Markdown " created="Thu, 30 Dec 2021 07:34:37 GMT" type="link" url="https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/"/>
+					</outline>
+				</outline>
 			<outline text="December 29" created="Wed, 29 Dec 2021 07:42:54 GMT" type="calendarDay" name="29">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Wed, 29 Dec 2021 07:42:55 GMT" type="outline">
 					<outline text="&lt;b&gt;Statische Seiten&lt;/b&gt;: Make it static! " created="Wed, 29 Dec 2021 17:31:53 GMT" type="link" url="https://media.ccc.de/v/rc3-2021-cwtv-343-make-it-static"/>
