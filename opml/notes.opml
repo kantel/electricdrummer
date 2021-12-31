@@ -3,20 +3,27 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Thu, 30 Dec 2021 16:12:44 GMT</dateModified>
+		<dateModified>Fri, 31 Dec 2021 11:53:18 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,7,10,11,14,15,17,19,23,25,38,39,40,44,51</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,4,6,7,10,11,14,15,18,19,21,23,27,29,42,43,44,47,48,51,58</expansionState>
+		<lastCursor>46</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="December 2021" created="Wed, 01 Dec 2021 16:07:18 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 31" created="Fri, 31 Dec 2021 11:44:54 GMT" type="calendarDay" name="31">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 31 Dec 2021 11:44:55 GMT" type="outline">
+					<outline text="&lt;b&gt;Fischiges&lt;/b&gt;: Last Year on Glitch 🎏" created="Fri, 31 Dec 2021 11:45:08 GMT" type="link" url="https://glitch.com/create-project?utm_campaign=Monthly+newslet&amp;utm_content=182644_Monthly+newsletter%2C+LYoG+edition+%28December+2021%29&amp;utm_medium=email&amp;utm_source=customer.io#lyog">
+						<outline text="Daraus besonders interessant: P5.js Demos" created="Fri, 31 Dec 2021 11:48:16 GMT" type="link" url="https://p5-demos.glitch.me/"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="December 30" created="Thu, 30 Dec 2021 07:34:18 GMT" type="calendarDay" name="30">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 30 Dec 2021 07:34:19 GMT" type="outline">
 					<outline text="&lt;b&gt;Markdown und HTML&lt;/b&gt;: On Yak Shaving and md-block, a new HTML element for Markdown " created="Thu, 30 Dec 2021 07:34:37 GMT" type="link" url="https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/"/>
@@ -164,12 +171,17 @@
 					</outline>
 				</outline>
 			<outline text="December 20" created="Mon, 20 Dec 2021 15:47:30 GMT" type="calendarDay" name="20">
-				<outline text="&lt;b&gt;Proposal: Retro Gaming und Künstliche Intelligenz&lt;/b&gt;" created="Mon, 20 Dec 2021 15:47:31 GMT" type="outline">
+				<outline text="&lt;b&gt;Proposal: Retro Gaming und Künstliche Intelligenz 🤖&lt;/b&gt;" created="Mon, 20 Dec 2021 15:47:31 GMT" type="outline">
 					<outline text="&lt;b&gt;Künstliche Intelligenz:&lt;/b&gt; Retro-Game zeigt Deep-Learning-Schwächen" created="Mon, 20 Dec 2021 15:48:27 GMT" type="link" url="https://mixed.de/nethack-retro-game-zeigt-deep-learning-schwaechen/">
 						<outline text="&lt;b&gt;The NetHack Challenge&lt;/b&gt;: Dungeons, Dragons, and Tourists" created="Mon, 20 Dec 2021 15:53:29 GMT" type="link" url="https://nethackchallenge.com/report.html"/>
 						<outline text="&lt;b&gt;The NetHack Challenge at NeurIPS 2021&lt;/b&gt; - Full Session @ YouTube " created="Mon, 20 Dec 2021 15:56:59 GMT" type="link" url="https://www.youtube.com/watch?v=fVkXE330Bh0"/>
 						</outline>
-					<outline text="&lt;b&gt;Dawnlike&lt;/b&gt;: Freies, von NetHack inspriertes 16x16 Tileset auf OpenGameArt.org, eventuell brauchbar für TIC-80 oder LowResNX (testen, denn damit wollte ich schon immer einmal etwas anstellen)." created="Sun, 26 Dec 2021 14:05:56 GMT" type="link" url="https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181"/>
+					<outline text="&lt;b&gt;Dawnlike&lt;/b&gt;: Freies, von NetHack inspriertes 16x16 Tileset auf OpenGameArt.org, eventuell brauchbar für TIC-80 oder LowRes NX (testen, denn mit Dawnlike wollte ich schon immer einmal etwas anstellen)." created="Sun, 26 Dec 2021 14:05:56 GMT" type="link" url="https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181">
+						<outline text="Eingesetzt hatte ich Dawnlike schon einmal mit TigerJython, vielleicht kann man auch daraus mehr machen?" created="Fri, 31 Dec 2021 11:40:39 GMT">
+							<outline text="&lt;b&gt;DawnHack Stage 1&lt;/b&gt; mit TigerJython und GameGrid im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Fri, 31 Dec 2021 11:35:05 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/01/2021012402.html"/>
+							<outline text="&lt;b&gt;DawnHack Stage 2&lt;/b&gt; mit TigerJython und GameGrid im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Fri, 31 Dec 2021 11:36:40 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/01/2021012501.html"/>
+							</outline>
+						</outline>
 					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: 2021 was the year of monster AI models" created="Thu, 23 Dec 2021 17:24:36 GMT" type="link" url="https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/">
 						<outline text="&lt;b&gt;Deutsche Übersetzung&lt;/b&gt;: 2021 – Das Jahr der KI-Monstermodelle" created="Fri, 24 Dec 2021 12:45:57 GMT" type="link" url="https://www.heise.de/hintergrund/2021-Das-Jahr-der-KI-Monstermodelle-6305269.html"/>
 						</outline>
