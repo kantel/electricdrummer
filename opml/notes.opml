@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 04 Jan 2022 16:53:25 GMT</dateModified>
+		<dateModified>Tue, 04 Jan 2022 16:55:40 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
 		<expansionState>1,2,3,7,9,11,12,13,17,18,21,24,25,27,33</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>3</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,7 +19,7 @@
 		<outline text="January 2022" created="Tue, 04 Jan 2022 07:30:42 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 4" created="Tue, 04 Jan 2022 07:30:43 GMT" type="calendarDay" name="04">
 				<outline text="&lt;b&gt;Pentagonal Tesselation in Processing&lt;/b&gt; " created="Tue, 04 Jan 2022 16:46:20 GMT" type="outline">
-					<outline text="Quellcode" created="Tue, 04 Jan 2022 16:47:01 GMT" type="link" url="https://discourse.processing.org/t/pentagonal-tesselation/34416"/>
+					<outline text="Quellcode (so etwas als Übung mal in TigerJython impementieren – mit GPanel? " created="Tue, 04 Jan 2022 16:47:01 GMT" type="link" url="https://discourse.processing.org/t/pentagonal-tesselation/34416"/>
 					<outline text="Pentagonal Tiling &lt;i&gt;(Department of Mathematics, Dartmouth College)&lt;/i&gt;" created="Tue, 04 Jan 2022 16:48:20 GMT" type="link" url="https://math.dartmouth.edu/~mutzel/pentagonal_tiling.pdf"/>
 					<outline text="Wikipedia: Cairo pentagonal tiling " created="Tue, 04 Jan 2022 16:50:06 GMT" type="link" url="https://en.wikipedia.org/wiki/Cairo_pentagonal_tiling"/>
 					</outline>
