@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 04 Jan 2022 16:55:40 GMT</dateModified>
+		<dateModified>Tue, 04 Jan 2022 17:50:06 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,9,11,12,13,17,18,21,24,25,27,33</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,7,9,12,13,14,18,19,22,25,26,28,34</expansionState>
+		<lastCursor>2</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,7 +19,7 @@
 		<outline text="January 2022" created="Tue, 04 Jan 2022 07:30:42 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 4" created="Tue, 04 Jan 2022 07:30:43 GMT" type="calendarDay" name="04">
 				<outline text="&lt;b&gt;Pentagonal Tesselation in Processing&lt;/b&gt; " created="Tue, 04 Jan 2022 16:46:20 GMT" type="outline">
-					<outline text="Quellcode (so etwas als Übung mal in TigerJython impementieren – mit GPanel? " created="Tue, 04 Jan 2022 16:47:01 GMT" type="link" url="https://discourse.processing.org/t/pentagonal-tesselation/34416"/>
+					<outline text="Quellcode (so etwas als Übung mal in TigerJython impementieren – mit GPanel?) " created="Tue, 04 Jan 2022 16:47:01 GMT" type="link" url="https://discourse.processing.org/t/pentagonal-tesselation/34416"/>
 					<outline text="Pentagonal Tiling &lt;i&gt;(Department of Mathematics, Dartmouth College)&lt;/i&gt;" created="Tue, 04 Jan 2022 16:48:20 GMT" type="link" url="https://math.dartmouth.edu/~mutzel/pentagonal_tiling.pdf"/>
 					<outline text="Wikipedia: Cairo pentagonal tiling " created="Tue, 04 Jan 2022 16:50:06 GMT" type="link" url="https://en.wikipedia.org/wiki/Cairo_pentagonal_tiling"/>
 					</outline>
@@ -27,6 +27,8 @@
 					<outline text="&lt;b&gt;All about Alice&lt;/b&gt;: &lt;i&gt;Lewis Carroll&lt;/i&gt; Invented Retroactive Public Goods Funding In 1894" created="Tue, 04 Jan 2022 16:38:54 GMT" type="link" url="https://astralcodexten.substack.com/p/lewis-carroll-invented-retroactive"/>
 					<outline text="&lt;b&gt;Noch ein freies, plattformübergreifendes Malprogramm&lt;/b&gt;: Pinta 2.0 Open-Source Paint Program Is Out Now as a Major Update, Ported to GTK 3" created="Tue, 04 Jan 2022 07:31:03 GMT" type="link" url="https://9to5linux.com/pinta-2-0-open-source-paint-program-is-out-now-as-a-major-update-ported-to-gtk-3">
 						<outline text="&lt;b&gt;Bildbearbeitung&lt;/b&gt;: Pinta 2.0 wechselt auf GTK+ 3 und .NET 6" created="Tue, 04 Jan 2022 07:33:09 GMT" type="link" url="https://www.computerbase.de/2022-01/bildbearbeitung-pinta-2.0-wechselt-auf-gtk-plus-3-und-.net-6/"/>
+						<outline text="Pinta 2.0: Einfache Grafik-Freeware für macOS
+" created="Tue, 04 Jan 2022 17:06:58 GMT" type="link" url="https://www.ifun.de/pinta-2-0-einfache-grafik-freeware-fuer-macos-180411/"/>
 						</outline>
 					</outline>
 				</outline>
