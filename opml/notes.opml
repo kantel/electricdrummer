@@ -3,13 +3,13 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Mon, 10 Jan 2022 12:42:29 GMT</dateModified>
+		<dateModified>Mon, 10 Jan 2022 16:29:31 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,4,7,8,16,17,21,23,25,27,31,32,39,40,42,48</expansionState>
+		<expansionState>1,2,3,6,7,15,16,20,22,24,26,30,31,38,39,41,47</expansionState>
 		<lastCursor>4</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
@@ -19,7 +19,7 @@
 		<outline text="January 2022" created="Sat, 08 Jan 2022 10:21:49 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 10" created="Mon, 10 Jan 2022 12:24:30 GMT" type="calendarDay" name="10">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Mon, 10 Jan 2022 12:24:31 GMT" type="outline">
-					<outline text="&lt;b&gt;Intro to Streamlit&lt;/b&gt;: Build and Deploy a Web App in 30 mins with Python" created="Mon, 10 Jan 2022 12:24:59 GMT" type="link" url="https://reine-ran.medium.com/build-and-deploy-a-web-app-in-30-mins-in-python-7519ff48b185">
+					<outline text="&lt;b&gt;Intro to Streamlit&lt;/b&gt;: Build and Deploy a Web App in 30 mins with Python √" created="Mon, 10 Jan 2022 12:24:59 GMT" type="link" url="https://reine-ran.medium.com/build-and-deploy-a-web-app-in-30-mins-in-python-7519ff48b185">
 						<outline text="Streamlit Home" created="Mon, 10 Jan 2022 12:26:37 GMT" type="link" url="https://streamlit.io/"/>
 						</outline>
 					<outline text="&lt;b&gt;MyST for Markdown&lt;/b&gt;: Static Sites with Sphinx and Markdown" created="Mon, 10 Jan 2022 12:31:55 GMT" type="link" url="https://training.talkpython.fm/courses/static-sites-with-sphinx-and-markdown"/>
