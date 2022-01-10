@@ -3,25 +3,37 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 09 Jan 2022 11:33:06 GMT</dateModified>
+		<dateModified>Mon, 10 Jan 2022 12:39:16 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,8,12,14,16,18,22,23,30,31,33,39</expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>1,2,3,6,7,15,16,20,22,24,26,30,31,38,39,41,47</expansionState>
+		<lastCursor>6</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 08 Jan 2022 10:21:49 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 10" created="Mon, 10 Jan 2022 12:24:30 GMT" type="calendarDay" name="10">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Mon, 10 Jan 2022 12:24:31 GMT" type="outline">
+					<outline text="&lt;b&gt;Intro to Strimlit&lt;/b&gt;: Build and Deploy a Web App in 30 mins with Python" created="Mon, 10 Jan 2022 12:24:59 GMT" type="link" url="https://reine-ran.medium.com/build-and-deploy-a-web-app-in-30-mins-in-python-7519ff48b185">
+						<outline text="Strimlit Home" created="Mon, 10 Jan 2022 12:26:37 GMT" type="link" url="https://streamlit.io/"/>
+						</outline>
+					<outline text="&lt;b&gt;MyST for Markdown&lt;/b&gt;: Static Sites with Sphinx and Markdown" created="Mon, 10 Jan 2022 12:31:55 GMT" type="link" url="https://training.talkpython.fm/courses/static-sites-with-sphinx-and-markdown"/>
+					</outline>
+				</outline>
 			<outline text="January 9" created="Sun, 09 Jan 2022 10:07:28 GMT" type="calendarDay" name="09">
 				<outline text="&lt;b&gt;Retro Gaming und Pixel Art&lt;/b&gt;" created="Sun, 09 Jan 2022 10:07:29 GMT" type="outline">
-					<outline text="&lt;b&gt;Rick Dangerous&lt;/b&gt; - A very difficult platforming classic as a 32 color edition for the Amiga 600/1200/CD32 gets a new tease" created="Sun, 09 Jan 2022 10:07:58 GMT" type="link" url="https://www.indieretronews.com/2022/01/rick-dangerous-very-difficult.html?m=1"/>
-					<outline text="&lt;b&gt;Tiny Life&lt;/b&gt; is an upcoming pixel-art take on experiences like The Sims" created="Sun, 09 Jan 2022 10:09:47 GMT" type="link" url="https://www.gamingonlinux.com/2022/01/tiny-life-is-an-upcoming-pixel-art-take-on-experiences-like-the-sims/"/>
 					<outline text="&lt;b&gt;The Pixel Art Revolution&lt;/b&gt; Will Be Televised. How retro blocks overtook 3D gaming to win the hearts of modern players." created="Sun, 09 Jan 2022 10:11:14 GMT" type="link" url="https://www.wired.com/story/modern-pixel-art-games/"/>
+					<outline text="&lt;b&gt;Rick Dangerous&lt;/b&gt; - A very difficult platforming classic as a 32 color edition for the Amiga 600/1200/CD32 gets a new tease" created="Sun, 09 Jan 2022 10:07:58 GMT" type="link" url="https://www.indieretronews.com/2022/01/rick-dangerous-very-difficult.html?m=1"/>
+					<outline text="&lt;b&gt;Moritz on the Autobahn&lt;/b&gt; – Moritz has arrived on the Amstrad CPC 128k!" created="Mon, 10 Jan 2022 12:33:42 GMT" type="link" url="https://www.indieretronews.com/2022/01/moritz-on-autobahn-moritz-has-arrived.html"/>
+					<outline text="&lt;b&gt;A recreation of Williams Defender 1981 arcade game&lt;/b&gt; for DE10-Lite FPGA dev board, written in VHDL" created="Mon, 10 Jan 2022 12:35:47 GMT" type="link" url="https://github.com/w3arycod3r/fpga-defender"/>
+					<outline text="&lt;b&gt;Adventure-Game&lt;/b&gt;: »Cleo – A Pirate's Tale« mit Schatzsuche" created="Mon, 10 Jan 2022 12:37:23 GMT" type="link" url="https://www.deutschlandfunknova.de/beitrag/adventure-game-cleo-a-pirates-tale-mit-schatzsuche"/>
+					<outline text="&lt;b&gt;Tiny Life&lt;/b&gt; is an upcoming pixel-art take on experiences like The Sims" created="Sun, 09 Jan 2022 10:09:47 GMT" type="link" url="https://www.gamingonlinux.com/2022/01/tiny-life-is-an-upcoming-pixel-art-take-on-experiences-like-the-sims/"/>
+					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt; Forest Tileset_16x16 | OpenGameArt.org" created="Mon, 10 Jan 2022 12:29:14 GMT" type="link" url="https://opengameart.org/content/forest-tileset16x16"/>
 					</outline>
 				</outline>
 			<outline text="January 8" created="Sat, 08 Jan 2022 10:21:50 GMT" type="calendarDay" name="08">
