@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Tue, 11 Jan 2022 13:04:56 GMT</dateModified>
+		<dateModified>Tue, 11 Jan 2022 16:41:07 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,6,9,10,19,20,25,27,29,33,34,41,42,44,50</expansionState>
-		<lastCursor>0</lastCursor>
+		<expansionState>1,4,5,14,15,20,22,24,28,29,36,37,39,45</expansionState>
+		<lastCursor>1</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,13 +19,10 @@
 		<outline text="&lt;b&gt;January 2022&lt;/b&gt;" created="Sat, 08 Jan 2022 10:21:49 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 11" created="Tue, 11 Jan 2022 12:44:57 GMT" type="calendarDay" name="11">
 				<outline text="&lt;b&gt;MyST for Markdown&lt;/b&gt;: Static Sites with Sphinx and Markdown" created="Mon, 10 Jan 2022 12:31:55 GMT" type="link" url="https://training.talkpython.fm/courses/static-sites-with-sphinx-and-markdown">
-					<outline text="Get started with MyST in Sphinx
-" created="Tue, 11 Jan 2022 12:38:27 GMT" type="link" url="https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html"/>
+					<outline text="Get started with MyST in Sphinx " created="Tue, 11 Jan 2022 12:38:27 GMT" type="link" url="https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html"/>
 					<outline text="MyST Home" created="Tue, 11 Jan 2022 12:36:50 GMT" type="link" url="https://myst-parser.readthedocs.io/en/latest/index.html"/>
-					<outline text="MyST Syntax Reference
-" created="Tue, 11 Jan 2022 12:39:11 GMT" type="link" url="https://www.sphinx-doc.org/en/master/usage/markdown.html">
-						<outline text="Optional MyST Syntaxes
-" created="Tue, 11 Jan 2022 12:44:16 GMT" type="link" url="https://myst-parser.readthedocs.io/en/latest/syntax/optional.html"/>
+					<outline text="MyST Syntax Reference " created="Tue, 11 Jan 2022 12:39:11 GMT" type="link" url="https://www.sphinx-doc.org/en/master/usage/markdown.html">
+						<outline text="Optional MyST Syntaxes " created="Tue, 11 Jan 2022 12:44:16 GMT" type="link" url="https://myst-parser.readthedocs.io/en/latest/syntax/optional.html"/>
 						</outline>
 					</outline>
 				</outline>
