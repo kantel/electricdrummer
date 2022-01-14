@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 14 Jan 2022 07:32:35 GMT</dateModified>
+		<dateModified>Fri, 14 Jan 2022 15:28:41 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,6,9,10,11,16,17,20,23,24,33,34,39,41,43,48,49,56</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,5,9,10,13,14,15,20,21,24,27,28,37,38,43,45,47,52,53,60</expansionState>
+		<lastCursor>10</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -19,6 +19,11 @@
 		<outline text="January 2022" created="Thu, 13 Jan 2022 07:35:30 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 14" created="Fri, 14 Jan 2022 07:30:36 GMT" type="calendarDay" name="14">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 14 Jan 2022 07:30:37 GMT" type="outline">
+					<outline text="&lt;b&gt;Visualisierung mit Python und D3.js&lt;/b&gt;: Build interactive charts with Flask and D3.js" created="Fri, 14 Jan 2022 15:18:14 GMT" type="link" url="https://blog.logrocket.com/build-interactive-charts-flask-d3js/"/>
+					<outline text="&lt;b&gt;Progressive Web App&lt;/b&gt;: Turning a GitHub page into a Progressive Web App" created="Fri, 14 Jan 2022 15:20:41 GMT" type="link" url="https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/">
+						<outline text="&lt;b&gt;Was ist eine Progressive Web App?&lt;/b&gt; Eine Progressive Web App (PWA) ist eine Website, die zahlreiche Merkmale besitzt, die bislang nativen Apps vorbehalten waren." created="Fri, 14 Jan 2022 15:22:46 GMT" type="link" url="https://de.wikipedia.org/wiki/Progressive_Web_App"/>
+						</outline>
+					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: Reinforcement learning for the real world" created="Fri, 14 Jan 2022 15:25:32 GMT" type="link" url="https://bdtechtalks.com/2022/01/06/real-world-reinforcement-learning/"/>
 					<outline text="&lt;b&gt;Wissenschaft für Dummys&lt;/b&gt;: Broaden your scientific audience with video animation" created="Fri, 14 Jan 2022 07:31:01 GMT" type="link" url="https://www.nature.com/articles/d41586-022-00045-2"/>
 					</outline>
 				</outline>
