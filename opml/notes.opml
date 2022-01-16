@@ -3,20 +3,27 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sat, 15 Jan 2022 17:05:52 GMT</dateModified>
+		<dateModified>Sun, 16 Jan 2022 13:10:02 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,9,10,13,14,15,22,25,26,35,36,41,43,45,50,51,58</expansionState>
-		<lastCursor>20</lastCursor>
+		<expansionState>1,2,3,7,8,10,15,16,17,24,27,28,37,38,44,46,48,53,54,61</expansionState>
+		<lastCursor>13</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="January 2022" created="Thu, 13 Jan 2022 07:35:30 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 16" created="Sun, 16 Jan 2022 11:49:13 GMT" type="calendarDay" name="16">
+				<outline text="&lt;b&gt;Was ist Micropub?&lt;/b&gt;" created="Sun, 16 Jan 2022 11:49:14 GMT" type="outline">
+					<outline text="&lt;i&gt;Ton Zijlstra&lt;/i&gt;: Writing A Personal Micropub Client " created="Sun, 16 Jan 2022 11:49:45 GMT" type="link" url="https://www.zylstra.org/blog/2022/01/writing-a-personal-micropub-client/"/>
+					<outline text="&lt;b&gt;Was ist Micropub?&lt;/b&gt; Micropub is an open API standard (W3C Recommendation) for creating, editing, and deleting posts on websites, like on your own domain, supported by numerous third-party clients, CMSs, and social readers. &lt;i&gt;(indieweb.org)&lt;/i&gt;" created="Sun, 16 Jan 2022 11:52:16 GMT" type="link" url="https://indieweb.org/Micropub"/>
+					<outline text="&lt;b&gt;Micropub (MP)&lt;/b&gt; ist eine W3C-Empfehlung, die ein auf HTTP basierendes Client-Server-Protokoll zum Erstellen, Aktualisieren und Löschen von Posts auf Servern mithilfe von Web- oder nativen App-Clients beschreibt. Micropub wurde ursprünglich in der IndieWebCamp-Community entwickelt, zu W3C beigetragen und seit dem 23. Mai 2017 offizielle W3C-Empfehlung. &lt;i&gt;(Wikipedia)&lt;/i&gt;" created="Sun, 16 Jan 2022 11:53:44 GMT" type="link" url="https://en.wikipedia.org/wiki/Micropub_(protocol)"/>
+					</outline>
+				</outline>
 			<outline text="January 14" created="Fri, 14 Jan 2022 07:30:36 GMT" type="calendarDay" name="14">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 14 Jan 2022 07:30:37 GMT" type="outline">
 					<outline text="&lt;b&gt;Visualisierung mit Python und D3.js&lt;/b&gt;: Build interactive charts with Flask and D3.js" created="Fri, 14 Jan 2022 15:18:14 GMT" type="link" url="https://blog.logrocket.com/build-interactive-charts-flask-d3js/"/>
@@ -30,6 +37,9 @@
 			<outline text="January 13" created="Thu, 13 Jan 2022 07:35:31 GMT" type="calendarDay" name="13">
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 13 Jan 2022 07:35:32 GMT" type="outline">
 					<outline text="&lt;b&gt;Für alle, die Probleme mit dem Lötkolben haben&lt;/b&gt;: Online-Simulator für Arduino, Raspi Pico und ESP32" created="Thu, 13 Jan 2022 07:35:56 GMT" type="link" url="https://www.heise.de/news/Online-Simulator-fuer-Arduino-Raspi-Pico-und-ESP32-6324290.html"/>
+					<outline text="Some data entry for ESP32 Pretty Pins « Adafruit Industries – &lt;b&gt;Makers, hackers, artists, designers and engineers&lt;/b&gt;!" created="Sun, 16 Jan 2022 11:35:46 GMT" type="link" url="https://blog.adafruit.com/2022/01/08/some-data-entry-for-esp32-pretty-pins/">
+						<outline text="&lt;b&gt;Pretty Pins&lt;/b&gt; @ GitHub" created="Sun, 16 Jan 2022 11:37:53 GMT" type="link" url="https://github.com/adafruit/PrettyPins"/>
+						</outline>
 					</outline>
 				<outline text="&lt;b&gt;Sphinx und Markdown ii&lt;/b&gt;: Document Your Scientific Project With Markdown, Sphinx, and Read the Docs (Video, PyData Global 2021)  √" created="Thu, 13 Jan 2022 08:15:11 GMT" type="link" url="https://www.youtube.com/watch?v=qRSb299awB0">
 					<outline text="&lt;b&gt;Lorent, Jakob August&lt;/b&gt;: Das Niltal. Die Sphinx, Ägypten " created="Thu, 13 Jan 2022 08:32:12 GMT" type="link" url="http://www.zeno.org/Fotografien/B/Lorent,+Jakob+August%3A+Das+Niltal.+Die+Sphinx,+%C3%84gypten"/>
@@ -86,6 +96,7 @@
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Sat, 08 Jan 2022 10:21:51 GMT" type="outline">
 					<outline text="&lt;b&gt;Bilder freistellen&lt;/b&gt;: A Beginner’s Guide to Image Matting in Python" created="Sat, 08 Jan 2022 10:22:19 GMT" type="link" url="https://analyticsindiamag.com/a-beginners-guide-to-image-matting-in-python/"/>
 					<outline text="&lt;b&gt;Create Animated Maps with Folium&lt;/b&gt;: A tutorial on how to create time series maps by animating marker placement with Python and Folium. " created="Sat, 08 Jan 2022 10:25:22 GMT" type="link" url="https://medium.com/@mcmanus_data_works/create-animated-maps-with-folium-e122b5e99afb"/>
+					<outline text="&lt;b&gt;Python und Folium ii&lt;/b&gt;: Interactive Choropleth map in Python using Folium (Medium-Link). " created="Sun, 16 Jan 2022 11:42:15 GMT" type="link" url="https://medium.com/analytics-vidhya/interactive-choropleth-map-in-python-using-folium-4e1479d9e568"/>
 					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt; Ach ja, Airlines weigern sich, »idiotische« Influencer heim zu fliegen. Und womit? Mit Recht! " created="Sat, 08 Jan 2022 11:09:24 GMT" type="link" url="https://futurezone.at/digital-life/influencer-party-flugzeug-kanada-mexiko-cancun-corona-james-william-awad/401865095"/>
 					</outline>
 				</outline>
