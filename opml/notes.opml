@@ -3,20 +3,33 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Sun, 16 Jan 2022 13:10:02 GMT</dateModified>
+		<dateModified>Mon, 17 Jan 2022 07:56:15 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,8,10,15,16,17,24,27,28,37,38,44,46,48,53,54,61</expansionState>
-		<lastCursor>13</lastCursor>
+		<expansionState>1,2,3,7,12,13,17,18,20,24,25,26,33,36,37,46,47,53,55,57,62,63,70</expansionState>
+		<lastCursor>0</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
-		<outline text="January 2022" created="Thu, 13 Jan 2022 07:35:30 GMT" name="january2022" type="calendarMonth">
+		<outline text="&lt;b&gt;January 2022&lt;/b&gt;" created="Thu, 13 Jan 2022 07:35:30 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 17" created="Mon, 17 Jan 2022 07:44:34 GMT" type="calendarDay" name="17">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Mon, 17 Jan 2022 07:44:35 GMT" type="outline">
+					<outline text="&lt;b&gt;digiKam&lt;/b&gt; – digiKam 7.5.0 is released" created="Mon, 17 Jan 2022 07:44:56 GMT" type="link" url="https://www.digikam.org/news/2022-01-16-7.5.0_release_announcement/"/>
+					<outline text="&lt;b&gt;Retrogaming&lt;/b&gt;: Remembering The Ugliest Pokemon Gen 1 Sprites" created="Mon, 17 Jan 2022 07:46:47 GMT" type="link" url="https://www.thegamer.com/pokemon-gen-1-ugliest-sprites/"/>
+					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt; Chrome OS statt Windows – eine Hotelkette zieht die Reißleine nach Ransomware-Angriff" created="Mon, 17 Jan 2022 07:48:25 GMT" type="link" url="https://www.notebookcheck.com/Chrome-OS-statt-Windows-eine-Hotelkette-zieht-die-Reissleine-nach-Ransomware-Angriff.593206.0.html"/>
+					</outline>
+				<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;" created="Mon, 17 Jan 2022 07:49:43 GMT" type="outline">
+					<outline text="A beginner’s guide to Knowledge Distillation in Deep Learning" created="Mon, 17 Jan 2022 07:50:31 GMT" type="link" url="https://analyticsindiamag.com/a-beginners-guide-to-knowledge-distillation-in-deep-learning/"/>
+					<outline text="&lt;b&gt;Wir sind die Roboter&lt;/b&gt;: A new framework that could simplify imitation learning in robotics" created="Mon, 17 Jan 2022 07:51:22 GMT" type="link" url="https://techxplore.com/news/2022-01-framework-imitation-robotics.html"/>
+					<outline text="&lt;b&gt;Individual artificial intelligence&lt;/b&gt;: A new technology that will change our world" created="Mon, 17 Jan 2022 07:53:00 GMT" type="link" url="https://bdtechtalks.com/2022/01/04/individual-artificial-intelligence/"/>
+					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: Reinforcement learning for the real world" created="Fri, 14 Jan 2022 15:25:32 GMT" type="link" url="https://bdtechtalks.com/2022/01/06/real-world-reinforcement-learning/"/>
+					</outline>
+				</outline>
 			<outline text="January 16" created="Sun, 16 Jan 2022 11:49:13 GMT" type="calendarDay" name="16">
 				<outline text="&lt;b&gt;Was ist Micropub?&lt;/b&gt;" created="Sun, 16 Jan 2022 11:49:14 GMT" type="outline">
 					<outline text="&lt;i&gt;Ton Zijlstra&lt;/i&gt;: Writing A Personal Micropub Client " created="Sun, 16 Jan 2022 11:49:45 GMT" type="link" url="https://www.zylstra.org/blog/2022/01/writing-a-personal-micropub-client/"/>
@@ -30,7 +43,6 @@
 					<outline text="&lt;b&gt;Progressive Web App&lt;/b&gt;: Turning a GitHub page into a Progressive Web App" created="Fri, 14 Jan 2022 15:20:41 GMT" type="link" url="https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/">
 						<outline text="&lt;b&gt;Was ist eine Progressive Web App?&lt;/b&gt; Eine Progressive Web App (PWA) ist eine Website, die zahlreiche Merkmale besitzt, die bislang nativen Apps vorbehalten waren." created="Fri, 14 Jan 2022 15:22:46 GMT" type="link" url="https://de.wikipedia.org/wiki/Progressive_Web_App"/>
 						</outline>
-					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: Reinforcement learning for the real world" created="Fri, 14 Jan 2022 15:25:32 GMT" type="link" url="https://bdtechtalks.com/2022/01/06/real-world-reinforcement-learning/"/>
 					<outline text="&lt;b&gt;Wissenschaft für Dummys&lt;/b&gt;: Broaden your scientific audience with video animation" created="Fri, 14 Jan 2022 07:31:01 GMT" type="link" url="https://www.nature.com/articles/d41586-022-00045-2"/>
 					</outline>
 				</outline>
