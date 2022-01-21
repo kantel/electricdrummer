@@ -3,14 +3,14 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Fri, 21 Jan 2022 08:38:31 GMT</dateModified>
+		<dateModified>Fri, 21 Jan 2022 18:13:42 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,7,11,15,16,19,22,23,25,26,27,31,36,37,41,42,44,48,49,50,57,60,61,70,71,77,79,81,87,88,95,96,98</expansionState>
-		<lastCursor>8</lastCursor>
+		<expansionState>1,2,4,7,12,13,15,16,17,21,28,29,33,34,36,40,41,42,49,52,53,62,63,69,71,73,79,80,87,88,90</expansionState>
+		<lastCursor>9</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
@@ -18,15 +18,13 @@
 	<body>
 		<outline text="January 2022" created="Wed, 19 Jan 2022 16:36:49 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 21" created="Fri, 21 Jan 2022 07:41:27 GMT" type="calendarDay" name="21">
+				<outline text="&lt;b&gt;Gaming in Python&lt;/b&gt;: PyGame vs Arcade vs PyGame Zero – ein Schwanzvergleich (and the Winner is PyGame Zero)" created="Fri, 21 Jan 2022 08:20:38 GMT" type="link" url="https://new.pythonforengineers.com/blog/gaming-in-python-pygame-vs-arcade-vs-pygame-zero/">
+					<outline text="&lt;b&gt;Your First Game in Python&lt;/b&gt;: Create an Arkanoid Clone in less than 30 minutes " created="Fri, 21 Jan 2022 08:34:55 GMT" type="link" url="https://new.pythonforengineers.com/blog/your-first-game-in-python-in-less-than-30-minutes/"/>
+					<outline text="&lt;b&gt;Zombies vs Tanks&lt;/b&gt;: A Simple game in Python and Pygame Zero " created="Fri, 21 Jan 2022 08:37:02 GMT" type="link" url="https://new.pythonforengineers.com/blog/zombies-vs-tanks-a-simple-game-in-python-and-pygame-zero/"/>
+					</outline>
 				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 21 Jan 2022 08:08:20 GMT" type="outline">
-					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: How to Visualize Backpropagation in Neural Networks? Visualizing backpropagation algorithms can help us in understanding its procedure in neural network." created="Fri, 21 Jan 2022 08:08:58 GMT" type="link" url="https://analyticsindiamag.com/how-to-visualize-backpropagation-in-neural-networks/"/>
 					<outline text="&lt;b&gt;Der RasPi in der Wolke&lt;/b&gt;: Nextcloud auf dem Raspberry Pi – NextCloudPi Teil1" created="Fri, 21 Jan 2022 08:11:05 GMT" type="link" url="https://www.kuketz-blog.de/nextcloud-auf-dem-raspberry-pi-nextcloudpi-teil1/"/>
 					<outline text="&lt;b&gt;Schlangenfraß&lt;/b&gt;: Cool Python libraries I want to try in 2022" created="Fri, 21 Jan 2022 08:16:06 GMT" type="link" url="https://new.pythonforengineers.com/blog/cool-python-libraries-i-want-to-try-in-2022/"/>
-					<outline text="&lt;b&gt;Gaming in Python&lt;/b&gt;: PyGame vs Arcade vs PyGame Zero – ein Schwanzvergleich (and the Winner is PyGame Zero)" created="Fri, 21 Jan 2022 08:20:38 GMT" type="link" url="https://new.pythonforengineers.com/blog/gaming-in-python-pygame-vs-arcade-vs-pygame-zero/">
-						<outline text="&lt;b&gt;Your First Game in Python&lt;/b&gt;: Create an Arkanoid Clone in less than 30 minutes " created="Fri, 21 Jan 2022 08:34:55 GMT" type="link" url="https://new.pythonforengineers.com/blog/your-first-game-in-python-in-less-than-30-minutes/"/>
-						<outline text="&lt;b&gt;Zombies vs Tanks&lt;/b&gt;: A Simple game in Python and Pygame Zero " created="Fri, 21 Jan 2022 08:37:02 GMT" type="link" url="https://new.pythonforengineers.com/blog/zombies-vs-tanks-a-simple-game-in-python-and-pygame-zero/"/>
-						</outline>
-					<outline text="&lt;b&gt;Gaming und KI&lt;/b&gt;: Iconary: A pictionary-like game to improve the communication skills of AI agents" created="Fri, 21 Jan 2022 08:21:14 GMT" type="link" url="https://techxplore.com/news/2022-01-iconary-pictionary-like-game-skills-ai.html"/>
 					</outline>
 				<outline text="&lt;b&gt;Wochenendprogramm 1: Streamlit testen&lt;/b&gt;" created="Wed, 19 Jan 2022 16:36:51 GMT" type="outline">
 					<outline text="&lt;b&gt;Streamlit for Data Science&lt;/b&gt;: How to master Streamlit for data science. The essential Streamlit for all your data science needs." created="Wed, 19 Jan 2022 16:42:37 GMT" type="link" url="https://blog.streamlit.io/how-to-master-streamlit-for-data-science/"/>
@@ -58,7 +56,9 @@
 					<outline text="&lt;b&gt;War sonst noch was?&lt;/b&gt; Chrome OS statt Windows – eine Hotelkette zieht die Reißleine nach Ransomware-Angriff" created="Mon, 17 Jan 2022 07:48:25 GMT" type="link" url="https://www.notebookcheck.com/Chrome-OS-statt-Windows-eine-Hotelkette-zieht-die-Reissleine-nach-Ransomware-Angriff.593206.0.html"/>
 					</outline>
 				<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;" created="Mon, 17 Jan 2022 07:49:43 GMT" type="outline">
+					<outline text="&lt;b&gt;Gaming und KI&lt;/b&gt;: Iconary: A pictionary-like game to improve the communication skills of AI agents" created="Fri, 21 Jan 2022 08:21:14 GMT" type="link" url="https://techxplore.com/news/2022-01-iconary-pictionary-like-game-skills-ai.html"/>
 					<outline text="A beginner’s guide to Knowledge Distillation in Deep Learning" created="Mon, 17 Jan 2022 07:50:31 GMT" type="link" url="https://analyticsindiamag.com/a-beginners-guide-to-knowledge-distillation-in-deep-learning/"/>
+					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: How to Visualize Backpropagation in Neural Networks? Visualizing backpropagation algorithms can help us in understanding its procedure in neural network." created="Fri, 21 Jan 2022 08:08:58 GMT" type="link" url="https://analyticsindiamag.com/how-to-visualize-backpropagation-in-neural-networks/"/>
 					<outline text="&lt;b&gt;Wir sind die Roboter&lt;/b&gt;: A new framework that could simplify imitation learning in robotics" created="Mon, 17 Jan 2022 07:51:22 GMT" type="link" url="https://techxplore.com/news/2022-01-framework-imitation-robotics.html"/>
 					<outline text="&lt;b&gt;Individual artificial intelligence&lt;/b&gt;: A new technology that will change our world" created="Mon, 17 Jan 2022 07:53:00 GMT" type="link" url="https://bdtechtalks.com/2022/01/04/individual-artificial-intelligence/"/>
 					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: Reinforcement learning for the real world" created="Fri, 14 Jan 2022 15:25:32 GMT" type="link" url="https://bdtechtalks.com/2022/01/06/real-world-reinforcement-learning/"/>
