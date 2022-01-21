@@ -3,30 +3,50 @@
 	<head>
 		<title>notes.opml</title>
 		<dateCreated>Sat, 16 Oct 2021 18:19:49 GMT</dateCreated>
-		<dateModified>Thu, 20 Jan 2022 07:46:42 GMT</dateModified>
+		<dateModified>Fri, 21 Jan 2022 08:38:31 GMT</dateModified>
 		<ownerTwitterScreenName>jkantel</ownerTwitterScreenName>
 		<ownerName>Jörg Kantel</ownerName>
 		<ownerId>http://twitter.com/jkantel</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<ownerEmail>joerg@kantel.de</ownerEmail>
-		<expansionState>1,2,3,5,6,10,11,12,16,21,22,26,27,29,33,34,35,42,45,46,55,56,62,64,66,72,73,80,81,83</expansionState>
-		<lastCursor>3</lastCursor>
+		<expansionState>1,2,3,7,11,15,16,19,22,23,25,26,27,31,36,37,41,42,44,48,49,50,57,60,61,70,71,77,79,81,87,88,95,96,98</expansionState>
+		<lastCursor>8</lastCursor>
 		<urlPublic>http://drummer.scripting.com/jkantel/notes.opml</urlPublic>
 		<urlJson>http://drummer.scripting.com/jkantel/notes.json</urlJson>
 		<flPublic>true</flPublic>
 		</head>
 	<body>
 		<outline text="January 2022" created="Wed, 19 Jan 2022 16:36:49 GMT" name="january2022" type="calendarMonth">
-			<outline text="January 20" created="Thu, 20 Jan 2022 07:45:02 GMT" type="calendarDay" name="20">
-				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 20 Jan 2022 07:45:03 GMT" type="outline">
-					<outline text="&lt;b&gt;Data Visualization&lt;/b&gt; Using Chart.js and Gatsby" created="Thu, 20 Jan 2022 07:45:28 GMT" type="link" url="https://hackernoon.com/data-visualization-using-chartjs-and-gatsby"/>
+			<outline text="January 21" created="Fri, 21 Jan 2022 07:41:27 GMT" type="calendarDay" name="21">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Fri, 21 Jan 2022 08:08:20 GMT" type="outline">
+					<outline text="&lt;b&gt;Künstliche Intelligenz&lt;/b&gt;: How to Visualize Backpropagation in Neural Networks? Visualizing backpropagation algorithms can help us in understanding its procedure in neural network." created="Fri, 21 Jan 2022 08:08:58 GMT" type="link" url="https://analyticsindiamag.com/how-to-visualize-backpropagation-in-neural-networks/"/>
+					<outline text="&lt;b&gt;Der RasPi in der Wolke&lt;/b&gt;: Nextcloud auf dem Raspberry Pi – NextCloudPi Teil1" created="Fri, 21 Jan 2022 08:11:05 GMT" type="link" url="https://www.kuketz-blog.de/nextcloud-auf-dem-raspberry-pi-nextcloudpi-teil1/"/>
+					<outline text="&lt;b&gt;Schlangenfraß&lt;/b&gt;: Cool Python libraries I want to try in 2022" created="Fri, 21 Jan 2022 08:16:06 GMT" type="link" url="https://new.pythonforengineers.com/blog/cool-python-libraries-i-want-to-try-in-2022/"/>
+					<outline text="&lt;b&gt;Gaming in Python&lt;/b&gt;: PyGame vs Arcade vs PyGame Zero – ein Schwanzvergleich (and the Winner is PyGame Zero)" created="Fri, 21 Jan 2022 08:20:38 GMT" type="link" url="https://new.pythonforengineers.com/blog/gaming-in-python-pygame-vs-arcade-vs-pygame-zero/">
+						<outline text="&lt;b&gt;Your First Game in Python&lt;/b&gt;: Create an Arkanoid Clone in less than 30 minutes " created="Fri, 21 Jan 2022 08:34:55 GMT" type="link" url="https://new.pythonforengineers.com/blog/your-first-game-in-python-in-less-than-30-minutes/"/>
+						<outline text="&lt;b&gt;Zombies vs Tanks&lt;/b&gt;: A Simple game in Python and Pygame Zero " created="Fri, 21 Jan 2022 08:37:02 GMT" type="link" url="https://new.pythonforengineers.com/blog/zombies-vs-tanks-a-simple-game-in-python-and-pygame-zero/"/>
+						</outline>
+					<outline text="&lt;b&gt;Gaming und KI&lt;/b&gt;: Iconary: A pictionary-like game to improve the communication skills of AI agents" created="Fri, 21 Jan 2022 08:21:14 GMT" type="link" url="https://techxplore.com/news/2022-01-iconary-pictionary-like-game-skills-ai.html"/>
 					</outline>
-				</outline>
-			<outline text="January 19" created="Wed, 19 Jan 2022 16:36:50 GMT" type="calendarDay" name="19">
-				<outline text="&lt;b&gt;Streamlit&lt;/b&gt;" created="Wed, 19 Jan 2022 16:36:51 GMT" type="outline">
+				<outline text="&lt;b&gt;Wochenendprogramm 1: Streamlit testen&lt;/b&gt;" created="Wed, 19 Jan 2022 16:36:51 GMT" type="outline">
 					<outline text="&lt;b&gt;Streamlit for Data Science&lt;/b&gt;: How to master Streamlit for data science. The essential Streamlit for all your data science needs." created="Wed, 19 Jan 2022 16:42:37 GMT" type="link" url="https://blog.streamlit.io/how-to-master-streamlit-for-data-science/"/>
 					<outline text="&lt;b&gt;Introducing Streamlit Cloud!&lt;/b&gt; Streamlit is the most powerful way to write apps. Streamlit Cloud is the fastest way to share them. " created="Wed, 19 Jan 2022 16:55:25 GMT" type="link" url="https://blog.streamlit.io/introducing-streamlit-cloud/"/>
 					<outline text="Erste Streamlit-Erwähnung im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Wed, 19 Jan 2022 16:43:43 GMT" type="link" url="http://blog.schockwellenreiter.de/2022/01/2022011001.html"/>
+					</outline>
+				<outline text="&lt;b&gt;Wochenendprogramm 2: Auf dem Weg zur World Markdown&lt;/b&gt;" created="Fri, 21 Jan 2022 07:41:28 GMT" type="outline">
+					<outline text="&lt;b&gt;2.1&lt;/b&gt;: Bangle.io testen" created="Fri, 21 Jan 2022 07:42:37 GMT">
+						<outline text="Bangle.io Home" created="Fri, 21 Jan 2022 07:43:51 GMT" type="link" url="https://bangle.io/"/>
+						<outline text="Bangle.io im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Fri, 21 Jan 2022 07:45:30 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/12/2021122502.html"/>
+						</outline>
+					<outline text="&lt;b&gt;2.2&lt;/b&gt;: Milkdown testen" created="Fri, 21 Jan 2022 07:48:15 GMT">
+						<outline text="Milkdown Home" created="Fri, 21 Jan 2022 07:56:53 GMT" type="link" url="https://milkdown.dev/"/>
+						<outline text="Milkdown im &lt;i&gt;Schockwellenreiter&lt;/i&gt;" created="Fri, 21 Jan 2022 07:57:46 GMT" type="link" url="http://blog.schockwellenreiter.de/2021/12/2021122402.html"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="January 20" created="Thu, 20 Jan 2022 07:45:02 GMT" type="calendarDay" name="20">
+				<outline text="&lt;b&gt;Trommelwirbel&lt;/b&gt;" created="Thu, 20 Jan 2022 07:45:03 GMT" type="outline">
+					<outline text="&lt;b&gt;Data Visualization&lt;/b&gt; Using Chart.js and Gatsby" created="Thu, 20 Jan 2022 07:45:28 GMT" type="link" url="https://hackernoon.com/data-visualization-using-chartjs-and-gatsby"/>
 					</outline>
 				</outline>
 			</outline>
